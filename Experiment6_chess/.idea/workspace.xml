@@ -24,39 +24,37 @@
       <file leaf-file-name="Mychess.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Mychess.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="130">
-              <caret line="88" column="50" lean-forward="true" selection-start-line="88" selection-start-column="50" selection-end-line="88" selection-end-column="50" />
+            <state relative-caret-position="52">
+              <caret line="9" column="29" lean-forward="false" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#585#591#0" expanded="true" />
-                <element signature="method#initial#0;class#Mychess#0" expanded="false" />
                 <element signature="method#judgeWin#0;class#Mychess#0" expanded="false" />
-                <element signature="method#mouseClicked#0;class#4382:7610" expanded="false" />
-                <element signature="method#mouseReleased#0;class#4382:7610" expanded="false" />
-                <element signature="method#mouseEntered#0;class#4382:7610" expanded="false" />
-                <element signature="method#mouseExited#0;class#4382:7610" expanded="false" />
-                <element signature="class#7933:8505" expanded="false" />
-                <element signature="method#mouseClicked#0;class#7933:8505" expanded="false" />
-                <element signature="method#mouseReleased#0;class#7933:8505" expanded="false" />
-                <element signature="method#mouseEntered#0;class#7933:8505" expanded="false" />
-                <element signature="method#mouseExited#0;class#7933:8505" expanded="false" />
-                <element signature="class#8724:9666" expanded="false" />
-                <element signature="method#mouseClicked#0;class#8724:9666" expanded="false" />
-                <element signature="method#mousePressed#0;class#8724:9666" expanded="false" />
-                <element signature="method#mouseReleased#0;class#8724:9666" expanded="false" />
-                <element signature="method#mouseEntered#0;class#8724:9666" expanded="false" />
-                <element signature="method#mouseExited#0;class#8724:9666" expanded="false" />
-                <element signature="class#9900:10455" expanded="false" />
-                <element signature="method#mouseClicked#0;class#9900:10455" expanded="false" />
-                <element signature="method#mouseReleased#0;class#9900:10455" expanded="false" />
-                <element signature="method#mouseEntered#0;class#9900:10455" expanded="false" />
-                <element signature="method#mouseExited#0;class#9900:10455" expanded="false" />
-                <element signature="class#10671:11218" expanded="false" />
-                <element signature="method#mouseClicked#0;class#10671:11218" expanded="false" />
-                <element signature="method#mousePressed#0;class#10671:11218" expanded="false" />
-                <element signature="method#mouseReleased#0;class#10671:11218" expanded="false" />
-                <element signature="method#mouseEntered#0;class#10671:11218" expanded="false" />
-                <element signature="method#mouseExited#0;class#10671:11218" expanded="false" />
+                <element signature="method#mouseClicked#0;class#4400:7628" expanded="false" />
+                <element signature="method#mouseReleased#0;class#4400:7628" expanded="false" />
+                <element signature="method#mouseEntered#0;class#4400:7628" expanded="false" />
+                <element signature="method#mouseExited#0;class#4400:7628" expanded="false" />
+                <element signature="class#7951:8523" expanded="false" />
+                <element signature="method#mouseClicked#0;class#7951:8523" expanded="false" />
+                <element signature="method#mouseReleased#0;class#7951:8523" expanded="false" />
+                <element signature="method#mouseEntered#0;class#7951:8523" expanded="false" />
+                <element signature="method#mouseExited#0;class#7951:8523" expanded="false" />
+                <element signature="class#8742:9684" expanded="false" />
+                <element signature="method#mouseClicked#0;class#8742:9684" expanded="false" />
+                <element signature="method#mousePressed#0;class#8742:9684" expanded="false" />
+                <element signature="method#mouseReleased#0;class#8742:9684" expanded="false" />
+                <element signature="method#mouseEntered#0;class#8742:9684" expanded="false" />
+                <element signature="method#mouseExited#0;class#8742:9684" expanded="false" />
+                <element signature="class#9918:10473" expanded="false" />
+                <element signature="method#mouseClicked#0;class#9918:10473" expanded="false" />
+                <element signature="method#mouseReleased#0;class#9918:10473" expanded="false" />
+                <element signature="method#mouseEntered#0;class#9918:10473" expanded="false" />
+                <element signature="method#mouseExited#0;class#9918:10473" expanded="false" />
+                <element signature="class#10689:11236" expanded="false" />
+                <element signature="method#mouseClicked#0;class#10689:11236" expanded="false" />
+                <element signature="method#mousePressed#0;class#10689:11236" expanded="false" />
+                <element signature="method#mouseReleased#0;class#10689:11236" expanded="false" />
+                <element signature="method#mouseEntered#0;class#10689:11236" expanded="false" />
+                <element signature="method#mouseExited#0;class#10689:11236" expanded="false" />
                 <element signature="method#main#0;class#Mychess#0" expanded="false" />
                 <element signature="class#axis#0" expanded="false" />
               </folding>
@@ -108,6 +106,7 @@
     </navigator>
     <panes>
       <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -150,7 +149,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -439,7 +437,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-16" y="0" width="1306" height="780" extended-state="0" />
+    <frame x="-16" y="0" width="1306" height="780" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -451,8 +449,8 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.29082426" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.29082426" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -462,8 +460,8 @@
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39813375" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39813375" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -477,7 +475,7 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="5" />
+      <option name="time" value="6" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -492,35 +490,33 @@
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#585#591#0" expanded="true" />
-            <element signature="method#initial#0;class#Mychess#0" expanded="false" />
             <element signature="method#judgeWin#0;class#Mychess#0" expanded="false" />
-            <element signature="method#mouseClicked#0;class#4382:7610" expanded="false" />
-            <element signature="method#mouseReleased#0;class#4382:7610" expanded="false" />
-            <element signature="method#mouseEntered#0;class#4382:7610" expanded="false" />
-            <element signature="method#mouseExited#0;class#4382:7610" expanded="false" />
-            <element signature="class#7933:8505" expanded="false" />
-            <element signature="method#mouseClicked#0;class#7933:8505" expanded="false" />
-            <element signature="method#mouseReleased#0;class#7933:8505" expanded="false" />
-            <element signature="method#mouseEntered#0;class#7933:8505" expanded="false" />
-            <element signature="method#mouseExited#0;class#7933:8505" expanded="false" />
-            <element signature="class#8724:9666" expanded="false" />
-            <element signature="method#mouseClicked#0;class#8724:9666" expanded="false" />
-            <element signature="method#mousePressed#0;class#8724:9666" expanded="false" />
-            <element signature="method#mouseReleased#0;class#8724:9666" expanded="false" />
-            <element signature="method#mouseEntered#0;class#8724:9666" expanded="false" />
-            <element signature="method#mouseExited#0;class#8724:9666" expanded="false" />
-            <element signature="class#9900:10455" expanded="false" />
-            <element signature="method#mouseClicked#0;class#9900:10455" expanded="false" />
-            <element signature="method#mouseReleased#0;class#9900:10455" expanded="false" />
-            <element signature="method#mouseEntered#0;class#9900:10455" expanded="false" />
-            <element signature="method#mouseExited#0;class#9900:10455" expanded="false" />
-            <element signature="class#10671:11218" expanded="false" />
-            <element signature="method#mouseClicked#0;class#10671:11218" expanded="false" />
-            <element signature="method#mousePressed#0;class#10671:11218" expanded="false" />
-            <element signature="method#mouseReleased#0;class#10671:11218" expanded="false" />
-            <element signature="method#mouseEntered#0;class#10671:11218" expanded="false" />
-            <element signature="method#mouseExited#0;class#10671:11218" expanded="false" />
+            <element signature="method#mouseClicked#0;class#4400:7628" expanded="false" />
+            <element signature="method#mouseReleased#0;class#4400:7628" expanded="false" />
+            <element signature="method#mouseEntered#0;class#4400:7628" expanded="false" />
+            <element signature="method#mouseExited#0;class#4400:7628" expanded="false" />
+            <element signature="class#7951:8523" expanded="false" />
+            <element signature="method#mouseClicked#0;class#7951:8523" expanded="false" />
+            <element signature="method#mouseReleased#0;class#7951:8523" expanded="false" />
+            <element signature="method#mouseEntered#0;class#7951:8523" expanded="false" />
+            <element signature="method#mouseExited#0;class#7951:8523" expanded="false" />
+            <element signature="class#8742:9684" expanded="false" />
+            <element signature="method#mouseClicked#0;class#8742:9684" expanded="false" />
+            <element signature="method#mousePressed#0;class#8742:9684" expanded="false" />
+            <element signature="method#mouseReleased#0;class#8742:9684" expanded="false" />
+            <element signature="method#mouseEntered#0;class#8742:9684" expanded="false" />
+            <element signature="method#mouseExited#0;class#8742:9684" expanded="false" />
+            <element signature="class#9918:10473" expanded="false" />
+            <element signature="method#mouseClicked#0;class#9918:10473" expanded="false" />
+            <element signature="method#mouseReleased#0;class#9918:10473" expanded="false" />
+            <element signature="method#mouseEntered#0;class#9918:10473" expanded="false" />
+            <element signature="method#mouseExited#0;class#9918:10473" expanded="false" />
+            <element signature="class#10689:11236" expanded="false" />
+            <element signature="method#mouseClicked#0;class#10689:11236" expanded="false" />
+            <element signature="method#mousePressed#0;class#10689:11236" expanded="false" />
+            <element signature="method#mouseReleased#0;class#10689:11236" expanded="false" />
+            <element signature="method#mouseEntered#0;class#10689:11236" expanded="false" />
+            <element signature="method#mouseExited#0;class#10689:11236" expanded="false" />
             <element signature="method#main#0;class#Mychess#0" expanded="false" />
             <element signature="class#axis#0" expanded="false" />
           </folding>
@@ -533,35 +529,33 @@
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#585#591#0" expanded="true" />
-            <element signature="method#initial#0;class#Mychess#0" expanded="false" />
             <element signature="method#judgeWin#0;class#Mychess#0" expanded="false" />
-            <element signature="method#mouseClicked#0;class#4382:7610" expanded="false" />
-            <element signature="method#mouseReleased#0;class#4382:7610" expanded="false" />
-            <element signature="method#mouseEntered#0;class#4382:7610" expanded="false" />
-            <element signature="method#mouseExited#0;class#4382:7610" expanded="false" />
-            <element signature="class#7933:8505" expanded="false" />
-            <element signature="method#mouseClicked#0;class#7933:8505" expanded="false" />
-            <element signature="method#mouseReleased#0;class#7933:8505" expanded="false" />
-            <element signature="method#mouseEntered#0;class#7933:8505" expanded="false" />
-            <element signature="method#mouseExited#0;class#7933:8505" expanded="false" />
-            <element signature="class#8724:9666" expanded="false" />
-            <element signature="method#mouseClicked#0;class#8724:9666" expanded="false" />
-            <element signature="method#mousePressed#0;class#8724:9666" expanded="false" />
-            <element signature="method#mouseReleased#0;class#8724:9666" expanded="false" />
-            <element signature="method#mouseEntered#0;class#8724:9666" expanded="false" />
-            <element signature="method#mouseExited#0;class#8724:9666" expanded="false" />
-            <element signature="class#9900:10455" expanded="false" />
-            <element signature="method#mouseClicked#0;class#9900:10455" expanded="false" />
-            <element signature="method#mouseReleased#0;class#9900:10455" expanded="false" />
-            <element signature="method#mouseEntered#0;class#9900:10455" expanded="false" />
-            <element signature="method#mouseExited#0;class#9900:10455" expanded="false" />
-            <element signature="class#10671:11218" expanded="false" />
-            <element signature="method#mouseClicked#0;class#10671:11218" expanded="false" />
-            <element signature="method#mousePressed#0;class#10671:11218" expanded="false" />
-            <element signature="method#mouseReleased#0;class#10671:11218" expanded="false" />
-            <element signature="method#mouseEntered#0;class#10671:11218" expanded="false" />
-            <element signature="method#mouseExited#0;class#10671:11218" expanded="false" />
+            <element signature="method#mouseClicked#0;class#4400:7628" expanded="false" />
+            <element signature="method#mouseReleased#0;class#4400:7628" expanded="false" />
+            <element signature="method#mouseEntered#0;class#4400:7628" expanded="false" />
+            <element signature="method#mouseExited#0;class#4400:7628" expanded="false" />
+            <element signature="class#7951:8523" expanded="false" />
+            <element signature="method#mouseClicked#0;class#7951:8523" expanded="false" />
+            <element signature="method#mouseReleased#0;class#7951:8523" expanded="false" />
+            <element signature="method#mouseEntered#0;class#7951:8523" expanded="false" />
+            <element signature="method#mouseExited#0;class#7951:8523" expanded="false" />
+            <element signature="class#8742:9684" expanded="false" />
+            <element signature="method#mouseClicked#0;class#8742:9684" expanded="false" />
+            <element signature="method#mousePressed#0;class#8742:9684" expanded="false" />
+            <element signature="method#mouseReleased#0;class#8742:9684" expanded="false" />
+            <element signature="method#mouseEntered#0;class#8742:9684" expanded="false" />
+            <element signature="method#mouseExited#0;class#8742:9684" expanded="false" />
+            <element signature="class#9918:10473" expanded="false" />
+            <element signature="method#mouseClicked#0;class#9918:10473" expanded="false" />
+            <element signature="method#mouseReleased#0;class#9918:10473" expanded="false" />
+            <element signature="method#mouseEntered#0;class#9918:10473" expanded="false" />
+            <element signature="method#mouseExited#0;class#9918:10473" expanded="false" />
+            <element signature="class#10689:11236" expanded="false" />
+            <element signature="method#mouseClicked#0;class#10689:11236" expanded="false" />
+            <element signature="method#mousePressed#0;class#10689:11236" expanded="false" />
+            <element signature="method#mouseReleased#0;class#10689:11236" expanded="false" />
+            <element signature="method#mouseEntered#0;class#10689:11236" expanded="false" />
+            <element signature="method#mouseExited#0;class#10689:11236" expanded="false" />
             <element signature="method#main#0;class#Mychess#0" expanded="false" />
             <element signature="class#axis#0" expanded="false" />
           </folding>
@@ -574,35 +568,33 @@
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#585#591#0" expanded="true" />
-            <element signature="method#initial#0;class#Mychess#0" expanded="false" />
             <element signature="method#judgeWin#0;class#Mychess#0" expanded="false" />
-            <element signature="method#mouseClicked#0;class#4382:7610" expanded="false" />
-            <element signature="method#mouseReleased#0;class#4382:7610" expanded="false" />
-            <element signature="method#mouseEntered#0;class#4382:7610" expanded="false" />
-            <element signature="method#mouseExited#0;class#4382:7610" expanded="false" />
-            <element signature="class#7933:8505" expanded="false" />
-            <element signature="method#mouseClicked#0;class#7933:8505" expanded="false" />
-            <element signature="method#mouseReleased#0;class#7933:8505" expanded="false" />
-            <element signature="method#mouseEntered#0;class#7933:8505" expanded="false" />
-            <element signature="method#mouseExited#0;class#7933:8505" expanded="false" />
-            <element signature="class#8724:9666" expanded="false" />
-            <element signature="method#mouseClicked#0;class#8724:9666" expanded="false" />
-            <element signature="method#mousePressed#0;class#8724:9666" expanded="false" />
-            <element signature="method#mouseReleased#0;class#8724:9666" expanded="false" />
-            <element signature="method#mouseEntered#0;class#8724:9666" expanded="false" />
-            <element signature="method#mouseExited#0;class#8724:9666" expanded="false" />
-            <element signature="class#9900:10455" expanded="false" />
-            <element signature="method#mouseClicked#0;class#9900:10455" expanded="false" />
-            <element signature="method#mouseReleased#0;class#9900:10455" expanded="false" />
-            <element signature="method#mouseEntered#0;class#9900:10455" expanded="false" />
-            <element signature="method#mouseExited#0;class#9900:10455" expanded="false" />
-            <element signature="class#10671:11218" expanded="false" />
-            <element signature="method#mouseClicked#0;class#10671:11218" expanded="false" />
-            <element signature="method#mousePressed#0;class#10671:11218" expanded="false" />
-            <element signature="method#mouseReleased#0;class#10671:11218" expanded="false" />
-            <element signature="method#mouseEntered#0;class#10671:11218" expanded="false" />
-            <element signature="method#mouseExited#0;class#10671:11218" expanded="false" />
+            <element signature="method#mouseClicked#0;class#4400:7628" expanded="false" />
+            <element signature="method#mouseReleased#0;class#4400:7628" expanded="false" />
+            <element signature="method#mouseEntered#0;class#4400:7628" expanded="false" />
+            <element signature="method#mouseExited#0;class#4400:7628" expanded="false" />
+            <element signature="class#7951:8523" expanded="false" />
+            <element signature="method#mouseClicked#0;class#7951:8523" expanded="false" />
+            <element signature="method#mouseReleased#0;class#7951:8523" expanded="false" />
+            <element signature="method#mouseEntered#0;class#7951:8523" expanded="false" />
+            <element signature="method#mouseExited#0;class#7951:8523" expanded="false" />
+            <element signature="class#8742:9684" expanded="false" />
+            <element signature="method#mouseClicked#0;class#8742:9684" expanded="false" />
+            <element signature="method#mousePressed#0;class#8742:9684" expanded="false" />
+            <element signature="method#mouseReleased#0;class#8742:9684" expanded="false" />
+            <element signature="method#mouseEntered#0;class#8742:9684" expanded="false" />
+            <element signature="method#mouseExited#0;class#8742:9684" expanded="false" />
+            <element signature="class#9918:10473" expanded="false" />
+            <element signature="method#mouseClicked#0;class#9918:10473" expanded="false" />
+            <element signature="method#mouseReleased#0;class#9918:10473" expanded="false" />
+            <element signature="method#mouseEntered#0;class#9918:10473" expanded="false" />
+            <element signature="method#mouseExited#0;class#9918:10473" expanded="false" />
+            <element signature="class#10689:11236" expanded="false" />
+            <element signature="method#mouseClicked#0;class#10689:11236" expanded="false" />
+            <element signature="method#mousePressed#0;class#10689:11236" expanded="false" />
+            <element signature="method#mouseReleased#0;class#10689:11236" expanded="false" />
+            <element signature="method#mouseEntered#0;class#10689:11236" expanded="false" />
+            <element signature="method#mouseExited#0;class#10689:11236" expanded="false" />
             <element signature="method#main#0;class#Mychess#0" expanded="false" />
             <element signature="class#axis#0" expanded="false" />
           </folding>
@@ -615,35 +607,33 @@
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#585#591#0" expanded="true" />
-            <element signature="method#initial#0;class#Mychess#0" expanded="false" />
             <element signature="method#judgeWin#0;class#Mychess#0" expanded="false" />
-            <element signature="method#mouseClicked#0;class#4382:7610" expanded="false" />
-            <element signature="method#mouseReleased#0;class#4382:7610" expanded="false" />
-            <element signature="method#mouseEntered#0;class#4382:7610" expanded="false" />
-            <element signature="method#mouseExited#0;class#4382:7610" expanded="false" />
-            <element signature="class#7933:8505" expanded="false" />
-            <element signature="method#mouseClicked#0;class#7933:8505" expanded="false" />
-            <element signature="method#mouseReleased#0;class#7933:8505" expanded="false" />
-            <element signature="method#mouseEntered#0;class#7933:8505" expanded="false" />
-            <element signature="method#mouseExited#0;class#7933:8505" expanded="false" />
-            <element signature="class#8724:9666" expanded="false" />
-            <element signature="method#mouseClicked#0;class#8724:9666" expanded="false" />
-            <element signature="method#mousePressed#0;class#8724:9666" expanded="false" />
-            <element signature="method#mouseReleased#0;class#8724:9666" expanded="false" />
-            <element signature="method#mouseEntered#0;class#8724:9666" expanded="false" />
-            <element signature="method#mouseExited#0;class#8724:9666" expanded="false" />
-            <element signature="class#9900:10455" expanded="false" />
-            <element signature="method#mouseClicked#0;class#9900:10455" expanded="false" />
-            <element signature="method#mouseReleased#0;class#9900:10455" expanded="false" />
-            <element signature="method#mouseEntered#0;class#9900:10455" expanded="false" />
-            <element signature="method#mouseExited#0;class#9900:10455" expanded="false" />
-            <element signature="class#10671:11218" expanded="false" />
-            <element signature="method#mouseClicked#0;class#10671:11218" expanded="false" />
-            <element signature="method#mousePressed#0;class#10671:11218" expanded="false" />
-            <element signature="method#mouseReleased#0;class#10671:11218" expanded="false" />
-            <element signature="method#mouseEntered#0;class#10671:11218" expanded="false" />
-            <element signature="method#mouseExited#0;class#10671:11218" expanded="false" />
+            <element signature="method#mouseClicked#0;class#4400:7628" expanded="false" />
+            <element signature="method#mouseReleased#0;class#4400:7628" expanded="false" />
+            <element signature="method#mouseEntered#0;class#4400:7628" expanded="false" />
+            <element signature="method#mouseExited#0;class#4400:7628" expanded="false" />
+            <element signature="class#7951:8523" expanded="false" />
+            <element signature="method#mouseClicked#0;class#7951:8523" expanded="false" />
+            <element signature="method#mouseReleased#0;class#7951:8523" expanded="false" />
+            <element signature="method#mouseEntered#0;class#7951:8523" expanded="false" />
+            <element signature="method#mouseExited#0;class#7951:8523" expanded="false" />
+            <element signature="class#8742:9684" expanded="false" />
+            <element signature="method#mouseClicked#0;class#8742:9684" expanded="false" />
+            <element signature="method#mousePressed#0;class#8742:9684" expanded="false" />
+            <element signature="method#mouseReleased#0;class#8742:9684" expanded="false" />
+            <element signature="method#mouseEntered#0;class#8742:9684" expanded="false" />
+            <element signature="method#mouseExited#0;class#8742:9684" expanded="false" />
+            <element signature="class#9918:10473" expanded="false" />
+            <element signature="method#mouseClicked#0;class#9918:10473" expanded="false" />
+            <element signature="method#mouseReleased#0;class#9918:10473" expanded="false" />
+            <element signature="method#mouseEntered#0;class#9918:10473" expanded="false" />
+            <element signature="method#mouseExited#0;class#9918:10473" expanded="false" />
+            <element signature="class#10689:11236" expanded="false" />
+            <element signature="method#mouseClicked#0;class#10689:11236" expanded="false" />
+            <element signature="method#mousePressed#0;class#10689:11236" expanded="false" />
+            <element signature="method#mouseReleased#0;class#10689:11236" expanded="false" />
+            <element signature="method#mouseEntered#0;class#10689:11236" expanded="false" />
+            <element signature="method#mouseExited#0;class#10689:11236" expanded="false" />
             <element signature="method#main#0;class#Mychess#0" expanded="false" />
             <element signature="class#axis#0" expanded="false" />
           </folding>
@@ -656,35 +646,33 @@
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#585#591#0" expanded="true" />
-            <element signature="method#initial#0;class#Mychess#0" expanded="false" />
             <element signature="method#judgeWin#0;class#Mychess#0" expanded="false" />
-            <element signature="method#mouseClicked#0;class#4382:7610" expanded="false" />
-            <element signature="method#mouseReleased#0;class#4382:7610" expanded="false" />
-            <element signature="method#mouseEntered#0;class#4382:7610" expanded="false" />
-            <element signature="method#mouseExited#0;class#4382:7610" expanded="false" />
-            <element signature="class#7933:8505" expanded="false" />
-            <element signature="method#mouseClicked#0;class#7933:8505" expanded="false" />
-            <element signature="method#mouseReleased#0;class#7933:8505" expanded="false" />
-            <element signature="method#mouseEntered#0;class#7933:8505" expanded="false" />
-            <element signature="method#mouseExited#0;class#7933:8505" expanded="false" />
-            <element signature="class#8724:9666" expanded="false" />
-            <element signature="method#mouseClicked#0;class#8724:9666" expanded="false" />
-            <element signature="method#mousePressed#0;class#8724:9666" expanded="false" />
-            <element signature="method#mouseReleased#0;class#8724:9666" expanded="false" />
-            <element signature="method#mouseEntered#0;class#8724:9666" expanded="false" />
-            <element signature="method#mouseExited#0;class#8724:9666" expanded="false" />
-            <element signature="class#9900:10455" expanded="false" />
-            <element signature="method#mouseClicked#0;class#9900:10455" expanded="false" />
-            <element signature="method#mouseReleased#0;class#9900:10455" expanded="false" />
-            <element signature="method#mouseEntered#0;class#9900:10455" expanded="false" />
-            <element signature="method#mouseExited#0;class#9900:10455" expanded="false" />
-            <element signature="class#10671:11218" expanded="false" />
-            <element signature="method#mouseClicked#0;class#10671:11218" expanded="false" />
-            <element signature="method#mousePressed#0;class#10671:11218" expanded="false" />
-            <element signature="method#mouseReleased#0;class#10671:11218" expanded="false" />
-            <element signature="method#mouseEntered#0;class#10671:11218" expanded="false" />
-            <element signature="method#mouseExited#0;class#10671:11218" expanded="false" />
+            <element signature="method#mouseClicked#0;class#4400:7628" expanded="false" />
+            <element signature="method#mouseReleased#0;class#4400:7628" expanded="false" />
+            <element signature="method#mouseEntered#0;class#4400:7628" expanded="false" />
+            <element signature="method#mouseExited#0;class#4400:7628" expanded="false" />
+            <element signature="class#7951:8523" expanded="false" />
+            <element signature="method#mouseClicked#0;class#7951:8523" expanded="false" />
+            <element signature="method#mouseReleased#0;class#7951:8523" expanded="false" />
+            <element signature="method#mouseEntered#0;class#7951:8523" expanded="false" />
+            <element signature="method#mouseExited#0;class#7951:8523" expanded="false" />
+            <element signature="class#8742:9684" expanded="false" />
+            <element signature="method#mouseClicked#0;class#8742:9684" expanded="false" />
+            <element signature="method#mousePressed#0;class#8742:9684" expanded="false" />
+            <element signature="method#mouseReleased#0;class#8742:9684" expanded="false" />
+            <element signature="method#mouseEntered#0;class#8742:9684" expanded="false" />
+            <element signature="method#mouseExited#0;class#8742:9684" expanded="false" />
+            <element signature="class#9918:10473" expanded="false" />
+            <element signature="method#mouseClicked#0;class#9918:10473" expanded="false" />
+            <element signature="method#mouseReleased#0;class#9918:10473" expanded="false" />
+            <element signature="method#mouseEntered#0;class#9918:10473" expanded="false" />
+            <element signature="method#mouseExited#0;class#9918:10473" expanded="false" />
+            <element signature="class#10689:11236" expanded="false" />
+            <element signature="method#mouseClicked#0;class#10689:11236" expanded="false" />
+            <element signature="method#mousePressed#0;class#10689:11236" expanded="false" />
+            <element signature="method#mouseReleased#0;class#10689:11236" expanded="false" />
+            <element signature="method#mouseEntered#0;class#10689:11236" expanded="false" />
+            <element signature="method#mouseExited#0;class#10689:11236" expanded="false" />
             <element signature="method#main#0;class#Mychess#0" expanded="false" />
             <element signature="class#axis#0" expanded="false" />
           </folding>
@@ -697,35 +685,72 @@
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#585#591#0" expanded="true" />
-            <element signature="method#initial#0;class#Mychess#0" expanded="false" />
             <element signature="method#judgeWin#0;class#Mychess#0" expanded="false" />
-            <element signature="method#mouseClicked#0;class#4382:7610" expanded="false" />
-            <element signature="method#mouseReleased#0;class#4382:7610" expanded="false" />
-            <element signature="method#mouseEntered#0;class#4382:7610" expanded="false" />
-            <element signature="method#mouseExited#0;class#4382:7610" expanded="false" />
-            <element signature="class#7933:8505" expanded="false" />
-            <element signature="method#mouseClicked#0;class#7933:8505" expanded="false" />
-            <element signature="method#mouseReleased#0;class#7933:8505" expanded="false" />
-            <element signature="method#mouseEntered#0;class#7933:8505" expanded="false" />
-            <element signature="method#mouseExited#0;class#7933:8505" expanded="false" />
-            <element signature="class#8724:9666" expanded="false" />
-            <element signature="method#mouseClicked#0;class#8724:9666" expanded="false" />
-            <element signature="method#mousePressed#0;class#8724:9666" expanded="false" />
-            <element signature="method#mouseReleased#0;class#8724:9666" expanded="false" />
-            <element signature="method#mouseEntered#0;class#8724:9666" expanded="false" />
-            <element signature="method#mouseExited#0;class#8724:9666" expanded="false" />
-            <element signature="class#9900:10455" expanded="false" />
-            <element signature="method#mouseClicked#0;class#9900:10455" expanded="false" />
-            <element signature="method#mouseReleased#0;class#9900:10455" expanded="false" />
-            <element signature="method#mouseEntered#0;class#9900:10455" expanded="false" />
-            <element signature="method#mouseExited#0;class#9900:10455" expanded="false" />
-            <element signature="class#10671:11218" expanded="false" />
-            <element signature="method#mouseClicked#0;class#10671:11218" expanded="false" />
-            <element signature="method#mousePressed#0;class#10671:11218" expanded="false" />
-            <element signature="method#mouseReleased#0;class#10671:11218" expanded="false" />
-            <element signature="method#mouseEntered#0;class#10671:11218" expanded="false" />
-            <element signature="method#mouseExited#0;class#10671:11218" expanded="false" />
+            <element signature="method#mouseClicked#0;class#4400:7628" expanded="false" />
+            <element signature="method#mouseReleased#0;class#4400:7628" expanded="false" />
+            <element signature="method#mouseEntered#0;class#4400:7628" expanded="false" />
+            <element signature="method#mouseExited#0;class#4400:7628" expanded="false" />
+            <element signature="class#7951:8523" expanded="false" />
+            <element signature="method#mouseClicked#0;class#7951:8523" expanded="false" />
+            <element signature="method#mouseReleased#0;class#7951:8523" expanded="false" />
+            <element signature="method#mouseEntered#0;class#7951:8523" expanded="false" />
+            <element signature="method#mouseExited#0;class#7951:8523" expanded="false" />
+            <element signature="class#8742:9684" expanded="false" />
+            <element signature="method#mouseClicked#0;class#8742:9684" expanded="false" />
+            <element signature="method#mousePressed#0;class#8742:9684" expanded="false" />
+            <element signature="method#mouseReleased#0;class#8742:9684" expanded="false" />
+            <element signature="method#mouseEntered#0;class#8742:9684" expanded="false" />
+            <element signature="method#mouseExited#0;class#8742:9684" expanded="false" />
+            <element signature="class#9918:10473" expanded="false" />
+            <element signature="method#mouseClicked#0;class#9918:10473" expanded="false" />
+            <element signature="method#mouseReleased#0;class#9918:10473" expanded="false" />
+            <element signature="method#mouseEntered#0;class#9918:10473" expanded="false" />
+            <element signature="method#mouseExited#0;class#9918:10473" expanded="false" />
+            <element signature="class#10689:11236" expanded="false" />
+            <element signature="method#mouseClicked#0;class#10689:11236" expanded="false" />
+            <element signature="method#mousePressed#0;class#10689:11236" expanded="false" />
+            <element signature="method#mouseReleased#0;class#10689:11236" expanded="false" />
+            <element signature="method#mouseEntered#0;class#10689:11236" expanded="false" />
+            <element signature="method#mouseExited#0;class#10689:11236" expanded="false" />
+            <element signature="method#main#0;class#Mychess#0" expanded="false" />
+            <element signature="class#axis#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Mychess.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#judgeWin#0;class#Mychess#0" expanded="false" />
+            <element signature="method#mouseClicked#0;class#4400:7628" expanded="false" />
+            <element signature="method#mouseReleased#0;class#4400:7628" expanded="false" />
+            <element signature="method#mouseEntered#0;class#4400:7628" expanded="false" />
+            <element signature="method#mouseExited#0;class#4400:7628" expanded="false" />
+            <element signature="class#7951:8523" expanded="false" />
+            <element signature="method#mouseClicked#0;class#7951:8523" expanded="false" />
+            <element signature="method#mouseReleased#0;class#7951:8523" expanded="false" />
+            <element signature="method#mouseEntered#0;class#7951:8523" expanded="false" />
+            <element signature="method#mouseExited#0;class#7951:8523" expanded="false" />
+            <element signature="class#8742:9684" expanded="false" />
+            <element signature="method#mouseClicked#0;class#8742:9684" expanded="false" />
+            <element signature="method#mousePressed#0;class#8742:9684" expanded="false" />
+            <element signature="method#mouseReleased#0;class#8742:9684" expanded="false" />
+            <element signature="method#mouseEntered#0;class#8742:9684" expanded="false" />
+            <element signature="method#mouseExited#0;class#8742:9684" expanded="false" />
+            <element signature="class#9918:10473" expanded="false" />
+            <element signature="method#mouseClicked#0;class#9918:10473" expanded="false" />
+            <element signature="method#mouseReleased#0;class#9918:10473" expanded="false" />
+            <element signature="method#mouseEntered#0;class#9918:10473" expanded="false" />
+            <element signature="method#mouseExited#0;class#9918:10473" expanded="false" />
+            <element signature="class#10689:11236" expanded="false" />
+            <element signature="method#mouseClicked#0;class#10689:11236" expanded="false" />
+            <element signature="method#mousePressed#0;class#10689:11236" expanded="false" />
+            <element signature="method#mouseReleased#0;class#10689:11236" expanded="false" />
+            <element signature="method#mouseEntered#0;class#10689:11236" expanded="false" />
+            <element signature="method#mouseExited#0;class#10689:11236" expanded="false" />
             <element signature="method#main#0;class#Mychess#0" expanded="false" />
             <element signature="class#axis#0" expanded="false" />
           </folding>
@@ -745,35 +770,33 @@
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#585#591#0" expanded="true" />
-            <element signature="method#initial#0;class#Mychess#0" expanded="false" />
             <element signature="method#judgeWin#0;class#Mychess#0" expanded="false" />
-            <element signature="method#mouseClicked#0;class#4382:7610" expanded="false" />
-            <element signature="method#mouseReleased#0;class#4382:7610" expanded="false" />
-            <element signature="method#mouseEntered#0;class#4382:7610" expanded="false" />
-            <element signature="method#mouseExited#0;class#4382:7610" expanded="false" />
-            <element signature="class#7933:8505" expanded="false" />
-            <element signature="method#mouseClicked#0;class#7933:8505" expanded="false" />
-            <element signature="method#mouseReleased#0;class#7933:8505" expanded="false" />
-            <element signature="method#mouseEntered#0;class#7933:8505" expanded="false" />
-            <element signature="method#mouseExited#0;class#7933:8505" expanded="false" />
-            <element signature="class#8724:9666" expanded="false" />
-            <element signature="method#mouseClicked#0;class#8724:9666" expanded="false" />
-            <element signature="method#mousePressed#0;class#8724:9666" expanded="false" />
-            <element signature="method#mouseReleased#0;class#8724:9666" expanded="false" />
-            <element signature="method#mouseEntered#0;class#8724:9666" expanded="false" />
-            <element signature="method#mouseExited#0;class#8724:9666" expanded="false" />
-            <element signature="class#9900:10455" expanded="false" />
-            <element signature="method#mouseClicked#0;class#9900:10455" expanded="false" />
-            <element signature="method#mouseReleased#0;class#9900:10455" expanded="false" />
-            <element signature="method#mouseEntered#0;class#9900:10455" expanded="false" />
-            <element signature="method#mouseExited#0;class#9900:10455" expanded="false" />
-            <element signature="class#10671:11218" expanded="false" />
-            <element signature="method#mouseClicked#0;class#10671:11218" expanded="false" />
-            <element signature="method#mousePressed#0;class#10671:11218" expanded="false" />
-            <element signature="method#mouseReleased#0;class#10671:11218" expanded="false" />
-            <element signature="method#mouseEntered#0;class#10671:11218" expanded="false" />
-            <element signature="method#mouseExited#0;class#10671:11218" expanded="false" />
+            <element signature="method#mouseClicked#0;class#4400:7628" expanded="false" />
+            <element signature="method#mouseReleased#0;class#4400:7628" expanded="false" />
+            <element signature="method#mouseEntered#0;class#4400:7628" expanded="false" />
+            <element signature="method#mouseExited#0;class#4400:7628" expanded="false" />
+            <element signature="class#7951:8523" expanded="false" />
+            <element signature="method#mouseClicked#0;class#7951:8523" expanded="false" />
+            <element signature="method#mouseReleased#0;class#7951:8523" expanded="false" />
+            <element signature="method#mouseEntered#0;class#7951:8523" expanded="false" />
+            <element signature="method#mouseExited#0;class#7951:8523" expanded="false" />
+            <element signature="class#8742:9684" expanded="false" />
+            <element signature="method#mouseClicked#0;class#8742:9684" expanded="false" />
+            <element signature="method#mousePressed#0;class#8742:9684" expanded="false" />
+            <element signature="method#mouseReleased#0;class#8742:9684" expanded="false" />
+            <element signature="method#mouseEntered#0;class#8742:9684" expanded="false" />
+            <element signature="method#mouseExited#0;class#8742:9684" expanded="false" />
+            <element signature="class#9918:10473" expanded="false" />
+            <element signature="method#mouseClicked#0;class#9918:10473" expanded="false" />
+            <element signature="method#mouseReleased#0;class#9918:10473" expanded="false" />
+            <element signature="method#mouseEntered#0;class#9918:10473" expanded="false" />
+            <element signature="method#mouseExited#0;class#9918:10473" expanded="false" />
+            <element signature="class#10689:11236" expanded="false" />
+            <element signature="method#mouseClicked#0;class#10689:11236" expanded="false" />
+            <element signature="method#mousePressed#0;class#10689:11236" expanded="false" />
+            <element signature="method#mouseReleased#0;class#10689:11236" expanded="false" />
+            <element signature="method#mouseEntered#0;class#10689:11236" expanded="false" />
+            <element signature="method#mouseExited#0;class#10689:11236" expanded="false" />
             <element signature="method#main#0;class#Mychess#0" expanded="false" />
             <element signature="class#axis#0" expanded="false" />
           </folding>
@@ -786,35 +809,33 @@
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#585#591#0" expanded="true" />
-            <element signature="method#initial#0;class#Mychess#0" expanded="false" />
             <element signature="method#judgeWin#0;class#Mychess#0" expanded="false" />
-            <element signature="method#mouseClicked#0;class#4382:7610" expanded="false" />
-            <element signature="method#mouseReleased#0;class#4382:7610" expanded="false" />
-            <element signature="method#mouseEntered#0;class#4382:7610" expanded="false" />
-            <element signature="method#mouseExited#0;class#4382:7610" expanded="false" />
-            <element signature="class#7933:8505" expanded="false" />
-            <element signature="method#mouseClicked#0;class#7933:8505" expanded="false" />
-            <element signature="method#mouseReleased#0;class#7933:8505" expanded="false" />
-            <element signature="method#mouseEntered#0;class#7933:8505" expanded="false" />
-            <element signature="method#mouseExited#0;class#7933:8505" expanded="false" />
-            <element signature="class#8724:9666" expanded="false" />
-            <element signature="method#mouseClicked#0;class#8724:9666" expanded="false" />
-            <element signature="method#mousePressed#0;class#8724:9666" expanded="false" />
-            <element signature="method#mouseReleased#0;class#8724:9666" expanded="false" />
-            <element signature="method#mouseEntered#0;class#8724:9666" expanded="false" />
-            <element signature="method#mouseExited#0;class#8724:9666" expanded="false" />
-            <element signature="class#9900:10455" expanded="false" />
-            <element signature="method#mouseClicked#0;class#9900:10455" expanded="false" />
-            <element signature="method#mouseReleased#0;class#9900:10455" expanded="false" />
-            <element signature="method#mouseEntered#0;class#9900:10455" expanded="false" />
-            <element signature="method#mouseExited#0;class#9900:10455" expanded="false" />
-            <element signature="class#10671:11218" expanded="false" />
-            <element signature="method#mouseClicked#0;class#10671:11218" expanded="false" />
-            <element signature="method#mousePressed#0;class#10671:11218" expanded="false" />
-            <element signature="method#mouseReleased#0;class#10671:11218" expanded="false" />
-            <element signature="method#mouseEntered#0;class#10671:11218" expanded="false" />
-            <element signature="method#mouseExited#0;class#10671:11218" expanded="false" />
+            <element signature="method#mouseClicked#0;class#4400:7628" expanded="false" />
+            <element signature="method#mouseReleased#0;class#4400:7628" expanded="false" />
+            <element signature="method#mouseEntered#0;class#4400:7628" expanded="false" />
+            <element signature="method#mouseExited#0;class#4400:7628" expanded="false" />
+            <element signature="class#7951:8523" expanded="false" />
+            <element signature="method#mouseClicked#0;class#7951:8523" expanded="false" />
+            <element signature="method#mouseReleased#0;class#7951:8523" expanded="false" />
+            <element signature="method#mouseEntered#0;class#7951:8523" expanded="false" />
+            <element signature="method#mouseExited#0;class#7951:8523" expanded="false" />
+            <element signature="class#8742:9684" expanded="false" />
+            <element signature="method#mouseClicked#0;class#8742:9684" expanded="false" />
+            <element signature="method#mousePressed#0;class#8742:9684" expanded="false" />
+            <element signature="method#mouseReleased#0;class#8742:9684" expanded="false" />
+            <element signature="method#mouseEntered#0;class#8742:9684" expanded="false" />
+            <element signature="method#mouseExited#0;class#8742:9684" expanded="false" />
+            <element signature="class#9918:10473" expanded="false" />
+            <element signature="method#mouseClicked#0;class#9918:10473" expanded="false" />
+            <element signature="method#mouseReleased#0;class#9918:10473" expanded="false" />
+            <element signature="method#mouseEntered#0;class#9918:10473" expanded="false" />
+            <element signature="method#mouseExited#0;class#9918:10473" expanded="false" />
+            <element signature="class#10689:11236" expanded="false" />
+            <element signature="method#mouseClicked#0;class#10689:11236" expanded="false" />
+            <element signature="method#mousePressed#0;class#10689:11236" expanded="false" />
+            <element signature="method#mouseReleased#0;class#10689:11236" expanded="false" />
+            <element signature="method#mouseEntered#0;class#10689:11236" expanded="false" />
+            <element signature="method#mouseExited#0;class#10689:11236" expanded="false" />
             <element signature="method#main#0;class#Mychess#0" expanded="false" />
             <element signature="class#axis#0" expanded="false" />
           </folding>
@@ -827,35 +848,33 @@
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#585#591#0" expanded="true" />
-            <element signature="method#initial#0;class#Mychess#0" expanded="false" />
             <element signature="method#judgeWin#0;class#Mychess#0" expanded="false" />
-            <element signature="method#mouseClicked#0;class#4382:7610" expanded="false" />
-            <element signature="method#mouseReleased#0;class#4382:7610" expanded="false" />
-            <element signature="method#mouseEntered#0;class#4382:7610" expanded="false" />
-            <element signature="method#mouseExited#0;class#4382:7610" expanded="false" />
-            <element signature="class#7933:8505" expanded="false" />
-            <element signature="method#mouseClicked#0;class#7933:8505" expanded="false" />
-            <element signature="method#mouseReleased#0;class#7933:8505" expanded="false" />
-            <element signature="method#mouseEntered#0;class#7933:8505" expanded="false" />
-            <element signature="method#mouseExited#0;class#7933:8505" expanded="false" />
-            <element signature="class#8724:9666" expanded="false" />
-            <element signature="method#mouseClicked#0;class#8724:9666" expanded="false" />
-            <element signature="method#mousePressed#0;class#8724:9666" expanded="false" />
-            <element signature="method#mouseReleased#0;class#8724:9666" expanded="false" />
-            <element signature="method#mouseEntered#0;class#8724:9666" expanded="false" />
-            <element signature="method#mouseExited#0;class#8724:9666" expanded="false" />
-            <element signature="class#9900:10455" expanded="false" />
-            <element signature="method#mouseClicked#0;class#9900:10455" expanded="false" />
-            <element signature="method#mouseReleased#0;class#9900:10455" expanded="false" />
-            <element signature="method#mouseEntered#0;class#9900:10455" expanded="false" />
-            <element signature="method#mouseExited#0;class#9900:10455" expanded="false" />
-            <element signature="class#10671:11218" expanded="false" />
-            <element signature="method#mouseClicked#0;class#10671:11218" expanded="false" />
-            <element signature="method#mousePressed#0;class#10671:11218" expanded="false" />
-            <element signature="method#mouseReleased#0;class#10671:11218" expanded="false" />
-            <element signature="method#mouseEntered#0;class#10671:11218" expanded="false" />
-            <element signature="method#mouseExited#0;class#10671:11218" expanded="false" />
+            <element signature="method#mouseClicked#0;class#4400:7628" expanded="false" />
+            <element signature="method#mouseReleased#0;class#4400:7628" expanded="false" />
+            <element signature="method#mouseEntered#0;class#4400:7628" expanded="false" />
+            <element signature="method#mouseExited#0;class#4400:7628" expanded="false" />
+            <element signature="class#7951:8523" expanded="false" />
+            <element signature="method#mouseClicked#0;class#7951:8523" expanded="false" />
+            <element signature="method#mouseReleased#0;class#7951:8523" expanded="false" />
+            <element signature="method#mouseEntered#0;class#7951:8523" expanded="false" />
+            <element signature="method#mouseExited#0;class#7951:8523" expanded="false" />
+            <element signature="class#8742:9684" expanded="false" />
+            <element signature="method#mouseClicked#0;class#8742:9684" expanded="false" />
+            <element signature="method#mousePressed#0;class#8742:9684" expanded="false" />
+            <element signature="method#mouseReleased#0;class#8742:9684" expanded="false" />
+            <element signature="method#mouseEntered#0;class#8742:9684" expanded="false" />
+            <element signature="method#mouseExited#0;class#8742:9684" expanded="false" />
+            <element signature="class#9918:10473" expanded="false" />
+            <element signature="method#mouseClicked#0;class#9918:10473" expanded="false" />
+            <element signature="method#mouseReleased#0;class#9918:10473" expanded="false" />
+            <element signature="method#mouseEntered#0;class#9918:10473" expanded="false" />
+            <element signature="method#mouseExited#0;class#9918:10473" expanded="false" />
+            <element signature="class#10689:11236" expanded="false" />
+            <element signature="method#mouseClicked#0;class#10689:11236" expanded="false" />
+            <element signature="method#mousePressed#0;class#10689:11236" expanded="false" />
+            <element signature="method#mouseReleased#0;class#10689:11236" expanded="false" />
+            <element signature="method#mouseEntered#0;class#10689:11236" expanded="false" />
+            <element signature="method#mouseExited#0;class#10689:11236" expanded="false" />
             <element signature="method#main#0;class#Mychess#0" expanded="false" />
             <element signature="class#axis#0" expanded="false" />
           </folding>
@@ -868,35 +887,33 @@
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#585#591#0" expanded="true" />
-            <element signature="method#initial#0;class#Mychess#0" expanded="false" />
             <element signature="method#judgeWin#0;class#Mychess#0" expanded="false" />
-            <element signature="method#mouseClicked#0;class#4382:7610" expanded="false" />
-            <element signature="method#mouseReleased#0;class#4382:7610" expanded="false" />
-            <element signature="method#mouseEntered#0;class#4382:7610" expanded="false" />
-            <element signature="method#mouseExited#0;class#4382:7610" expanded="false" />
-            <element signature="class#7933:8505" expanded="false" />
-            <element signature="method#mouseClicked#0;class#7933:8505" expanded="false" />
-            <element signature="method#mouseReleased#0;class#7933:8505" expanded="false" />
-            <element signature="method#mouseEntered#0;class#7933:8505" expanded="false" />
-            <element signature="method#mouseExited#0;class#7933:8505" expanded="false" />
-            <element signature="class#8724:9666" expanded="false" />
-            <element signature="method#mouseClicked#0;class#8724:9666" expanded="false" />
-            <element signature="method#mousePressed#0;class#8724:9666" expanded="false" />
-            <element signature="method#mouseReleased#0;class#8724:9666" expanded="false" />
-            <element signature="method#mouseEntered#0;class#8724:9666" expanded="false" />
-            <element signature="method#mouseExited#0;class#8724:9666" expanded="false" />
-            <element signature="class#9900:10455" expanded="false" />
-            <element signature="method#mouseClicked#0;class#9900:10455" expanded="false" />
-            <element signature="method#mouseReleased#0;class#9900:10455" expanded="false" />
-            <element signature="method#mouseEntered#0;class#9900:10455" expanded="false" />
-            <element signature="method#mouseExited#0;class#9900:10455" expanded="false" />
-            <element signature="class#10671:11218" expanded="false" />
-            <element signature="method#mouseClicked#0;class#10671:11218" expanded="false" />
-            <element signature="method#mousePressed#0;class#10671:11218" expanded="false" />
-            <element signature="method#mouseReleased#0;class#10671:11218" expanded="false" />
-            <element signature="method#mouseEntered#0;class#10671:11218" expanded="false" />
-            <element signature="method#mouseExited#0;class#10671:11218" expanded="false" />
+            <element signature="method#mouseClicked#0;class#4400:7628" expanded="false" />
+            <element signature="method#mouseReleased#0;class#4400:7628" expanded="false" />
+            <element signature="method#mouseEntered#0;class#4400:7628" expanded="false" />
+            <element signature="method#mouseExited#0;class#4400:7628" expanded="false" />
+            <element signature="class#7951:8523" expanded="false" />
+            <element signature="method#mouseClicked#0;class#7951:8523" expanded="false" />
+            <element signature="method#mouseReleased#0;class#7951:8523" expanded="false" />
+            <element signature="method#mouseEntered#0;class#7951:8523" expanded="false" />
+            <element signature="method#mouseExited#0;class#7951:8523" expanded="false" />
+            <element signature="class#8742:9684" expanded="false" />
+            <element signature="method#mouseClicked#0;class#8742:9684" expanded="false" />
+            <element signature="method#mousePressed#0;class#8742:9684" expanded="false" />
+            <element signature="method#mouseReleased#0;class#8742:9684" expanded="false" />
+            <element signature="method#mouseEntered#0;class#8742:9684" expanded="false" />
+            <element signature="method#mouseExited#0;class#8742:9684" expanded="false" />
+            <element signature="class#9918:10473" expanded="false" />
+            <element signature="method#mouseClicked#0;class#9918:10473" expanded="false" />
+            <element signature="method#mouseReleased#0;class#9918:10473" expanded="false" />
+            <element signature="method#mouseEntered#0;class#9918:10473" expanded="false" />
+            <element signature="method#mouseExited#0;class#9918:10473" expanded="false" />
+            <element signature="class#10689:11236" expanded="false" />
+            <element signature="method#mouseClicked#0;class#10689:11236" expanded="false" />
+            <element signature="method#mousePressed#0;class#10689:11236" expanded="false" />
+            <element signature="method#mouseReleased#0;class#10689:11236" expanded="false" />
+            <element signature="method#mouseEntered#0;class#10689:11236" expanded="false" />
+            <element signature="method#mouseExited#0;class#10689:11236" expanded="false" />
             <element signature="method#main#0;class#Mychess#0" expanded="false" />
             <element signature="class#axis#0" expanded="false" />
           </folding>
@@ -909,35 +926,33 @@
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#585#591#0" expanded="true" />
-            <element signature="method#initial#0;class#Mychess#0" expanded="false" />
             <element signature="method#judgeWin#0;class#Mychess#0" expanded="false" />
-            <element signature="method#mouseClicked#0;class#4382:7610" expanded="false" />
-            <element signature="method#mouseReleased#0;class#4382:7610" expanded="false" />
-            <element signature="method#mouseEntered#0;class#4382:7610" expanded="false" />
-            <element signature="method#mouseExited#0;class#4382:7610" expanded="false" />
-            <element signature="class#7933:8505" expanded="false" />
-            <element signature="method#mouseClicked#0;class#7933:8505" expanded="false" />
-            <element signature="method#mouseReleased#0;class#7933:8505" expanded="false" />
-            <element signature="method#mouseEntered#0;class#7933:8505" expanded="false" />
-            <element signature="method#mouseExited#0;class#7933:8505" expanded="false" />
-            <element signature="class#8724:9666" expanded="false" />
-            <element signature="method#mouseClicked#0;class#8724:9666" expanded="false" />
-            <element signature="method#mousePressed#0;class#8724:9666" expanded="false" />
-            <element signature="method#mouseReleased#0;class#8724:9666" expanded="false" />
-            <element signature="method#mouseEntered#0;class#8724:9666" expanded="false" />
-            <element signature="method#mouseExited#0;class#8724:9666" expanded="false" />
-            <element signature="class#9900:10455" expanded="false" />
-            <element signature="method#mouseClicked#0;class#9900:10455" expanded="false" />
-            <element signature="method#mouseReleased#0;class#9900:10455" expanded="false" />
-            <element signature="method#mouseEntered#0;class#9900:10455" expanded="false" />
-            <element signature="method#mouseExited#0;class#9900:10455" expanded="false" />
-            <element signature="class#10671:11218" expanded="false" />
-            <element signature="method#mouseClicked#0;class#10671:11218" expanded="false" />
-            <element signature="method#mousePressed#0;class#10671:11218" expanded="false" />
-            <element signature="method#mouseReleased#0;class#10671:11218" expanded="false" />
-            <element signature="method#mouseEntered#0;class#10671:11218" expanded="false" />
-            <element signature="method#mouseExited#0;class#10671:11218" expanded="false" />
+            <element signature="method#mouseClicked#0;class#4400:7628" expanded="false" />
+            <element signature="method#mouseReleased#0;class#4400:7628" expanded="false" />
+            <element signature="method#mouseEntered#0;class#4400:7628" expanded="false" />
+            <element signature="method#mouseExited#0;class#4400:7628" expanded="false" />
+            <element signature="class#7951:8523" expanded="false" />
+            <element signature="method#mouseClicked#0;class#7951:8523" expanded="false" />
+            <element signature="method#mouseReleased#0;class#7951:8523" expanded="false" />
+            <element signature="method#mouseEntered#0;class#7951:8523" expanded="false" />
+            <element signature="method#mouseExited#0;class#7951:8523" expanded="false" />
+            <element signature="class#8742:9684" expanded="false" />
+            <element signature="method#mouseClicked#0;class#8742:9684" expanded="false" />
+            <element signature="method#mousePressed#0;class#8742:9684" expanded="false" />
+            <element signature="method#mouseReleased#0;class#8742:9684" expanded="false" />
+            <element signature="method#mouseEntered#0;class#8742:9684" expanded="false" />
+            <element signature="method#mouseExited#0;class#8742:9684" expanded="false" />
+            <element signature="class#9918:10473" expanded="false" />
+            <element signature="method#mouseClicked#0;class#9918:10473" expanded="false" />
+            <element signature="method#mouseReleased#0;class#9918:10473" expanded="false" />
+            <element signature="method#mouseEntered#0;class#9918:10473" expanded="false" />
+            <element signature="method#mouseExited#0;class#9918:10473" expanded="false" />
+            <element signature="class#10689:11236" expanded="false" />
+            <element signature="method#mouseClicked#0;class#10689:11236" expanded="false" />
+            <element signature="method#mousePressed#0;class#10689:11236" expanded="false" />
+            <element signature="method#mouseReleased#0;class#10689:11236" expanded="false" />
+            <element signature="method#mouseEntered#0;class#10689:11236" expanded="false" />
+            <element signature="method#mouseExited#0;class#10689:11236" expanded="false" />
             <element signature="method#main#0;class#Mychess#0" expanded="false" />
             <element signature="class#axis#0" expanded="false" />
           </folding>
@@ -950,35 +965,33 @@
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#585#591#0" expanded="true" />
-            <element signature="method#initial#0;class#Mychess#0" expanded="false" />
             <element signature="method#judgeWin#0;class#Mychess#0" expanded="false" />
-            <element signature="method#mouseClicked#0;class#4382:7610" expanded="false" />
-            <element signature="method#mouseReleased#0;class#4382:7610" expanded="false" />
-            <element signature="method#mouseEntered#0;class#4382:7610" expanded="false" />
-            <element signature="method#mouseExited#0;class#4382:7610" expanded="false" />
-            <element signature="class#7933:8505" expanded="false" />
-            <element signature="method#mouseClicked#0;class#7933:8505" expanded="false" />
-            <element signature="method#mouseReleased#0;class#7933:8505" expanded="false" />
-            <element signature="method#mouseEntered#0;class#7933:8505" expanded="false" />
-            <element signature="method#mouseExited#0;class#7933:8505" expanded="false" />
-            <element signature="class#8724:9666" expanded="false" />
-            <element signature="method#mouseClicked#0;class#8724:9666" expanded="false" />
-            <element signature="method#mousePressed#0;class#8724:9666" expanded="false" />
-            <element signature="method#mouseReleased#0;class#8724:9666" expanded="false" />
-            <element signature="method#mouseEntered#0;class#8724:9666" expanded="false" />
-            <element signature="method#mouseExited#0;class#8724:9666" expanded="false" />
-            <element signature="class#9900:10455" expanded="false" />
-            <element signature="method#mouseClicked#0;class#9900:10455" expanded="false" />
-            <element signature="method#mouseReleased#0;class#9900:10455" expanded="false" />
-            <element signature="method#mouseEntered#0;class#9900:10455" expanded="false" />
-            <element signature="method#mouseExited#0;class#9900:10455" expanded="false" />
-            <element signature="class#10671:11218" expanded="false" />
-            <element signature="method#mouseClicked#0;class#10671:11218" expanded="false" />
-            <element signature="method#mousePressed#0;class#10671:11218" expanded="false" />
-            <element signature="method#mouseReleased#0;class#10671:11218" expanded="false" />
-            <element signature="method#mouseEntered#0;class#10671:11218" expanded="false" />
-            <element signature="method#mouseExited#0;class#10671:11218" expanded="false" />
+            <element signature="method#mouseClicked#0;class#4400:7628" expanded="false" />
+            <element signature="method#mouseReleased#0;class#4400:7628" expanded="false" />
+            <element signature="method#mouseEntered#0;class#4400:7628" expanded="false" />
+            <element signature="method#mouseExited#0;class#4400:7628" expanded="false" />
+            <element signature="class#7951:8523" expanded="false" />
+            <element signature="method#mouseClicked#0;class#7951:8523" expanded="false" />
+            <element signature="method#mouseReleased#0;class#7951:8523" expanded="false" />
+            <element signature="method#mouseEntered#0;class#7951:8523" expanded="false" />
+            <element signature="method#mouseExited#0;class#7951:8523" expanded="false" />
+            <element signature="class#8742:9684" expanded="false" />
+            <element signature="method#mouseClicked#0;class#8742:9684" expanded="false" />
+            <element signature="method#mousePressed#0;class#8742:9684" expanded="false" />
+            <element signature="method#mouseReleased#0;class#8742:9684" expanded="false" />
+            <element signature="method#mouseEntered#0;class#8742:9684" expanded="false" />
+            <element signature="method#mouseExited#0;class#8742:9684" expanded="false" />
+            <element signature="class#9918:10473" expanded="false" />
+            <element signature="method#mouseClicked#0;class#9918:10473" expanded="false" />
+            <element signature="method#mouseReleased#0;class#9918:10473" expanded="false" />
+            <element signature="method#mouseEntered#0;class#9918:10473" expanded="false" />
+            <element signature="method#mouseExited#0;class#9918:10473" expanded="false" />
+            <element signature="class#10689:11236" expanded="false" />
+            <element signature="method#mouseClicked#0;class#10689:11236" expanded="false" />
+            <element signature="method#mousePressed#0;class#10689:11236" expanded="false" />
+            <element signature="method#mouseReleased#0;class#10689:11236" expanded="false" />
+            <element signature="method#mouseEntered#0;class#10689:11236" expanded="false" />
+            <element signature="method#mouseExited#0;class#10689:11236" expanded="false" />
             <element signature="method#main#0;class#Mychess#0" expanded="false" />
             <element signature="class#axis#0" expanded="false" />
           </folding>
@@ -991,35 +1004,33 @@
           <caret line="55" column="42" lean-forward="true" selection-start-line="55" selection-start-column="42" selection-end-line="55" selection-end-column="42" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#585#591#0" expanded="true" />
-            <element signature="method#initial#0;class#Mychess#0" expanded="false" />
             <element signature="method#judgeWin#0;class#Mychess#0" expanded="false" />
-            <element signature="method#mouseClicked#0;class#4382:7610" expanded="false" />
-            <element signature="method#mouseReleased#0;class#4382:7610" expanded="false" />
-            <element signature="method#mouseEntered#0;class#4382:7610" expanded="false" />
-            <element signature="method#mouseExited#0;class#4382:7610" expanded="false" />
-            <element signature="class#7933:8505" expanded="false" />
-            <element signature="method#mouseClicked#0;class#7933:8505" expanded="false" />
-            <element signature="method#mouseReleased#0;class#7933:8505" expanded="false" />
-            <element signature="method#mouseEntered#0;class#7933:8505" expanded="false" />
-            <element signature="method#mouseExited#0;class#7933:8505" expanded="false" />
-            <element signature="class#8724:9666" expanded="false" />
-            <element signature="method#mouseClicked#0;class#8724:9666" expanded="false" />
-            <element signature="method#mousePressed#0;class#8724:9666" expanded="false" />
-            <element signature="method#mouseReleased#0;class#8724:9666" expanded="false" />
-            <element signature="method#mouseEntered#0;class#8724:9666" expanded="false" />
-            <element signature="method#mouseExited#0;class#8724:9666" expanded="false" />
-            <element signature="class#9900:10455" expanded="false" />
-            <element signature="method#mouseClicked#0;class#9900:10455" expanded="false" />
-            <element signature="method#mouseReleased#0;class#9900:10455" expanded="false" />
-            <element signature="method#mouseEntered#0;class#9900:10455" expanded="false" />
-            <element signature="method#mouseExited#0;class#9900:10455" expanded="false" />
-            <element signature="class#10671:11218" expanded="false" />
-            <element signature="method#mouseClicked#0;class#10671:11218" expanded="false" />
-            <element signature="method#mousePressed#0;class#10671:11218" expanded="false" />
-            <element signature="method#mouseReleased#0;class#10671:11218" expanded="false" />
-            <element signature="method#mouseEntered#0;class#10671:11218" expanded="false" />
-            <element signature="method#mouseExited#0;class#10671:11218" expanded="false" />
+            <element signature="method#mouseClicked#0;class#4400:7628" expanded="false" />
+            <element signature="method#mouseReleased#0;class#4400:7628" expanded="false" />
+            <element signature="method#mouseEntered#0;class#4400:7628" expanded="false" />
+            <element signature="method#mouseExited#0;class#4400:7628" expanded="false" />
+            <element signature="class#7951:8523" expanded="false" />
+            <element signature="method#mouseClicked#0;class#7951:8523" expanded="false" />
+            <element signature="method#mouseReleased#0;class#7951:8523" expanded="false" />
+            <element signature="method#mouseEntered#0;class#7951:8523" expanded="false" />
+            <element signature="method#mouseExited#0;class#7951:8523" expanded="false" />
+            <element signature="class#8742:9684" expanded="false" />
+            <element signature="method#mouseClicked#0;class#8742:9684" expanded="false" />
+            <element signature="method#mousePressed#0;class#8742:9684" expanded="false" />
+            <element signature="method#mouseReleased#0;class#8742:9684" expanded="false" />
+            <element signature="method#mouseEntered#0;class#8742:9684" expanded="false" />
+            <element signature="method#mouseExited#0;class#8742:9684" expanded="false" />
+            <element signature="class#9918:10473" expanded="false" />
+            <element signature="method#mouseClicked#0;class#9918:10473" expanded="false" />
+            <element signature="method#mouseReleased#0;class#9918:10473" expanded="false" />
+            <element signature="method#mouseEntered#0;class#9918:10473" expanded="false" />
+            <element signature="method#mouseExited#0;class#9918:10473" expanded="false" />
+            <element signature="class#10689:11236" expanded="false" />
+            <element signature="method#mouseClicked#0;class#10689:11236" expanded="false" />
+            <element signature="method#mousePressed#0;class#10689:11236" expanded="false" />
+            <element signature="method#mouseReleased#0;class#10689:11236" expanded="false" />
+            <element signature="method#mouseEntered#0;class#10689:11236" expanded="false" />
+            <element signature="method#mouseExited#0;class#10689:11236" expanded="false" />
             <element signature="method#main#0;class#Mychess#0" expanded="false" />
             <element signature="class#axis#0" expanded="false" />
           </folding>
@@ -1032,35 +1043,33 @@
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#585#591#0" expanded="true" />
-            <element signature="method#initial#0;class#Mychess#0" expanded="false" />
             <element signature="method#judgeWin#0;class#Mychess#0" expanded="false" />
-            <element signature="method#mouseClicked#0;class#4382:7610" expanded="false" />
-            <element signature="method#mouseReleased#0;class#4382:7610" expanded="false" />
-            <element signature="method#mouseEntered#0;class#4382:7610" expanded="false" />
-            <element signature="method#mouseExited#0;class#4382:7610" expanded="false" />
-            <element signature="class#7933:8505" expanded="false" />
-            <element signature="method#mouseClicked#0;class#7933:8505" expanded="false" />
-            <element signature="method#mouseReleased#0;class#7933:8505" expanded="false" />
-            <element signature="method#mouseEntered#0;class#7933:8505" expanded="false" />
-            <element signature="method#mouseExited#0;class#7933:8505" expanded="false" />
-            <element signature="class#8724:9666" expanded="false" />
-            <element signature="method#mouseClicked#0;class#8724:9666" expanded="false" />
-            <element signature="method#mousePressed#0;class#8724:9666" expanded="false" />
-            <element signature="method#mouseReleased#0;class#8724:9666" expanded="false" />
-            <element signature="method#mouseEntered#0;class#8724:9666" expanded="false" />
-            <element signature="method#mouseExited#0;class#8724:9666" expanded="false" />
-            <element signature="class#9900:10455" expanded="false" />
-            <element signature="method#mouseClicked#0;class#9900:10455" expanded="false" />
-            <element signature="method#mouseReleased#0;class#9900:10455" expanded="false" />
-            <element signature="method#mouseEntered#0;class#9900:10455" expanded="false" />
-            <element signature="method#mouseExited#0;class#9900:10455" expanded="false" />
-            <element signature="class#10671:11218" expanded="false" />
-            <element signature="method#mouseClicked#0;class#10671:11218" expanded="false" />
-            <element signature="method#mousePressed#0;class#10671:11218" expanded="false" />
-            <element signature="method#mouseReleased#0;class#10671:11218" expanded="false" />
-            <element signature="method#mouseEntered#0;class#10671:11218" expanded="false" />
-            <element signature="method#mouseExited#0;class#10671:11218" expanded="false" />
+            <element signature="method#mouseClicked#0;class#4400:7628" expanded="false" />
+            <element signature="method#mouseReleased#0;class#4400:7628" expanded="false" />
+            <element signature="method#mouseEntered#0;class#4400:7628" expanded="false" />
+            <element signature="method#mouseExited#0;class#4400:7628" expanded="false" />
+            <element signature="class#7951:8523" expanded="false" />
+            <element signature="method#mouseClicked#0;class#7951:8523" expanded="false" />
+            <element signature="method#mouseReleased#0;class#7951:8523" expanded="false" />
+            <element signature="method#mouseEntered#0;class#7951:8523" expanded="false" />
+            <element signature="method#mouseExited#0;class#7951:8523" expanded="false" />
+            <element signature="class#8742:9684" expanded="false" />
+            <element signature="method#mouseClicked#0;class#8742:9684" expanded="false" />
+            <element signature="method#mousePressed#0;class#8742:9684" expanded="false" />
+            <element signature="method#mouseReleased#0;class#8742:9684" expanded="false" />
+            <element signature="method#mouseEntered#0;class#8742:9684" expanded="false" />
+            <element signature="method#mouseExited#0;class#8742:9684" expanded="false" />
+            <element signature="class#9918:10473" expanded="false" />
+            <element signature="method#mouseClicked#0;class#9918:10473" expanded="false" />
+            <element signature="method#mouseReleased#0;class#9918:10473" expanded="false" />
+            <element signature="method#mouseEntered#0;class#9918:10473" expanded="false" />
+            <element signature="method#mouseExited#0;class#9918:10473" expanded="false" />
+            <element signature="class#10689:11236" expanded="false" />
+            <element signature="method#mouseClicked#0;class#10689:11236" expanded="false" />
+            <element signature="method#mousePressed#0;class#10689:11236" expanded="false" />
+            <element signature="method#mouseReleased#0;class#10689:11236" expanded="false" />
+            <element signature="method#mouseEntered#0;class#10689:11236" expanded="false" />
+            <element signature="method#mouseExited#0;class#10689:11236" expanded="false" />
             <element signature="method#main#0;class#Mychess#0" expanded="false" />
             <element signature="class#axis#0" expanded="false" />
           </folding>
@@ -1073,35 +1082,33 @@
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#585#591#0" expanded="true" />
-            <element signature="method#initial#0;class#Mychess#0" expanded="false" />
             <element signature="method#judgeWin#0;class#Mychess#0" expanded="false" />
-            <element signature="method#mouseClicked#0;class#4382:7610" expanded="false" />
-            <element signature="method#mouseReleased#0;class#4382:7610" expanded="false" />
-            <element signature="method#mouseEntered#0;class#4382:7610" expanded="false" />
-            <element signature="method#mouseExited#0;class#4382:7610" expanded="false" />
-            <element signature="class#7933:8505" expanded="false" />
-            <element signature="method#mouseClicked#0;class#7933:8505" expanded="false" />
-            <element signature="method#mouseReleased#0;class#7933:8505" expanded="false" />
-            <element signature="method#mouseEntered#0;class#7933:8505" expanded="false" />
-            <element signature="method#mouseExited#0;class#7933:8505" expanded="false" />
-            <element signature="class#8724:9666" expanded="false" />
-            <element signature="method#mouseClicked#0;class#8724:9666" expanded="false" />
-            <element signature="method#mousePressed#0;class#8724:9666" expanded="false" />
-            <element signature="method#mouseReleased#0;class#8724:9666" expanded="false" />
-            <element signature="method#mouseEntered#0;class#8724:9666" expanded="false" />
-            <element signature="method#mouseExited#0;class#8724:9666" expanded="false" />
-            <element signature="class#9900:10455" expanded="false" />
-            <element signature="method#mouseClicked#0;class#9900:10455" expanded="false" />
-            <element signature="method#mouseReleased#0;class#9900:10455" expanded="false" />
-            <element signature="method#mouseEntered#0;class#9900:10455" expanded="false" />
-            <element signature="method#mouseExited#0;class#9900:10455" expanded="false" />
-            <element signature="class#10671:11218" expanded="false" />
-            <element signature="method#mouseClicked#0;class#10671:11218" expanded="false" />
-            <element signature="method#mousePressed#0;class#10671:11218" expanded="false" />
-            <element signature="method#mouseReleased#0;class#10671:11218" expanded="false" />
-            <element signature="method#mouseEntered#0;class#10671:11218" expanded="false" />
-            <element signature="method#mouseExited#0;class#10671:11218" expanded="false" />
+            <element signature="method#mouseClicked#0;class#4400:7628" expanded="false" />
+            <element signature="method#mouseReleased#0;class#4400:7628" expanded="false" />
+            <element signature="method#mouseEntered#0;class#4400:7628" expanded="false" />
+            <element signature="method#mouseExited#0;class#4400:7628" expanded="false" />
+            <element signature="class#7951:8523" expanded="false" />
+            <element signature="method#mouseClicked#0;class#7951:8523" expanded="false" />
+            <element signature="method#mouseReleased#0;class#7951:8523" expanded="false" />
+            <element signature="method#mouseEntered#0;class#7951:8523" expanded="false" />
+            <element signature="method#mouseExited#0;class#7951:8523" expanded="false" />
+            <element signature="class#8742:9684" expanded="false" />
+            <element signature="method#mouseClicked#0;class#8742:9684" expanded="false" />
+            <element signature="method#mousePressed#0;class#8742:9684" expanded="false" />
+            <element signature="method#mouseReleased#0;class#8742:9684" expanded="false" />
+            <element signature="method#mouseEntered#0;class#8742:9684" expanded="false" />
+            <element signature="method#mouseExited#0;class#8742:9684" expanded="false" />
+            <element signature="class#9918:10473" expanded="false" />
+            <element signature="method#mouseClicked#0;class#9918:10473" expanded="false" />
+            <element signature="method#mouseReleased#0;class#9918:10473" expanded="false" />
+            <element signature="method#mouseEntered#0;class#9918:10473" expanded="false" />
+            <element signature="method#mouseExited#0;class#9918:10473" expanded="false" />
+            <element signature="class#10689:11236" expanded="false" />
+            <element signature="method#mouseClicked#0;class#10689:11236" expanded="false" />
+            <element signature="method#mousePressed#0;class#10689:11236" expanded="false" />
+            <element signature="method#mouseReleased#0;class#10689:11236" expanded="false" />
+            <element signature="method#mouseEntered#0;class#10689:11236" expanded="false" />
+            <element signature="method#mouseExited#0;class#10689:11236" expanded="false" />
             <element signature="method#main#0;class#Mychess#0" expanded="false" />
             <element signature="class#axis#0" expanded="false" />
           </folding>
@@ -1114,35 +1121,33 @@
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#585#591#0" expanded="true" />
-            <element signature="method#initial#0;class#Mychess#0" expanded="false" />
             <element signature="method#judgeWin#0;class#Mychess#0" expanded="false" />
-            <element signature="method#mouseClicked#0;class#4382:7610" expanded="false" />
-            <element signature="method#mouseReleased#0;class#4382:7610" expanded="false" />
-            <element signature="method#mouseEntered#0;class#4382:7610" expanded="false" />
-            <element signature="method#mouseExited#0;class#4382:7610" expanded="false" />
-            <element signature="class#7933:8505" expanded="false" />
-            <element signature="method#mouseClicked#0;class#7933:8505" expanded="false" />
-            <element signature="method#mouseReleased#0;class#7933:8505" expanded="false" />
-            <element signature="method#mouseEntered#0;class#7933:8505" expanded="false" />
-            <element signature="method#mouseExited#0;class#7933:8505" expanded="false" />
-            <element signature="class#8724:9666" expanded="false" />
-            <element signature="method#mouseClicked#0;class#8724:9666" expanded="false" />
-            <element signature="method#mousePressed#0;class#8724:9666" expanded="false" />
-            <element signature="method#mouseReleased#0;class#8724:9666" expanded="false" />
-            <element signature="method#mouseEntered#0;class#8724:9666" expanded="false" />
-            <element signature="method#mouseExited#0;class#8724:9666" expanded="false" />
-            <element signature="class#9900:10455" expanded="false" />
-            <element signature="method#mouseClicked#0;class#9900:10455" expanded="false" />
-            <element signature="method#mouseReleased#0;class#9900:10455" expanded="false" />
-            <element signature="method#mouseEntered#0;class#9900:10455" expanded="false" />
-            <element signature="method#mouseExited#0;class#9900:10455" expanded="false" />
-            <element signature="class#10671:11218" expanded="false" />
-            <element signature="method#mouseClicked#0;class#10671:11218" expanded="false" />
-            <element signature="method#mousePressed#0;class#10671:11218" expanded="false" />
-            <element signature="method#mouseReleased#0;class#10671:11218" expanded="false" />
-            <element signature="method#mouseEntered#0;class#10671:11218" expanded="false" />
-            <element signature="method#mouseExited#0;class#10671:11218" expanded="false" />
+            <element signature="method#mouseClicked#0;class#4400:7628" expanded="false" />
+            <element signature="method#mouseReleased#0;class#4400:7628" expanded="false" />
+            <element signature="method#mouseEntered#0;class#4400:7628" expanded="false" />
+            <element signature="method#mouseExited#0;class#4400:7628" expanded="false" />
+            <element signature="class#7951:8523" expanded="false" />
+            <element signature="method#mouseClicked#0;class#7951:8523" expanded="false" />
+            <element signature="method#mouseReleased#0;class#7951:8523" expanded="false" />
+            <element signature="method#mouseEntered#0;class#7951:8523" expanded="false" />
+            <element signature="method#mouseExited#0;class#7951:8523" expanded="false" />
+            <element signature="class#8742:9684" expanded="false" />
+            <element signature="method#mouseClicked#0;class#8742:9684" expanded="false" />
+            <element signature="method#mousePressed#0;class#8742:9684" expanded="false" />
+            <element signature="method#mouseReleased#0;class#8742:9684" expanded="false" />
+            <element signature="method#mouseEntered#0;class#8742:9684" expanded="false" />
+            <element signature="method#mouseExited#0;class#8742:9684" expanded="false" />
+            <element signature="class#9918:10473" expanded="false" />
+            <element signature="method#mouseClicked#0;class#9918:10473" expanded="false" />
+            <element signature="method#mouseReleased#0;class#9918:10473" expanded="false" />
+            <element signature="method#mouseEntered#0;class#9918:10473" expanded="false" />
+            <element signature="method#mouseExited#0;class#9918:10473" expanded="false" />
+            <element signature="class#10689:11236" expanded="false" />
+            <element signature="method#mouseClicked#0;class#10689:11236" expanded="false" />
+            <element signature="method#mousePressed#0;class#10689:11236" expanded="false" />
+            <element signature="method#mouseReleased#0;class#10689:11236" expanded="false" />
+            <element signature="method#mouseEntered#0;class#10689:11236" expanded="false" />
+            <element signature="method#mouseExited#0;class#10689:11236" expanded="false" />
             <element signature="method#main#0;class#Mychess#0" expanded="false" />
             <element signature="class#axis#0" expanded="false" />
           </folding>
@@ -1155,35 +1160,33 @@
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#585#591#0" expanded="true" />
-            <element signature="method#initial#0;class#Mychess#0" expanded="false" />
             <element signature="method#judgeWin#0;class#Mychess#0" expanded="false" />
-            <element signature="method#mouseClicked#0;class#4382:7610" expanded="false" />
-            <element signature="method#mouseReleased#0;class#4382:7610" expanded="false" />
-            <element signature="method#mouseEntered#0;class#4382:7610" expanded="false" />
-            <element signature="method#mouseExited#0;class#4382:7610" expanded="false" />
-            <element signature="class#7933:8505" expanded="false" />
-            <element signature="method#mouseClicked#0;class#7933:8505" expanded="false" />
-            <element signature="method#mouseReleased#0;class#7933:8505" expanded="false" />
-            <element signature="method#mouseEntered#0;class#7933:8505" expanded="false" />
-            <element signature="method#mouseExited#0;class#7933:8505" expanded="false" />
-            <element signature="class#8724:9666" expanded="false" />
-            <element signature="method#mouseClicked#0;class#8724:9666" expanded="false" />
-            <element signature="method#mousePressed#0;class#8724:9666" expanded="false" />
-            <element signature="method#mouseReleased#0;class#8724:9666" expanded="false" />
-            <element signature="method#mouseEntered#0;class#8724:9666" expanded="false" />
-            <element signature="method#mouseExited#0;class#8724:9666" expanded="false" />
-            <element signature="class#9900:10455" expanded="false" />
-            <element signature="method#mouseClicked#0;class#9900:10455" expanded="false" />
-            <element signature="method#mouseReleased#0;class#9900:10455" expanded="false" />
-            <element signature="method#mouseEntered#0;class#9900:10455" expanded="false" />
-            <element signature="method#mouseExited#0;class#9900:10455" expanded="false" />
-            <element signature="class#10671:11218" expanded="false" />
-            <element signature="method#mouseClicked#0;class#10671:11218" expanded="false" />
-            <element signature="method#mousePressed#0;class#10671:11218" expanded="false" />
-            <element signature="method#mouseReleased#0;class#10671:11218" expanded="false" />
-            <element signature="method#mouseEntered#0;class#10671:11218" expanded="false" />
-            <element signature="method#mouseExited#0;class#10671:11218" expanded="false" />
+            <element signature="method#mouseClicked#0;class#4400:7628" expanded="false" />
+            <element signature="method#mouseReleased#0;class#4400:7628" expanded="false" />
+            <element signature="method#mouseEntered#0;class#4400:7628" expanded="false" />
+            <element signature="method#mouseExited#0;class#4400:7628" expanded="false" />
+            <element signature="class#7951:8523" expanded="false" />
+            <element signature="method#mouseClicked#0;class#7951:8523" expanded="false" />
+            <element signature="method#mouseReleased#0;class#7951:8523" expanded="false" />
+            <element signature="method#mouseEntered#0;class#7951:8523" expanded="false" />
+            <element signature="method#mouseExited#0;class#7951:8523" expanded="false" />
+            <element signature="class#8742:9684" expanded="false" />
+            <element signature="method#mouseClicked#0;class#8742:9684" expanded="false" />
+            <element signature="method#mousePressed#0;class#8742:9684" expanded="false" />
+            <element signature="method#mouseReleased#0;class#8742:9684" expanded="false" />
+            <element signature="method#mouseEntered#0;class#8742:9684" expanded="false" />
+            <element signature="method#mouseExited#0;class#8742:9684" expanded="false" />
+            <element signature="class#9918:10473" expanded="false" />
+            <element signature="method#mouseClicked#0;class#9918:10473" expanded="false" />
+            <element signature="method#mouseReleased#0;class#9918:10473" expanded="false" />
+            <element signature="method#mouseEntered#0;class#9918:10473" expanded="false" />
+            <element signature="method#mouseExited#0;class#9918:10473" expanded="false" />
+            <element signature="class#10689:11236" expanded="false" />
+            <element signature="method#mouseClicked#0;class#10689:11236" expanded="false" />
+            <element signature="method#mousePressed#0;class#10689:11236" expanded="false" />
+            <element signature="method#mouseReleased#0;class#10689:11236" expanded="false" />
+            <element signature="method#mouseEntered#0;class#10689:11236" expanded="false" />
+            <element signature="method#mouseExited#0;class#10689:11236" expanded="false" />
             <element signature="method#main#0;class#Mychess#0" expanded="false" />
             <element signature="class#axis#0" expanded="false" />
           </folding>
@@ -1196,35 +1199,33 @@
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#585#591#0" expanded="true" />
-            <element signature="method#initial#0;class#Mychess#0" expanded="false" />
             <element signature="method#judgeWin#0;class#Mychess#0" expanded="false" />
-            <element signature="method#mouseClicked#0;class#4382:7610" expanded="false" />
-            <element signature="method#mouseReleased#0;class#4382:7610" expanded="false" />
-            <element signature="method#mouseEntered#0;class#4382:7610" expanded="false" />
-            <element signature="method#mouseExited#0;class#4382:7610" expanded="false" />
-            <element signature="class#7933:8505" expanded="false" />
-            <element signature="method#mouseClicked#0;class#7933:8505" expanded="false" />
-            <element signature="method#mouseReleased#0;class#7933:8505" expanded="false" />
-            <element signature="method#mouseEntered#0;class#7933:8505" expanded="false" />
-            <element signature="method#mouseExited#0;class#7933:8505" expanded="false" />
-            <element signature="class#8724:9666" expanded="false" />
-            <element signature="method#mouseClicked#0;class#8724:9666" expanded="false" />
-            <element signature="method#mousePressed#0;class#8724:9666" expanded="false" />
-            <element signature="method#mouseReleased#0;class#8724:9666" expanded="false" />
-            <element signature="method#mouseEntered#0;class#8724:9666" expanded="false" />
-            <element signature="method#mouseExited#0;class#8724:9666" expanded="false" />
-            <element signature="class#9900:10455" expanded="false" />
-            <element signature="method#mouseClicked#0;class#9900:10455" expanded="false" />
-            <element signature="method#mouseReleased#0;class#9900:10455" expanded="false" />
-            <element signature="method#mouseEntered#0;class#9900:10455" expanded="false" />
-            <element signature="method#mouseExited#0;class#9900:10455" expanded="false" />
-            <element signature="class#10671:11218" expanded="false" />
-            <element signature="method#mouseClicked#0;class#10671:11218" expanded="false" />
-            <element signature="method#mousePressed#0;class#10671:11218" expanded="false" />
-            <element signature="method#mouseReleased#0;class#10671:11218" expanded="false" />
-            <element signature="method#mouseEntered#0;class#10671:11218" expanded="false" />
-            <element signature="method#mouseExited#0;class#10671:11218" expanded="false" />
+            <element signature="method#mouseClicked#0;class#4400:7628" expanded="false" />
+            <element signature="method#mouseReleased#0;class#4400:7628" expanded="false" />
+            <element signature="method#mouseEntered#0;class#4400:7628" expanded="false" />
+            <element signature="method#mouseExited#0;class#4400:7628" expanded="false" />
+            <element signature="class#7951:8523" expanded="false" />
+            <element signature="method#mouseClicked#0;class#7951:8523" expanded="false" />
+            <element signature="method#mouseReleased#0;class#7951:8523" expanded="false" />
+            <element signature="method#mouseEntered#0;class#7951:8523" expanded="false" />
+            <element signature="method#mouseExited#0;class#7951:8523" expanded="false" />
+            <element signature="class#8742:9684" expanded="false" />
+            <element signature="method#mouseClicked#0;class#8742:9684" expanded="false" />
+            <element signature="method#mousePressed#0;class#8742:9684" expanded="false" />
+            <element signature="method#mouseReleased#0;class#8742:9684" expanded="false" />
+            <element signature="method#mouseEntered#0;class#8742:9684" expanded="false" />
+            <element signature="method#mouseExited#0;class#8742:9684" expanded="false" />
+            <element signature="class#9918:10473" expanded="false" />
+            <element signature="method#mouseClicked#0;class#9918:10473" expanded="false" />
+            <element signature="method#mouseReleased#0;class#9918:10473" expanded="false" />
+            <element signature="method#mouseEntered#0;class#9918:10473" expanded="false" />
+            <element signature="method#mouseExited#0;class#9918:10473" expanded="false" />
+            <element signature="class#10689:11236" expanded="false" />
+            <element signature="method#mouseClicked#0;class#10689:11236" expanded="false" />
+            <element signature="method#mousePressed#0;class#10689:11236" expanded="false" />
+            <element signature="method#mouseReleased#0;class#10689:11236" expanded="false" />
+            <element signature="method#mouseEntered#0;class#10689:11236" expanded="false" />
+            <element signature="method#mouseExited#0;class#10689:11236" expanded="false" />
             <element signature="method#main#0;class#Mychess#0" expanded="false" />
             <element signature="class#axis#0" expanded="false" />
           </folding>
@@ -1237,35 +1238,33 @@
           <caret line="36" column="45" lean-forward="true" selection-start-line="36" selection-start-column="45" selection-end-line="36" selection-end-column="45" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#585#591#0" expanded="true" />
-            <element signature="method#initial#0;class#Mychess#0" expanded="false" />
             <element signature="method#judgeWin#0;class#Mychess#0" expanded="false" />
-            <element signature="method#mouseClicked#0;class#4382:7610" expanded="false" />
-            <element signature="method#mouseReleased#0;class#4382:7610" expanded="false" />
-            <element signature="method#mouseEntered#0;class#4382:7610" expanded="false" />
-            <element signature="method#mouseExited#0;class#4382:7610" expanded="false" />
-            <element signature="class#7933:8505" expanded="false" />
-            <element signature="method#mouseClicked#0;class#7933:8505" expanded="false" />
-            <element signature="method#mouseReleased#0;class#7933:8505" expanded="false" />
-            <element signature="method#mouseEntered#0;class#7933:8505" expanded="false" />
-            <element signature="method#mouseExited#0;class#7933:8505" expanded="false" />
-            <element signature="class#8724:9666" expanded="false" />
-            <element signature="method#mouseClicked#0;class#8724:9666" expanded="false" />
-            <element signature="method#mousePressed#0;class#8724:9666" expanded="false" />
-            <element signature="method#mouseReleased#0;class#8724:9666" expanded="false" />
-            <element signature="method#mouseEntered#0;class#8724:9666" expanded="false" />
-            <element signature="method#mouseExited#0;class#8724:9666" expanded="false" />
-            <element signature="class#9900:10455" expanded="false" />
-            <element signature="method#mouseClicked#0;class#9900:10455" expanded="false" />
-            <element signature="method#mouseReleased#0;class#9900:10455" expanded="false" />
-            <element signature="method#mouseEntered#0;class#9900:10455" expanded="false" />
-            <element signature="method#mouseExited#0;class#9900:10455" expanded="false" />
-            <element signature="class#10671:11218" expanded="false" />
-            <element signature="method#mouseClicked#0;class#10671:11218" expanded="false" />
-            <element signature="method#mousePressed#0;class#10671:11218" expanded="false" />
-            <element signature="method#mouseReleased#0;class#10671:11218" expanded="false" />
-            <element signature="method#mouseEntered#0;class#10671:11218" expanded="false" />
-            <element signature="method#mouseExited#0;class#10671:11218" expanded="false" />
+            <element signature="method#mouseClicked#0;class#4400:7628" expanded="false" />
+            <element signature="method#mouseReleased#0;class#4400:7628" expanded="false" />
+            <element signature="method#mouseEntered#0;class#4400:7628" expanded="false" />
+            <element signature="method#mouseExited#0;class#4400:7628" expanded="false" />
+            <element signature="class#7951:8523" expanded="false" />
+            <element signature="method#mouseClicked#0;class#7951:8523" expanded="false" />
+            <element signature="method#mouseReleased#0;class#7951:8523" expanded="false" />
+            <element signature="method#mouseEntered#0;class#7951:8523" expanded="false" />
+            <element signature="method#mouseExited#0;class#7951:8523" expanded="false" />
+            <element signature="class#8742:9684" expanded="false" />
+            <element signature="method#mouseClicked#0;class#8742:9684" expanded="false" />
+            <element signature="method#mousePressed#0;class#8742:9684" expanded="false" />
+            <element signature="method#mouseReleased#0;class#8742:9684" expanded="false" />
+            <element signature="method#mouseEntered#0;class#8742:9684" expanded="false" />
+            <element signature="method#mouseExited#0;class#8742:9684" expanded="false" />
+            <element signature="class#9918:10473" expanded="false" />
+            <element signature="method#mouseClicked#0;class#9918:10473" expanded="false" />
+            <element signature="method#mouseReleased#0;class#9918:10473" expanded="false" />
+            <element signature="method#mouseEntered#0;class#9918:10473" expanded="false" />
+            <element signature="method#mouseExited#0;class#9918:10473" expanded="false" />
+            <element signature="class#10689:11236" expanded="false" />
+            <element signature="method#mouseClicked#0;class#10689:11236" expanded="false" />
+            <element signature="method#mousePressed#0;class#10689:11236" expanded="false" />
+            <element signature="method#mouseReleased#0;class#10689:11236" expanded="false" />
+            <element signature="method#mouseEntered#0;class#10689:11236" expanded="false" />
+            <element signature="method#mouseExited#0;class#10689:11236" expanded="false" />
             <element signature="method#main#0;class#Mychess#0" expanded="false" />
             <element signature="class#axis#0" expanded="false" />
           </folding>
@@ -1278,35 +1277,33 @@
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#585#591#0" expanded="true" />
-            <element signature="method#initial#0;class#Mychess#0" expanded="false" />
             <element signature="method#judgeWin#0;class#Mychess#0" expanded="false" />
-            <element signature="method#mouseClicked#0;class#4382:7610" expanded="false" />
-            <element signature="method#mouseReleased#0;class#4382:7610" expanded="false" />
-            <element signature="method#mouseEntered#0;class#4382:7610" expanded="false" />
-            <element signature="method#mouseExited#0;class#4382:7610" expanded="false" />
-            <element signature="class#7933:8505" expanded="false" />
-            <element signature="method#mouseClicked#0;class#7933:8505" expanded="false" />
-            <element signature="method#mouseReleased#0;class#7933:8505" expanded="false" />
-            <element signature="method#mouseEntered#0;class#7933:8505" expanded="false" />
-            <element signature="method#mouseExited#0;class#7933:8505" expanded="false" />
-            <element signature="class#8724:9666" expanded="false" />
-            <element signature="method#mouseClicked#0;class#8724:9666" expanded="false" />
-            <element signature="method#mousePressed#0;class#8724:9666" expanded="false" />
-            <element signature="method#mouseReleased#0;class#8724:9666" expanded="false" />
-            <element signature="method#mouseEntered#0;class#8724:9666" expanded="false" />
-            <element signature="method#mouseExited#0;class#8724:9666" expanded="false" />
-            <element signature="class#9900:10455" expanded="false" />
-            <element signature="method#mouseClicked#0;class#9900:10455" expanded="false" />
-            <element signature="method#mouseReleased#0;class#9900:10455" expanded="false" />
-            <element signature="method#mouseEntered#0;class#9900:10455" expanded="false" />
-            <element signature="method#mouseExited#0;class#9900:10455" expanded="false" />
-            <element signature="class#10671:11218" expanded="false" />
-            <element signature="method#mouseClicked#0;class#10671:11218" expanded="false" />
-            <element signature="method#mousePressed#0;class#10671:11218" expanded="false" />
-            <element signature="method#mouseReleased#0;class#10671:11218" expanded="false" />
-            <element signature="method#mouseEntered#0;class#10671:11218" expanded="false" />
-            <element signature="method#mouseExited#0;class#10671:11218" expanded="false" />
+            <element signature="method#mouseClicked#0;class#4400:7628" expanded="false" />
+            <element signature="method#mouseReleased#0;class#4400:7628" expanded="false" />
+            <element signature="method#mouseEntered#0;class#4400:7628" expanded="false" />
+            <element signature="method#mouseExited#0;class#4400:7628" expanded="false" />
+            <element signature="class#7951:8523" expanded="false" />
+            <element signature="method#mouseClicked#0;class#7951:8523" expanded="false" />
+            <element signature="method#mouseReleased#0;class#7951:8523" expanded="false" />
+            <element signature="method#mouseEntered#0;class#7951:8523" expanded="false" />
+            <element signature="method#mouseExited#0;class#7951:8523" expanded="false" />
+            <element signature="class#8742:9684" expanded="false" />
+            <element signature="method#mouseClicked#0;class#8742:9684" expanded="false" />
+            <element signature="method#mousePressed#0;class#8742:9684" expanded="false" />
+            <element signature="method#mouseReleased#0;class#8742:9684" expanded="false" />
+            <element signature="method#mouseEntered#0;class#8742:9684" expanded="false" />
+            <element signature="method#mouseExited#0;class#8742:9684" expanded="false" />
+            <element signature="class#9918:10473" expanded="false" />
+            <element signature="method#mouseClicked#0;class#9918:10473" expanded="false" />
+            <element signature="method#mouseReleased#0;class#9918:10473" expanded="false" />
+            <element signature="method#mouseEntered#0;class#9918:10473" expanded="false" />
+            <element signature="method#mouseExited#0;class#9918:10473" expanded="false" />
+            <element signature="class#10689:11236" expanded="false" />
+            <element signature="method#mouseClicked#0;class#10689:11236" expanded="false" />
+            <element signature="method#mousePressed#0;class#10689:11236" expanded="false" />
+            <element signature="method#mouseReleased#0;class#10689:11236" expanded="false" />
+            <element signature="method#mouseEntered#0;class#10689:11236" expanded="false" />
+            <element signature="method#mouseExited#0;class#10689:11236" expanded="false" />
             <element signature="method#main#0;class#Mychess#0" expanded="false" />
             <element signature="class#axis#0" expanded="false" />
           </folding>
@@ -1398,39 +1395,37 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Mychess.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="130">
-          <caret line="88" column="50" lean-forward="true" selection-start-line="88" selection-start-column="50" selection-end-line="88" selection-end-column="50" />
+        <state relative-caret-position="52">
+          <caret line="9" column="29" lean-forward="false" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#585#591#0" expanded="true" />
-            <element signature="method#initial#0;class#Mychess#0" expanded="false" />
             <element signature="method#judgeWin#0;class#Mychess#0" expanded="false" />
-            <element signature="method#mouseClicked#0;class#4382:7610" expanded="false" />
-            <element signature="method#mouseReleased#0;class#4382:7610" expanded="false" />
-            <element signature="method#mouseEntered#0;class#4382:7610" expanded="false" />
-            <element signature="method#mouseExited#0;class#4382:7610" expanded="false" />
-            <element signature="class#7933:8505" expanded="false" />
-            <element signature="method#mouseClicked#0;class#7933:8505" expanded="false" />
-            <element signature="method#mouseReleased#0;class#7933:8505" expanded="false" />
-            <element signature="method#mouseEntered#0;class#7933:8505" expanded="false" />
-            <element signature="method#mouseExited#0;class#7933:8505" expanded="false" />
-            <element signature="class#8724:9666" expanded="false" />
-            <element signature="method#mouseClicked#0;class#8724:9666" expanded="false" />
-            <element signature="method#mousePressed#0;class#8724:9666" expanded="false" />
-            <element signature="method#mouseReleased#0;class#8724:9666" expanded="false" />
-            <element signature="method#mouseEntered#0;class#8724:9666" expanded="false" />
-            <element signature="method#mouseExited#0;class#8724:9666" expanded="false" />
-            <element signature="class#9900:10455" expanded="false" />
-            <element signature="method#mouseClicked#0;class#9900:10455" expanded="false" />
-            <element signature="method#mouseReleased#0;class#9900:10455" expanded="false" />
-            <element signature="method#mouseEntered#0;class#9900:10455" expanded="false" />
-            <element signature="method#mouseExited#0;class#9900:10455" expanded="false" />
-            <element signature="class#10671:11218" expanded="false" />
-            <element signature="method#mouseClicked#0;class#10671:11218" expanded="false" />
-            <element signature="method#mousePressed#0;class#10671:11218" expanded="false" />
-            <element signature="method#mouseReleased#0;class#10671:11218" expanded="false" />
-            <element signature="method#mouseEntered#0;class#10671:11218" expanded="false" />
-            <element signature="method#mouseExited#0;class#10671:11218" expanded="false" />
+            <element signature="method#mouseClicked#0;class#4400:7628" expanded="false" />
+            <element signature="method#mouseReleased#0;class#4400:7628" expanded="false" />
+            <element signature="method#mouseEntered#0;class#4400:7628" expanded="false" />
+            <element signature="method#mouseExited#0;class#4400:7628" expanded="false" />
+            <element signature="class#7951:8523" expanded="false" />
+            <element signature="method#mouseClicked#0;class#7951:8523" expanded="false" />
+            <element signature="method#mouseReleased#0;class#7951:8523" expanded="false" />
+            <element signature="method#mouseEntered#0;class#7951:8523" expanded="false" />
+            <element signature="method#mouseExited#0;class#7951:8523" expanded="false" />
+            <element signature="class#8742:9684" expanded="false" />
+            <element signature="method#mouseClicked#0;class#8742:9684" expanded="false" />
+            <element signature="method#mousePressed#0;class#8742:9684" expanded="false" />
+            <element signature="method#mouseReleased#0;class#8742:9684" expanded="false" />
+            <element signature="method#mouseEntered#0;class#8742:9684" expanded="false" />
+            <element signature="method#mouseExited#0;class#8742:9684" expanded="false" />
+            <element signature="class#9918:10473" expanded="false" />
+            <element signature="method#mouseClicked#0;class#9918:10473" expanded="false" />
+            <element signature="method#mouseReleased#0;class#9918:10473" expanded="false" />
+            <element signature="method#mouseEntered#0;class#9918:10473" expanded="false" />
+            <element signature="method#mouseExited#0;class#9918:10473" expanded="false" />
+            <element signature="class#10689:11236" expanded="false" />
+            <element signature="method#mouseClicked#0;class#10689:11236" expanded="false" />
+            <element signature="method#mousePressed#0;class#10689:11236" expanded="false" />
+            <element signature="method#mouseReleased#0;class#10689:11236" expanded="false" />
+            <element signature="method#mouseEntered#0;class#10689:11236" expanded="false" />
+            <element signature="method#mouseExited#0;class#10689:11236" expanded="false" />
             <element signature="method#main#0;class#Mychess#0" expanded="false" />
             <element signature="class#axis#0" expanded="false" />
           </folding>

@@ -24,6 +24,7 @@ public class Mychess extends JFrame{
                 buttons[i][j].setIcon(new ImageIcon());
             }
         }
+        turn = 0;
         is_over = false;
         buttonStartGame.setText("Start again");
         operator.clear();
