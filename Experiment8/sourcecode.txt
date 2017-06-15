@@ -1,0 +1,2759 @@
+<body class="news_pc" ne-module="/news/index2016_rmd/index2016.js" ne-class="{{myState.isNs9 ? 'ns9' : 'ns12'}}"> 
+ <div class="index2016_wrap" id="index2016_wrap"> 
+  <div> 
+   <!-- 节日动画 start --> 
+   <!-- 节日动画 end --> 
+   <div class="common_nav"> 
+    <div ne-module="/modules/ne2015/common-nav/common-nav.js">
+     <div class="ntes_nav_wrap"> 
+      <div class="ntes-nav" id="js_N_nav"> 
+       <div class="ntes-nav-main clearfix"> 
+        <div class="c-fl"> 
+         <a class="ntes-nav-index-title ntes-nav-entry-wide c-fl" href="http://www.163.com/" title="网易首页">网易首页</a> 
+         <div class="ntes-nav-select ntes-nav-select-wide ntes-nav-app js_N_navSelect c-fl" tabindex="0" ne-click="handleFoldMenuClick()" ne-enter="handleMenuMouseEnter()" ne-leave="handleMenuMouseLeave()" ne-keydown="handleMenuKeyDown()"> 
+          <a href="http://www.163.com/#f=topnav" class="ntes-nav-select-title ntes-nav-entry-bgblack JS_NTES_LOG_FE" data-module-name="n_topnavapp">应用<em class="ntes-nav-select-arr"></em></a> 
+          <div class="ntes-nav-select-pop"> 
+           <ul class="ntes-nav-select-list clearfix"> 
+            <li data-module-name="n_topnavapplist_t_0"> <a href="http://m.163.com/newsapp/#f=topnav"><span><em class="ntes-nav-app-newsapp">网易新闻</em></span></a> </li> 
+            <li data-module-name="n_topnavapplist_t_2"> <a href="http://yuedu.163.com/#f=topnav"><span><em class="ntes-nav-app-yuedu">网易云阅读</em></span></a> </li> 
+            <li data-module-name="n_topnavapplist_t_13"> <a href="http://live.ent.163.com/download?f=163.homeNavApp"><span><em class="ntes-nav-app-bohe">薄荷直播</em></span></a> </li> 
+            <li data-module-name="n_topnavapplist_t_3"> <a href="http://note.youdao.com/#f=topnav"><span><em class="ntes-nav-app-note">有道云笔记</em></span></a> </li> 
+            <li data-module-name="n_topnavapplist_t_4"> <a href="http://www.icourse163.org/mobile.htm?from=163app&amp;utm_source=163.com&amp;utm_medium=web_app&amp;utm_campaign=business"><span><em class="ntes-nav-app-ht">大学MOOC</em></span></a> </li> 
+            <li data-module-name="n_topnavapplist_t_5"> <a href="http://open.163.com/#f=topnav"><span><em class="ntes-nav-app-open">网易公开课</em></span></a> </li> 
+            <li data-module-name="n_topnavapplist_t_6"> <a href="http://caipiao.163.com/mobile/client_cp.jsp#from=yingyong"><span><em class="ntes-nav-app-cp">网易彩票</em></span></a> </li> 
+            <li data-module-name="n_topnavapplist_t_7"> <a href="http://cidian.youdao.com/?vendor=topnav"><span><em class="ntes-nav-app-cd">有道词典</em></span></a> </li> 
+            <li data-module-name="n_topnavapplist_t_8"> <a href="http://mail.163.com/client/dl.html?from=mail46"><span><em class="ntes-nav-app-mail">邮箱大师</em></span></a> </li> 
+            <li data-module-name="n_topnavapplist_t_9"> <a href="http://www.lofter.com/?act=qb163rk_20141031_01"><span><em class="ntes-nav-app-lofter">LOFTER</em></span></a> </li> 
+            <li data-module-name="n_topnavapplist_t_10"> <a href="http://study.163.com/client/download.htm?from=163app&amp;utm_source=163.com&amp;utm_medium=web_app&amp;utm_campaign=business"><span><em class="ntes-nav-app-study">网易云课堂</em></span></a> </li> 
+            <li data-module-name="n_topnavapplist_t_11"> <a href="http://x.163.com/buy/index.html#/m/apps/front/mall/productlist?source=163webapp"><span><em class="ntes-nav-app-qingguo">青果商城</em></span></a> </li> 
+            <li class="last" data-module-name="n_topnavapplist_t_12"> <a href="http://i.money.163.com/"><span><em class="ntes-nav-app-money">网易财经</em></span></a> </li> 
+           </ul> 
+          </div> 
+         </div> 
+        </div> 
+        <div class="c-fr"> 
+         <div class="ntes-nav-quick-navigation"> 
+          <a href="javascript:void(0);" class="ntes-nav-quick-navigation-btn" target="_self"> <em>快速导航<span class="menu1"></span><span class="menu2"></span><span class="menu3"></span></em> </a> 
+          <div class="ntes-quicknav-pop"> 
+           <div class="ntes-quicknav-list"> 
+            <div class="ntes-quicknav-content"> 
+             <ul class="ntes-quicknav-column ntes-quicknav-column-1"> 
+              <li> <h3><a href="http://news.163.com">新闻</a></h3> </li> 
+              <li> <a href="http://news.163.com/domestic">国内</a> </li> 
+              <li> <a href="http://news.163.com/world">国际</a> </li> 
+              <li> <a href="http://d.news.163.com">哒哒</a> </li> 
+              <li> <a href="http://news.163.com/photo">图片</a> </li> 
+              <li> <a href="http://view.163.com">评论</a> </li> 
+              <li> <a href="http://discovery.163.com">探索</a> </li> 
+              <li> <a href="http://war.163.com">军事</a> </li> 
+              <li> <a href="http://news.163.com/localnews/">本地新闻</a> </li> 
+             </ul> 
+             <ul class="ntes-quicknav-column ntes-quicknav-column-2"> 
+              <li> <h3><a href="http://sports.163.com">体育</a></h3> </li> 
+              <li> <a href="http://sports.163.com/nba">NBA</a> </li> 
+              <li> <a href="http://sports.163.com/cba">CBA</a> </li> 
+              <li> <a href="http://sports.163.com/allsports">综合</a> </li> 
+              <li> <a href="http://sports.163.com/zc">中超</a> </li> 
+              <li> <a href="http://sports.163.com/world">国际足球</a> </li> 
+              <li> <a href="http://sports.163.com/yc">英超</a> </li> 
+              <li> <a href="http://sports.163.com/xj">西甲</a> </li> 
+              <li> <a href="http://sports.163.com/yj">意甲</a> </li> 
+             </ul> 
+             <ul class="ntes-quicknav-column ntes-quicknav-column-3"> 
+              <li> <h3><a href="http://ent.163.com">娱乐</a></h3> </li> 
+              <li> <a href="http://ent.163.com/star">明星</a> </li> 
+              <li> <a href="http://ent.163.com/photo">图片</a> </li> 
+              <li> <a href="http://ent.163.com/movie">电影</a> </li> 
+              <li> <a href="http://data.ent.163.com">资料库</a> </li> 
+              <li> <a href="http://ent.163.com/tv">电视</a> </li> 
+              <li> <a href="http://ent.163.com/music">音乐</a> </li> 
+              <li> &nbsp; </li> 
+              <li> &nbsp; </li> 
+             </ul> 
+             <ul class="ntes-quicknav-column ntes-quicknav-column-4"> 
+              <li> <h3><a href="http://money.163.com">财经</a></h3> </li> 
+              <li> <a href="http://money.163.com/stock">股票</a> </li> 
+              <li> <a href="http://quotes.money.163.com/stock">行情</a> </li> 
+              <li> <a href="http://money.163.com/chanjing">产经</a> </li> 
+              <li> <a href="http://money.163.com/ipo">新股</a> </li> 
+              <li> <a href="http://money.163.com/finance">金融</a> </li> 
+              <li> <a href="http://money.163.com/fund">基金</a> </li> 
+              <li> <a href="http://biz.163.com">商业</a> </li> 
+              <li> <a href="http://money.163.com/licai">理财</a> </li> 
+             </ul> 
+             <ul class="ntes-quicknav-column ntes-quicknav-column-5"> 
+              <li> <h3><a href="http://auto.163.com">汽车</a></h3> </li> 
+              <li> <a href="http://auto.163.com/buy">购车</a> </li> 
+              <li> <a href="http://auto.163.com/depreciate">行情</a> </li> 
+              <li> <a href="http://product.auto.163.com/finder">选车</a> </li> 
+              <li> <a href="http://product.auto.163.com">车型库</a> </li> 
+              <li> <a href="http://club.auto.163.com">论坛</a> </li> 
+              <li> <a href="http://auto.163.com/news">行业</a> </li> 
+              <li> <a href="http://auto.163.com/chezhu">用车</a> </li> 
+              <li> <a href="http://auto.163.com/photo">汽车图片</a> </li> 
+             </ul> 
+             <ul class="ntes-quicknav-column ntes-quicknav-column-6"> 
+              <li> <h3><a href="http://tech.163.com">科技</a></h3> </li> 
+              <li> <a href="http://tech.163.com/telecom/">通信</a> </li> 
+              <li> <a href="http://tech.163.com/it">IT</a> </li> 
+              <li> <a href="http://tech.163.com/internet">互联网</a> </li> 
+              <li> <a href="http://tech.163.com/special/ydhlw">移动互联网</a> </li> 
+              <li> <a href="http://tech.163.com/special/chzt">特别策划</a> </li> 
+              <li> <a href="http://tech.163.com/special/wudaokou">五道口沙龙</a> </li> 
+              <li> <a href="http://tech.163.com/special/yyzd">易语中的</a> </li> 
+              <li> <a href="http://tech.163.com/special">专题</a> </li> 
+             </ul> 
+             <ul class="ntes-quicknav-column ntes-quicknav-column-7"> 
+              <li> <h3><a href="http://lady.163.com">女人</a></h3> </li> 
+              <li> <a href="http://baby.163.com">亲子</a> </li> 
+              <li> <a href="http://fashion.163.com/art">艺术</a> </li> 
+              <li> <a href="http://fashion.163.com">时尚</a> </li> 
+              <li> <a href="http://shoucang.163.com">收藏</a> </li> 
+              <li> <a href="http://lady.163.com/sense">情感</a> </li> 
+              <li> <a href="http://lady.163.com/astro">星座</a> </li> 
+              <li> <a href="http://lady.163.com/beauty">美容</a> </li> 
+              <li> <a href="http://cosmetic.lady.163.com/trial">免费试用</a> </li> 
+             </ul> 
+             <ul class="ntes-quicknav-column ntes-quicknav-column-8"> 
+              <li> <h3><a href="http://mobile.163.com">手机</a><span>/</span><a href="http://digi.163.com/">数码</a></h3> </li> 
+              <li> <a href="http://mobile.163.com/mi">移动</a> </li> 
+              <li> <a href="http://digi.163.com/pc">电脑</a> </li> 
+              <li> <a href="http://product.mobile.163.com">手机库</a> </li> 
+              <li> <a href="http://hea.163.com/">家电</a> </li> 
+              <li> <a href="http://club.tech.163.com">手机论坛</a> </li> 
+              <li> <a href="http://digi.163.com/smart">智能硬件</a> </li> 
+              <li> <a href="http://digi.163.com/dc">相机</a> </li> 
+              <li> <a href="http://v.mobile.163.com">手机视频</a> </li> 
+             </ul> 
+             <ul class="ntes-quicknav-column ntes-quicknav-column-9"> 
+              <li> <h3><a href="http://house.163.com">房产</a><span>/</span><a href="http://home.163.com">家居</a></h3> </li> 
+              <li> <a href="http://bj.house.163.com">北京房产</a> </li> 
+              <li> <a href="http://sh.house.163.com">上海房产</a> </li> 
+              <li> <a href="http://gz.house.163.com">广州房产</a> </li> 
+              <li> <a href="http://house.163.com/city">全部分站</a> </li> 
+              <li> <a href="http://xf.house.163.com">楼盘库</a> </li> 
+              <li> <a href="http://home.163.com/jiaju/">家具</a> </li> 
+              <li> <a href="http://home.163.com/weiyu/">卫浴</a> </li> 
+              <li> <a href="http://home.163.com/special/jiajuyigui">衣柜</a> </li> 
+             </ul> 
+             <ul class="ntes-quicknav-column ntes-quicknav-column-10"> 
+              <li> <h3><a href="http://travel.163.com">旅游</a></h3> </li> 
+              <li> <a href="http://travel.163.com/outdoor">户外</a> </li> 
+              <li> <a href="http://guizhou.travel.163.com">贵州</a> </li> 
+              <li> <a href="http://travel.163.com/food">美食</a> </li> 
+              <li> <a href="http://jingdian.travel.163.com/domestic/1000066937">四川</a> </li> 
+              <li> <a href="http://jingdian.travel.163.com">景点</a> </li> 
+              <li> <a href="http://jingdian.travel.163.com/domestic/1000066944">新疆</a> </li> 
+              <li> <a href="http://travel.163.com/special/travellist/#f=endnav">专题</a> </li> 
+              <li> <a href="http://jingdian.travel.163.com/domestic/1000066926/#f=endnav">西藏</a> </li> 
+             </ul> 
+             <ul class="ntes-quicknav-column ntes-quicknav-column-11"> 
+              <li> <h3><a href="http://edu.163.com">教育</a></h3> </li> 
+              <li> <a href="http://edu.163.com/yimin">移民</a> </li> 
+              <li> <a href="http://edu.163.com/kaoyan">考研</a> </li> 
+              <li> <a href="http://edu.163.com/liuxue">留学</a> </li> 
+              <li> <a href="http://edu.163.com/special/official">公务员</a> </li> 
+              <li> <a href="http://edu.163.com/en">外语</a> </li> 
+              <li> <a href="http://kids.163.com">中小学</a> </li> 
+              <li> <a href="http://edu.163.com/gaokao">高考</a> </li> 
+              <li> <a href="http://daxue.163.com">校园</a> </li> 
+             </ul> 
+             <div class="ntes-nav-sitemap">
+              <a href="http://sitemap.163.com/"><i></i>查看网易地图</a>
+             </div> 
+            </div> 
+           </div> 
+          </div> 
+         </div> 
+         <div class="c-fr"> 
+          <div ne-hide="{{state.loginedFlag}}" class="c-fl" id="js_N_navLoginBefore"> 
+           <div id="js_N_navHighlight" class="js_loginframe ntes-nav-login ntes-nav-login-normal"> 
+            <a href="http://reg.163.com/" class="ntes-nav-login-title">登录</a> 
+            <div class="ntes-nav-loginframe-pop" id="js_N_login_wrap"> 
+             <!--加载登陆组件--> 
+            </div> 
+           </div> 
+           <div class="ntes-nav-select ntes-nav-select-wide js_N_navSelect JS_NTES_LOG_FE c-fl" ne-click="handleFoldMenuClick()" tabindex="0" ne-enter="handleMenuMouseEnter()" ne-leave="handleMenuMouseLeave()" ne-keydown="handleMenuKeyDown()"> 
+            <a class="ntes-nav-select-title ntes-nav-select-title-register" data-module-name="n_topnavreg" href="http://reg.email.163.com/mailregAll/reg0.jsp?from=163navi&amp;regPage=163">注册免费邮箱<em class="ntes-nav-select-arr"></em></a> 
+            <div class="ntes-nav-select-pop"> 
+             <ul class="ntes-nav-select-list clearfix" style="width:210px;"> 
+              <li class="JS_NTES_LOG_FE"> <a href="http://reg.vip.163.com/register.m?from=topnav"><span style="width:190px;">注册VIP邮箱（特权邮箱，付费）</span></a> </li> 
+              <li class="last JS_NTES_LOG_FE"> <a href="http://mail.163.com/client/dl.html?from=mail46"><span style="width:190px;">免费下载网易官方手机邮箱应用</span></a> </li> 
+             </ul> 
+            </div> 
+           </div> 
+          </div> 
+          <div ne-show="{{state.loginedFlag}}" class="c-fl" id="js_N_navLoginAfter" style="display:none"> 
+           <!--<span class="c-fl mr6">欢迎您，</span>--> 
+           <div id="js_N_logined_warp" data-module-name="n_topnavlogined" class="js_N_navSelect ntes-nav-logined JS_NTES_LOG_FE" tabindex="0" ne-click="handleFoldMenuClick()" ne-enter="handleMenuMouseEnter()" ne-leave="handleMenuMouseLeave()" ne-keydown="handleMenuKeyDown()"> 
+            <span class="ntes-nav-select-title ntes-nav-logined-userinfo"><span ne-html="{{state.userMail}}" id="js_N_navUsername" class="ntes-nav-logined-username"></span><em class="ntes-nav-select-arr"></em></span> 
+            <div ne-role="suggestWrap" id="js_login_suggest_wrap" class="ntes-nav-select-pop"> 
+             <ul id="js_logined_suggest" class="ntes-nav-select-list clearfix"> 
+              <li ne-class="{{__i == state.productSuggestList.length -1 ? 'last': ''}}" ne-repeat="product in state.productSuggestList"> <a ne-href="{{product.url}}" target="_blank"> <span ne-html="{{product.name}}"></span> </a> </li> 
+             </ul> 
+            </div> 
+           </div> 
+           <a class="ntes-nav-entry-wide c-fl" target="_self" ne-href="{{state.loginedOutUrl}}" id="js_N_navLogout">安全退出</a> 
+          </div> 
+         </div> 
+         <ul class="ntes-nav-inside"> 
+          <li class="JS_NTES_LOG_FE" data-module-name="n_topnavkaola"> 
+           <div class="ntes-nav-select js_N_navSelect c-fl" tabindex="0" ne-click="handleFoldMenuClick()" ne-enter="handleMenuMouseEnter()" ne-leave="handleMenuMouseLeave()" ne-keydown="handleMenuKeyDown()"> 
+            <a id="js_kaola_url" href="http://rd.da.netease.com/redirect?t=Vc8G344566&amp;p=null&amp;proId=1922&amp;target=http%3A%2F%2Fwww.kaola.com%2F%3Ftag%3Dbe3d8d027a530881037ef01d304eb505" class="ntes-nav-select-title ntes-nav-select-title-kaola ntes-nav-entry-bgblack"><em class="ntes-nav-entry-kaola">网易考拉</em><em class="ntes-nav-select-arr"></em><span class="ntes-nav-msg ntes-nav-kaola-msg" id="js_N_navKaolaMsg" ne-show="{{!!state.kaolaMsgNum}}" ne-click="handleMsgClick()"><em class="ntes-nav-msg-num" ne-html="{{state.kaolaMsgNum}}"></em></span></a> 
+            <div class="ntes-nav-select-pop ntes-nav-select-pop-kaola"> 
+             <ul class="ntes-nav-select-list clearfix"> 
+              <li> <a href="http://rd.da.netease.com/redirect?t=wzLfqZ&amp;p=oLFHyb&amp;proId=1024&amp;target=http%3A%2F%2Fwww.kaola.com%2Factivity%2Fdetail%2F10194.shtml%3Ftag%3Dbe3d8d027a530881037ef01d304eb505"><span>1088元现金礼包</span></a> </li> 
+              <li> <a href="http://rd.da.netease.com/redirect?t=El8Cd7DQGS&amp;p=deetOH&amp;proId=1024&amp;target=http%3A%2F%2Fwww.kaola.com%2Factivity%2Fdetail%2F15809.shtml%3Ftag%3Dbe3d8d027a530881037ef01d304eb505"><span>天天特价 9.9包邮</span></a> </li> 
+              <li> <a href="http://rd.da.netease.com/redirect?t=ZVbj6qXGhC&amp;p=null&amp;proId=1922&amp;target=http%3A%2F%2Fwww.kaola.com%2Factivity%2Fdetail%2F11835.shtml%3Ftag%3Dbe3d8d027a530881037ef01d304eb505"><span>游戏充值9.8折</span></a> </li> 
+              <li> <a href="http://rd.da.netease.com/redirect?t=hKWSGbS2Rw&amp;p=CbkiaN&amp;proId=1922&amp;target=http%3A%2F%2Fwww.kaola.com%2Factivity%2Fdetail%2F11990.shtml%3Ftag%3Dbe3d8d027a530881037ef01d304eb505"><span>母婴专区</span></a> </li> 
+              <li> <a href="http://rd.da.netease.com/redirect?t=I3Qaaw&amp;p=zbga4U&amp;proId=1024&amp;target=http%3A%2F%2Fwww.kaola.com%2Factivity%2Fdetail%2F3219.html%3Ftag%3Dbe3d8d027a530881037ef01d304eb505"><span>美容彩妆</span></a> </li> 
+              <li> <a href="http://rd.da.netease.com/redirect?t=fsgZIu10Bz&amp;p=hJziDS&amp;proId=1922&amp;target=http%3A%2F%2Fwww.kaola.com%2Factivity%2Fdetail%2F11667.shtml%3Ftag%3Dbe3d8d027a530881037ef01d304eb505"><span>家居日用</span></a> </li> 
+              <li> <a href="http://rd.da.netease.com/redirect?t=OaAxeOxD3p&amp;p=vstfIh&amp;proId=1922&amp;target=http%3A%2F%2Fwww.kaola.com%2Factivity%2Fdetail%2F11884.shtml%3Ftag%3Dbe3d8d027a530881037ef01d304eb505"><span>进口美食</span></a> </li> 
+              <li> <a href="http://rd.da.netease.com/redirect?t=KApRocvHmn&amp;p=NNOB1N&amp;proId=1922&amp;target=http%3A%2F%2Fwww.kaola.com%2Factivity%2Fdetail%2F12026.shtml%3Ftag%3Dbe3d8d027a530881037ef01d304eb505"><span>营养保健</span></a> </li> 
+              <li class="last"> <a href="http://rd.da.netease.com/redirect?t=tfv0nFeBxd&amp;p=59bHmS&amp;proId=1922&amp;target=http%3A%2F%2Fwww.kaola.com%2Factivity%2Fdetail%2F12116.shtml%3Ftag%3Dbe3d8d027a530881037ef01d304eb505"><span>海外直邮</span></a> </li> 
+             </ul> 
+            </div> 
+           </div> </li> 
+          <li class="JS_NTES_LOG_FE" data-module-name="n_topnavbobo"> 
+           <div class="ntes-nav-select js_N_navSelect c-fl" tabindex="0" ne-click="handleFoldMenuClick()" ne-enter="handleMenuMouseEnter()" ne-leave="handleMenuMouseLeave()" ne-keydown="handleMenuKeyDown()"> 
+            <a id="js_bobo_url" href="http://live.ent.163.com/room?f=163.homeNav" class="ntes-nav-select-title ntes-nav-select-title-bobo ntes-nav-entry-bgblack"><em class="ntes-nav-entry-bobo">薄荷直播</em><em class="ntes-nav-select-arr"></em><span ne-show="{{!!state.boboMsgNum}}" class="ntes-nav-msg" id="js_N_navBoboMsg" ne-click="handleMsgClick()"><em class="ntes-nav-msg-num" ne-html="{{state.boboMsgNum}}"></em></span></a> 
+            <div class="ntes-nav-select-pop ntes-nav-select-pop-bobo"> 
+             <ul class="ntes-nav-select-list clearfix"> 
+              <li> <a href="http://live.ent.163.com/room?f=163.homeNav"><span>薄荷直播大厅</span></a> </li> 
+              <li class="last"> <a href="http://live.ent.163.com/download?f=163.homeNav"><span>下载薄荷直播app</span></a> </li> 
+             </ul> 
+            </div> 
+           </div> </li> 
+          <li class="JS_NTES_LOG_FE" data-module-name="n_topnavlofter"> 
+           <div class="ntes-nav-select js_N_navSelect c-fl" tabindex="0" ne-click="handleFoldMenuClick()" ne-enter="handleMenuMouseEnter()" ne-leave="handleMenuMouseLeave()" ne-keydown="handleMenuKeyDown()"> 
+            <a id="js_lofter_icon_url" ne-href="{{state.lofterUrl}}" class="ntes-nav-select-title ntes-nav-select-title-lofter ntes-nav-entry-bgblack"><em class="ntes-nav-entry-lofter">LOFTER</em><em class="ntes-nav-select-arr"></em><span ne-show="{{!!state.lofterMsgNum}}" class="ntes-nav-msg" id="js_N_navLofterMsg" ne-click="handleMsgClick()"><em class="ntes-nav-msg-num" ne-html="{{state.lofterMsgNum}}"></em></span></a> 
+            <div class="ntes-nav-select-pop ntes-nav-select-pop-lofter"> 
+             <ul id="js_lofter_pop_url" class="ntes-nav-select-list clearfix"> 
+              <li ne-class="{{__i==state.lofterPopList.length-1 ? 'last':''}}" ne-repeat="lofteritem in state.lofterPopList"> <a ne-href="{{lofteritem.url}}"><span ne-html="{{lofteritem.name}}">进入LOFTER</span></a> </li> 
+             </ul> 
+            </div> 
+           </div> </li> 
+          <li class="JS_NTES_LOG_FE" data-module-name="n_topnavstudy"> 
+           <div class="ntes-nav-select js_N_navSelect c-fl" tabindex="0" ne-click="handleFoldMenuClick()" ne-enter="handleMenuMouseEnter()" ne-leave="handleMenuMouseLeave()" ne-keydown="handleMenuKeyDown()"> 
+            <a id="js_study_icon_url" href="http://study.163.com/?utm_source=163.com&amp;utm_medium=web_topnav&amp;utm_campaign=business" class="ntes-nav-select-title ntes-nav-select-title-study ntes-nav-entry-bgblack"><em class="ntes-nav-entry-study">网易云课堂</em><em class="ntes-nav-select-arr"></em><span class="ntes-nav-msg" id="js_N_navStudyMsg"><em class="ntes-nav-msg-num"></em></span></a> 
+            <div class="ntes-nav-select-pop ntes-nav-select-pop-study"> 
+             <ul id="js_study_pop_url" class="ntes-nav-select-list clearfix"> 
+              <li> <a href="http://study.163.com/smartSpec/intro.htm?utm_source=163.com&amp;utm_medium=web_topnav&amp;utm_campaign=business"><span>微专业-升职通道</span></a> </li> 
+              <li> <a href="http://study.163.com/category/it/?utm_source=163.com&amp;utm_medium=web_topnav&amp;utm_campaign=business"><span>编程开发</span></a> </li> 
+              <li> <a href="http://study.163.com/category/design/?utm_source=163.com&amp;utm_medium=web_topnav&amp;utm_campaign=business"><span>产品设计</span></a> </li> 
+              <li> <a href="http://study.163.com/category/lifestyle/?utm_source=163.com&amp;utm_medium=web_topnav&amp;utm_campaign=business"><span>生活方式</span></a> </li> 
+              <li> <a href="http://study.163.com/category/office-productivity/?utm_source=163.com&amp;utm_medium=web_topnav&amp;utm_campaign=business"><span>办公效率</span></a> </li> 
+              <li> <a href="http://study.163.com/category/occupation/?utm_source=163.com&amp;utm_medium=web_topnav&amp;utm_campaign=business"><span>职业发展</span></a> </li> 
+              <li> <a href="http://study.163.com/category/photography/?utm_source=163.com&amp;utm_medium=web_topnav&amp;utm_campaign=business"><span>摄影影视</span></a> </li> 
+              <li class="last"> <a href="http://study.163.com/category/kid/?utm_source=163.com&amp;utm_medium=web_topnav&amp;utm_campaign=business"><span>亲子育儿</span></a> </li> 
+             </ul> 
+            </div> 
+           </div> </li> 
+          <li class="JS_NTES_LOG_FE" data-module-name="n_topnavmail"> 
+           <div class="ntes-nav-select js_N_navSelect c-fl" tabindex="0" ne-click="handleFoldMenuClick()" ne-enter="handleMenuMouseEnter()" ne-leave="handleMenuMouseLeave()" ne-keydown="handleMenuKeyDown()"> 
+            <a id="js_mail_url" ne-href="{{state.mailUrl}}" class="ntes-nav-select-title
+			ntes-nav-select-title-mail ntes-nav-entry-bgblack"><em class="ntes-nav-entry-mail">邮箱</em><em class="ntes-nav-select-arr"></em><span ne-show="{{!!state.mailMsgNum}}" class="ntes-nav-msg" id="js_N_navMailMsg" ne-click="handleMsgClick()"><em class="ntes-nav-msg-num" ne-html="{{state.mailMsgNum}}"></em></span></a> 
+            <div class="ntes-nav-select-pop ntes-nav-select-pop-mail"> 
+             <ul class="ntes-nav-select-list clearfix"> 
+              <li> <a href="http://email.163.com/#f=topnav"><span>免费邮箱</span></a> </li> 
+              <li> <a href="http://vipmail.163.com/#f=topnav"><span>VIP邮箱</span></a> </li> 
+              <li> <a href="http://qiye.163.com/#f=topnav"><span>企业邮箱</span></a> </li> 
+              <li> <a href="http://reg.email.163.com/mailregAll/reg0.jsp?from=ntes_nav&amp;regPage=163"><span>免费注册</span></a> </li> 
+              <li> <a href="http://reg.email.163.com/unireg/call.do?cmd=register.entrance&amp;flow=mobile&amp;from=ntes_nav"><span>快速注册</span></a> </li> 
+              <li class="last"> <a href="http://mail.163.com/dashi/dlpro.html?from=mail46"><span>客户端下载</span></a> </li> 
+             </ul> 
+            </div> 
+           </div> </li> 
+          <li class="JS_NTES_LOG_FE" data-module-name="n_topnavpay"> 
+           <div class="ntes-nav-select js_N_navSelect c-fl" tabindex="0" ne-click="handleFoldMenuClick()" ne-enter="handleMenuMouseEnter()" ne-leave="handleMenuMouseLeave()" ne-keydown="handleMenuKeyDown()"> 
+            <a href="http://pay.163.com/" class="ntes-nav-select-title
+			ntes-nav-select-title-money ntes-nav-entry-bgblack"><em class="ntes-nav-entry-money">支付</em><em class="ntes-nav-select-arr"></em></a> 
+            <div class="ntes-nav-select-pop ntes-nav-select-pop-temp"> 
+             <ul class="ntes-nav-select-list clearfix"> 
+              <li> <a href="http://pay.163.com/#f=topnav"><span>一卡通充值</span></a> </li> 
+              <li> <a href="http://ecard.163.com/script/index#f=topnav"><span>一卡通购买</span></a> </li> 
+              <li> <a href="https://epay.163.com/"><span>我的网易支付</span></a> </li> 
+              <li> <a href="https://3c.163.com/?from=wangyimenhu16"><span>网易智造</span></a> </li> 
+              <li> <a href="https://i.epay.126.net/a/8a/static/188activity.html?utm_source=163&amp;utm_medium=bar_pc&amp;utm_campaign=1888cashfest&amp;mmd=163&amp;mpl=bar_pc&amp;mkw=1888cashfest"><span>网易理财送1888元</span></a> </li> 
+              <li> <a href="https://pop.lmlc.com/web/activity/practiceGold/index.html?from=tgn163ws"><span>立马理财新人礼</span></a> </li> 
+              <li class="last"> <a href="http://i.money.163.com/"><span>网易财经App下载</span></a> </li> 
+             </ul> 
+            </div> 
+           </div> </li> 
+          <li class="JS_NTES_LOG_FE" data-module-name="n_topnavdianshang"> 
+           <div class="ntes-nav-select js_N_navSelect c-fl" tabindex="0" ne-click="handleFoldMenuClick()" ne-enter="handleMenuMouseEnter()" ne-leave="handleMenuMouseLeave()" ne-keydown="handleMenuKeyDown()"> 
+            <a href="http://baoxian.163.com/car/?from=mhgwc" class="ntes-nav-select-title
+			ntes-nav-select-title-cart ntes-nav-entry-bgblack"><em class="ntes-nav-entry-cart">电商</em><em class="ntes-nav-select-arr"></em></a> 
+            <div class="ntes-nav-select-pop ntes-nav-select-pop-temp"> 
+             <ul class="ntes-nav-select-list clearfix"> 
+              <li> <a href="http://caipiao.163.com/?from=wscj"><span>彩票</span></a> </li> 
+              <li> <a href="http://888.163.com/?from=tgnh1"><span>网易1元购</span></a> </li> 
+              <li> <a href="http://fa.163.com/activity/silver/sign.do?from=tgnwscj"><span>贵金属</span></a> </li> 
+              <li> <a href="http://baoxian.163.com/?from=wscj"><span>车险</span></a> </li> 
+              <li> <a href="http://you.163.com?from=web_in_wydaohang"> <span>严选</span> </a> </li> 
+              <li> <a href="http://piao.163.com/?from=wscj"><span>电影票</span></a> </li> 
+              <li> <a href="http://trip.163.com/?from=wscj"><span>火车票</span></a> </li> 
+              <li> <a href="https://zc.163.com?utm_source=newspc&amp;utm_medium=home_pc&amp;utm_campaign=Crowdfunding&amp;mmd=newspc&amp;mpl=home_pc&amp;mkw=Crowdfunding"><span>网易众筹</span></a> </li> 
+              <li class="last"> <a href="http://x.163.com/buy/index.html#/m/apps/front/mall/productlist?source=163webbuy"><span>青果商城</span></a> </li> 
+             </ul> 
+            </div> 
+           </div> </li> 
+          <li class="JS_NTES_LOG_FE" data-module-name="n_topnavhuatian"> 
+           <div class="ntes-nav-select js_N_navSelect c-fl" tabindex="0" ne-click="handleFoldMenuClick()" ne-enter="handleMenuMouseEnter()" ne-leave="handleMenuMouseLeave()" ne-keydown="handleMenuKeyDown()"> 
+            <a id="js_love_url" href="http://yuehui.163.com/searchphoto.do?from=wsdh" class="ntes-nav-select-title ntes-nav-select-title-huatian ntes-nav-entry-bgblack"><em class="ntes-nav-entry-huatian">同城约会</em><em class="ntes-nav-select-arr"></em><span ne-show="{{!!state.huatianMsgNum}}" class="ntes-nav-msg" id="js_N_navHuatianMsg" ne-click="handleMsgClick()" ne-role="huatianMsgWrapper"><em class="ntes-nav-msg-num" ne-html="{{state.huatianMsgNum}}"></em></span></a> 
+            <div class="ntes-nav-select-pop ntes-nav-select-pop-huatian"> 
+             <ul class="ntes-nav-select-list clearfix"> 
+              <li> <a href="http://yuehui.163.com/searchusers.do?from=wsdh"><span>找缘分</span></a> </li> 
+              <li> <a href="http://yuehui.163.com/searchqa.do?from=wsdh"><span>恋爱真心话</span></a> </li> 
+              <li> <a href="http://yuehui.163.com/?from=wsdh"><span>我的同城约会</span></a> </li> 
+              <li class="last"> <a href="http://yuehui.163.com/app?from=wsdh"><span>下载同城约会APP</span></a> </li> 
+             </ul> 
+            </div> 
+           </div> </li> 
+          <li class="JS_NTES_LOG_FE" data-module-name="n_topnavmobile"> 
+           <div class="ntes-nav-select js_N_navSelect c-fl" tabindex="0" ne-click="handleFoldMenuClick()" ne-enter="handleMenuMouseEnter()" ne-leave="handleMenuMouseLeave()" ne-keydown="handleMenuKeyDown()"> 
+            <a href="http://www.163.com/newsapp/#f=163nav" class="ntes-nav-mobile-title ntes-nav-entry-bgblack"><em class="ntes-nav-entry-mobile">移动端</em></a> 
+            <div class="qrcode-img"> 
+             <a href="http://www.163.com/newsapp/#f=163nav"><img src="http://img1.cache.netease.com/f2e/include/common_nav/images/topapp.jpg"></a> 
+            </div> 
+           </div> </li> 
+         </ul> 
+        </div> 
+       </div> 
+      </div> 
+     </div> 
+    </div>
+    <script src="http://img2.cache.netease.com/f2e/news/common2015/collect/foot~B2R1P9xDiOb7.js" charset="utf-8"></script> 
+   </div> 
+   <!-- 节日背景 --> 
+   <div class="ns-bg-wrap"> 
+    <div class="N-nav-channel JS_NTES_LOG_FE" data-module-name="xwwzy_11_headdaohang"> 
+     <a class="first" href="http://news.163.com/">新闻</a>
+     <a href="http://sports.163.com/">体育</a>
+     <a href="http://sports.163.com/nba/">NBA</a>
+     <a href="http://ent.163.com/">娱乐</a>
+     <a href="http://money.163.com/">财经</a>
+     <a href="http://money.163.com/stock/">股票</a>
+     <a id="_link_auto" href="http://auto.163.com/">汽车</a>
+     <a href="http://tech.163.com/">科技</a>
+     <a href="http://mobile.163.com/">手机</a>
+     <a href="http://digi.163.com/">数码</a>
+     <a href="http://lady.163.com/">女人</a>
+     <a href="http://v.163.com/">直播</a>
+     <a href="http://v.163.com/special/video/#tuijian">视频</a>
+     <a href="http://travel.163.com/">旅游</a>
+     <a id="houseUrl" href="http://house.163.com/">房产</a>
+     <a href="http://home.163.com/" id="homeUrl">家居</a>
+     <a href="http://edu.163.com/">教育</a>
+     <a href="http://book.163.com/">读书</a>
+     <a id="_link_game" href="http://news.163.com/">本地</a>
+     <a href="http://jiankang.163.com/">健康</a>
+     <a href="http://caipiao.163.com/#from=dh">彩票</a>
+     <a href="http://baoxian.163.com/?from=dh">车险</a>
+     <a href="http://rd.da.netease.com/redirect?t=EDWF4PlZfp&amp;p=z4qw3T&amp;proId=1024&amp;target=http%3A%2F%2Fwww.kaola.com%2Factivity%2Fdetail%2F10194.shtml%3Ftag%3Dbe3d8d027a530881037ef01d304eb505">海淘</a>
+     <a href="https://www.lmlc.com/web/activity/bind_index.html?from=tgn163dh2">理财</a>
+     <a class="last" href="http://jiu.163.com">酒香</a> 
+    </div> 
+    <!-- 游戏替换为本地，并定向 0310--> 
+    <!-- 配置定向城市 --> 
+    <script type="text/javascript" _keep="true">
+var HouseNavBendiTxt = {
+    "province": [
+        {
+            "name": "北京市",
+            "shortName": "北京",
+            "url":"http://bj.news.163.com/"
+        },
+        {
+            "name": "上海市",
+            "shortName": "上海",
+            "url":"http://sh.news.163.com/"
+        },
+        {
+            "name": "天津市",
+            "shortName": "天津",
+            "url":"http://tj.news.163.com/"
+        },
+        {
+            "name": "广东省",
+            "shortName": "广东",
+            "url":"http://gd.news.163.com/"
+        },
+        {
+            "name": "江苏省",
+            "shortName": "江苏",
+            "url":"http://js.news.163.com/"
+        },
+        {
+            "name": "浙江省",
+            "shortName": "浙江",
+            "url":"http://zj.news.163.com/"
+        },
+        {
+            "name": "四川省",
+            "shortName": "四川",
+            "url":"http://sc.news.163.com/"
+        },
+        {
+            "name": "黑龙江省",
+            "shortName": "黑龙江",
+            "url":"http://hlj.news.163.com/"
+        },
+        {
+            "name": "吉林省",
+            "shortName": "吉林",
+            "url":"http://jl.news.163.com/"
+        },
+        {
+            "name": "辽宁省",
+            "shortName": "辽宁",
+            "url":"http://liaoning.news.163.com/"
+        },
+        {
+            "name": "内蒙古自治区",
+            "shortName": "内蒙古",
+            "url":"http://hhht.news.163.com/"
+        },
+        {
+            "name": "河北省",
+            "shortName": "河北",
+            "url":"http://hebei.news.163.com/"
+        },
+        {
+            "name": "河南省",
+            "shortName": "河南",
+            "url":"http://henan.163.com/"
+        },
+        {
+            "name": "山东省",
+            "shortName": "山东",
+            "url":"http://sd.news.163.com/"
+        },
+        {
+            "name": "陕西省",
+            "shortName": "陕西",
+            "url":"http://shanxi.news.163.com/"
+        },
+        {
+            "name": "甘肃省",
+            "shortName": "甘肃",
+            "url":"http://gs.news.163.com/"
+        },
+        {
+            "name": "宁夏回族自治区",
+            "shortName": "宁夏",
+            "url":"http://ningxia.news.163.com/"
+        },
+        {
+            "name": "新疆维吾尔自治区",
+            "shortName": "新疆",
+            "url":"http://xj.news.163.com/"
+        },
+        {
+            "name": "安徽省",
+            "shortName": "安徽",
+            "url":"http://ah.news.163.com/"
+        },
+        {
+            "name": "福建省",
+            "shortName": "福建",
+            "url":"http://fj.news.163.com/"
+        },
+        {
+            "name": "广西壮族自治区",
+            "shortName": "广西",
+            "url":"http://gx.news.163.com/"
+        },
+        {
+            "name": "重庆市",
+            "shortName": "重庆",
+            "url":"http://chongqing.163.com/"
+        },
+        {
+            "name": "湖北省",
+            "shortName": "湖北",
+            "url":"http://hb.news.163.com/"
+        },
+        {
+            "name": "江西省",
+            "shortName": "江西",
+            "url":"http://jx.news.163.com/"
+        },
+        {
+            "name": "海南省",
+            "shortName": "海南",
+            "url":"http://hn.news.163.com/"
+        },
+        {
+            "name": "贵州省",
+            "shortName": "贵州",
+            "url":"http://gz.news.163.com/"
+        },
+        {
+            "name": "云南省",
+            "shortName": "云南",
+            "url":"http://yn.news.163.com/"
+        },
+        {
+            "name": "湖南省",
+            "shortName": "上海",
+            "url":"http://sh.news.163.com/"
+        },
+        {
+            "name": "山西省",
+            "shortName": "山西",
+            "url":"http://sx.news.163.com"
+        },
+        {
+            "name": "西藏自治区",
+            "shortName": "北京",
+            "url":"http://bj.news.163.com/"
+        },
+        {
+            "name": "香港特别行政区",
+            "shortName": "广东",
+            "url":"http://gd.news.163.com/"
+        },
+        {
+            "name": "澳门特别行政区",
+            "shortName": "广东",
+            "url":"http://gd.news.163.com/"
+        },
+        {
+            "name": "台湾省",
+            "shortName": "广东",
+            "url":"http://gd.news.163.com/"
+        },
+        {
+            "name": "天津市",
+            "shortName": "北京",
+            "url":"http://bj.news.163.com/"
+        },
+        {
+            "name": "青海省",
+            "shortName": "北京",
+            "url":"http://bj.news.163.com/"
+        }
+    ],
+    "city": [
+        {
+            "name": "大连市",
+            "shortName": "大连",
+            "url":"http://dl.news.163.com"
+        },
+        {
+            "name": "青岛市",
+            "shortName": "青岛",
+            "url":"http://qingdao.news.163.com"
+        },
+        {
+            "name": "宁波市",
+            "shortName": "宁波",
+            "url":"http://ningbo.news.163.com"
+        },
+        {
+            "name": "厦门市",
+            "shortName": "厦门",
+            "url":"http://xiamen.news.163.com"
+        },
+        {
+            "name": "深圳市",
+            "shortName": "深圳",
+            "url":"http://shenzhen.news.163.com/"
+        }
+    ],
+    "defalt": {
+            "name": "",
+            "shortName": "本地",
+            "url":"http://news.163.com/"
+        }
+};
+</script> 
+    <script type="text/javascript" _keep="true">
+    //本地设置定向省份
+    function setBendiName(){
+        var js_nav_bendi = document.getElementById("_link_game");
+        var cityname = "";
+        var cityurl = "";
+        var _loc = window.localAddress;
+        if(!js_nav_bendi)
+            return;
+        if(HouseNavBendiTxt.city && _loc){
+            var citylist = HouseNavBendiTxt.city;
+            var localcity = _loc.city;
+            for(var i=0;i<citylist.length;i++){
+                if(citylist[i].name == localcity){
+                    cityname = citylist[i].shortName;
+                    cityurl = citylist[i].url;
+                    break;
+                }
+            }
+        }
+        if(cityname == "" && cityurl == "" && HouseNavBendiTxt.province && _loc){
+            var provincelist = HouseNavBendiTxt.province;
+            var localprovince = _loc.province;
+            for(var i=0;i<provincelist.length;i++){
+                if(provincelist[i].name == localprovince){
+                    cityname = provincelist[i].shortName;
+                    cityurl = provincelist[i].url;
+                    break;
+                }
+            }
+        }
+        if(js_nav_bendi && cityname != "" && cityurl != ""){
+            js_nav_bendi.innerHTML = cityname;
+            js_nav_bendi.href = cityurl;
+        }
+        if(js_nav_bendi && cityname == "" && cityurl == ""){
+            js_nav_bendi.innerHTML = "本地";
+            js_nav_bendi.href = "http://news.163.com";
+        }
+    }
+    function BENDI_NAV_CALLBACK(data){
+       if(data && data.result){
+            if(window.HouseNavBendiTxt){
+                window.localAddress = data.result;
+                setBendiName();
+            } 
+       }
+    };
+    
+    if(window.localAddress){
+        if(window.HouseNavBendiTxt){
+            setBendiName();
+        } 
+    }else{
+        var url = "http://ipservice.163.com/locate/api/getLocByIp?key=C6E22B7D480E3312C74EC7EF013E50C5&callback=BENDI_NAV_CALLBACK";
+        var script = document.createElement('script');
+        script.setAttribute('src', url);
+        document.getElementsByTagName('head')[0].appendChild(script);
+    }
+</script> 
+    <div class="index2016_content"> 
+     <!-- 头部广告 开始--> 
+     <div class="ns_area index_top_ad channel_relative_2016"> 
+      <!--16新闻首页顶通--> 
+      <script type="text/javascript">
+    window.topAd1={
+        'ad12_src': 'http://g.163.com/r?site=netease&affiliate=news&cat=homepage&type=column1200x125_960x100&location=10'
+    }
+</script> 
+     </div> 
+     <!-- 头部广告 结束--> 
+     <!-- 头部导航 开始--> 
+     <div class="index_head"> 
+      <div ne-module="modules/head/head.js"> 
+       <div class="ns_area hd"> 
+        <h1> <a href="http://news.163.com/">网易新闻有态度</a> </h1> 
+        <!-- <div class="top-search">
+        <form action="http://news.yodao.com/search" method="get" name="nisearch_top" id="formtop" target="_blank">
+            <input type="hidden" name="keyfrom" value="sports.163">
+            <input type="hidden" name="suser" value="user163">
+            <input type="hidden" name="ue" value="gbk">
+            <div class="search-input"> <span class="hidden">搜索</span>
+                <input type="text" name="q" id="searchInput_top" onfocus="this.value=''" value="输入关键字" class="text-box ">
+                <input type="submit" name="Submit" value="" tabindex="0" title="搜索" class="search-submit" id="sb_form_go">
+            </div>
+        </form>
+    </div> --> 
+        <!-- 天气 --> 
+        <div class="ns-lid-weather" id="nsWeatherTop"> 
+         <div class="ns-weather" id="nsWeather"> 
+          <a href="http://news.163.com/weather/"> <script type="text/template" ne-repeat="weather in weatherInfo">
+                <img class="ns-weather-icon" ne-src="http://img1.cache.netease.com/f2e/news/index2015/img/weather/<%=weather.icon%>">
+                <div class="ns-weather-text"><%=weather.weather%></div>
+                <div class="ns-weather-info"><%=weather.temp2%>°~<%=weather.temp1%>°</div>
+                <div class="ns-weather-city"><%=weather.city%></div>
+            </script> </a> 
+         </div> 
+        </div> 
+       </div> 
+      </div> 
+      <div class="bd"> 
+       <div class="ns_area list"> 
+        <ul> 
+         <li class="first"><a href="http://www.163.com/">首页</a></li> 
+         <li><a href="http://news.163.com/rank/">排行</a></li> 
+         <li><a href="http://news.163.com/photo/#Current">图片</a></li> 
+         <li class="menu_guonei"><a href="http://news.163.com/domestic/">国内</a></li> 
+         <li class="menu_guoji"><a href="http://news.163.com/world/">国际</a></li> 
+         <li class="menu_shehui"><a href="http://news.163.com/shehui/">社会</a></li> 
+         <li><a href="http://data.163.com/special/datablog/">数读</a></li> 
+         <li class="menu_war"><a href="http://war.163.com/">军事</a></li> 
+         <li class="menu_hangkong"><a href="http://news.163.com/air/">航空</a></li> 
+         <li class="menu_wurenji"><a href="http://news.163.com/uav/">无人机</a></li> 
+         <li><a href="http://news.163.com/college">新闻学院</a></li> 
+         <li><a href="http://gov.163.com/">政务</a></li> 
+         <li><a href="http://gongyi.163.com/">公益</a></li> 
+         <li class="last"><a href="http://media.163.com/">媒体</a></li> 
+        </ul> 
+       </div> 
+      </div> 
+     </div> 
+     <!-- 头部导航 结束--> 
+     <!-- 内容区域 开始 --> 
+     <div class="ns_area clearfix index_main"> 
+      <!-- 原创栏目 开始 --> 
+      <div class="main_origina_column" id="js_origina_column"> 
+       <div ne-module="modules/originacolumn/originacolumn.js"> 
+        <div class="origina_column_warp"> 
+         <h2> <span>新闻各有态度</span> </h2> 
+         <div class="scroll_bd" ne-role="scroll_bd"> 
+          <div class="scroll_column_bd"> 
+           <ul class="scroll_ul"> 
+            <!-- 回声 开始 --> 
+            <!-- 回声 结束 --> 
+            <!-- 数读 开始 --> 
+            <li class="cell cell_sd cell_hover"> <p class="tag_line"> <a href="http://data.163.com/special/datablog/" class="tags tag_sd">数读</a> </p> 
+             <div class="column_main"> 
+              <a href="http://data.163.com/17/0613/13/CMQJAP0B000181IU.html" class="detail" ne-role="detail"> <h3> 中国的酒店设施和印度一样糟心 </h3> 
+               <div class="photo"> 
+                <img src="http://imgsize.ph.126.net/?imgurl=http://cms-bucket.nosdn.127.net/13c071deddeb48ba8536769477f9385320170613134214.jpeg_200x90x1x85.jpg" width="200" height="90" alt="中国的酒店设施和印度一样糟心"> 
+               </div> </a> 
+              <ul> 
+               <li class=""><a href="http://data.163.com/17/0609/13/CMGAAADN000181IU.html">如果活到78岁，干啥花的时间最多</a></li> 
+               <li class="twoli "><a href="http://data.163.com/17/0608/12/CMDL14GV000181IU.html">古代科举VS现代高考，哪个更容易</a></li> 
+              </ul> 
+             </div> </li> 
+            <!-- 数读 结束 --> 
+            <!-- 人间 开始 --> 
+            <li class="cell cell_rj"> <p class="tag_line"> <a href="http://renjian.163.com/" class="tags tag_rj">人间</a> </p> 
+             <div class="column_main"> 
+              <a href="http://renjian.163.com/17/0613/20/CMRCBKMG000181RV.html" class="detail" ne-role="detail"> <h3> 我是如何成为一个美漂的 </h3> 
+               <div class="photo"> 
+                <img src="http://imgsize.ph.126.net/?imgurl=http://cms-bucket.nosdn.127.net/3ff247cd7c8549de95771fdb26af4dcd20170613205642.jpeg_200x90x1x85.jpg" width="200" height="90" alt="我是如何成为一个美漂的"> 
+               </div> </a> 
+              <ul> 
+               <li class=""><a href="http://renjian.163.com/17/0612/18/CMOHSGVB000181RV.html">牢饭究竟是什么味？</a></li> 
+               <li class="twoli "><a href="http://renjian.163.com/17/0611/15/CMLK7NJS000181RV.html">只属于童年的味觉记忆</a></li> 
+              </ul> 
+             </div> </li> 
+            <!-- 人间 结束 --> 
+            <!-- 大国小民 开始 --> 
+            <li class="cell cell_dgxm"> <p class="tag_line"> <span class="tags tag_dgxm">大国小民</span> </p> 
+             <div class="column_main"> 
+              <a href="http://renjian.163.com/17/0614/20/CMTSB7UD000181RK.html" class="detail" ne-role="detail"> <h3> 穷孩子的学费 </h3> 
+               <div class="photo"> 
+                <img src="http://imgsize.ph.126.net/?imgurl=http://cms-bucket.nosdn.127.net/9bd07cb84e7a43b8bc1ab47361b536e720170614201440.jpeg_200x90x1x85.jpg" width="200" height="90" alt="穷孩子的学费"> 
+               </div> </a> 
+              <ul> 
+               <li class=""><a href="http://renjian.163.com/17/0609/19/CMGVTJ29000181RK.html">就怕真的把领导告倒</a></li> 
+               <li class="twoli "><a href="http://renjian.163.com/17/0608/18/CME8398R000181RK.html">村姑新娘</a></li> 
+              </ul> 
+             </div> </li> 
+            <!-- 大国小民 结束 --> 
+            <!-- 三三有梗 开始 --> 
+            <li class="cell cell_dada"> <p class="tag_line"> <span class="tags tag_dada">三三有梗</span> </p> 
+             <div class="column_main"> 
+              <a href="http://news.163.com/17/0615/00/CMU9PSN90001885B.html" class="detail" ne-role="detail"> <h3> 小心，你可能是看了一本假书 </h3> 
+               <div class="photo"> 
+                <img src="http://imgsize.ph.126.net/?imgurl=http://cms-bucket.nosdn.127.net/fbc4f0e4dbae431d8706c848b2760c7720170614210736.png_200x90x1x85.jpg" width="200" height="90" alt="小心，你可能是看了一本假书"> 
+               </div> </a> 
+              <ul> 
+               <li class=""><a href="http://news.163.com/17/0612/00/CMMIHL170001885B.html">我微信好友最铁的是文件传输助手</a></li> 
+               <li class="twoli "><a href="http://news.163.com/17/0610/00/CMHDSB5J0001885B.html">你想要的无非自己成功别人失败</a></li> 
+              </ul> 
+             </div> </li> 
+            <!-- 三三有梗 结束 --> 
+            <!-- 三三映画 开始 --> 
+            <li class="cell cell_ssyh"> <p class="tag_line"> <span class="tags tag_ssyh">三三映画</span> </p> 
+             <div class="column_main"> 
+              <a href="http://news.163.com/17/0613/00/CMP4U1O80001885B.html" class="detail" ne-role="detail"> <h3> 三三映画|落榜生建了个野鸡大学, 逼疯隔壁名校 </h3> 
+               <div class="photo"> 
+                <img src="http://imgsize.ph.126.net/?imgurl=http://cms-bucket.nosdn.127.net/97e49d0062914334a44f7266bf6e27ef20170609180131.jpeg_200x90x1x85.jpg" width="200" height="90" alt="三三映画|落榜生建了个野鸡大学, 逼疯隔壁名校"> 
+               </div> </a> 
+              <ul> 
+               <li class=""><a href="http://news.163.com/17/0604/23/CM4HMAKQ0001885B.html">岛国这部高中辣妹电影，完爆国产青春烂片！</a></li> 
+               <li class="twoli "><a href="http://news.163.com/17/0526/23/CLDC50FB0001885B.html">台湾同性婚姻合法,大陆高校却在上"女德"课</a></li> 
+              </ul> 
+             </div> </li> 
+            <!-- 三三映画 结束 --> 
+            <!-- 我去1990 开始 --> 
+            <li class="cell cell_wq1990"> <p class="tag_line"> <span class="tags tag_wq1990">我去1990</span> </p> 
+             <div class="column_main"> 
+              <a href="http://news.163.com/17/0407/00/CHCKFBJR0001885B.html" class="detail" ne-role="detail"> <h3> 每个男孩小时候都是四驱车老司机 </h3> 
+               <div class="photo"> 
+                <img src="http://imgsize.ph.126.net/?imgurl=http://cms-bucket.nosdn.127.net/676f6e996cee481f872413b4ec0466aa20170407071038.png_200x90x1x85.jpg" width="200" height="90" alt="每个男孩小时候都是四驱车老司机"> 
+               </div> </a> 
+              <ul> 
+               <li class=""><a href="http://news.163.com/17/0326/00/CGDQK8TE0001885B.html">90年代的美女教会我们世界真奇妙</a></li> 
+               <li class="twoli "><a href="http://news.163.com/17/0318/00/CFP4DGJ50001885B.html">你敢说出你的网恋故事吗？</a></li> 
+              </ul> 
+             </div> </li> 
+            <!-- 我去1990 结束 --> 
+            <!-- 轻松一刻 开始 --> 
+            <li class="cell cell_qsyk"> <p class="tag_line"> <span class="tags tag_qsyk">轻松一刻</span> </p> 
+             <div class="column_main"> 
+              <a href="http://news.163.com/17/0614/17/CMTKEJMB000181BR.html" class="detail" ne-role="detail"> <h3> 这不是深夜食堂，这是深夜尴尬 </h3> 
+               <div class="photo"> 
+                <img src="http://imgsize.ph.126.net/?imgurl=http://cms-bucket.nosdn.127.net/52635d66ad644b598ea603646268c6f320170614181324.jpeg_200x90x1x85.jpg" width="200" height="90" alt="这不是深夜食堂，这是深夜尴尬"> 
+               </div> </a> 
+              <ul> 
+               <li class=""><a href="http://news.163.com/17/0614/10/CMSQG7PL000181BR.html">为什么女生找对象一定要找帅的？</a></li> 
+               <li class="twoli "><a href="http://news.163.com/17/0613/17/CMR00A7R000181BR.html">NBA总决赛上，他宣布了一个惊人决定！</a></li> 
+              </ul> 
+             </div> </li> 
+            <!-- 轻松一刻 结束 --> 
+            <!-- 槽值 开始 --> 
+            <li class="cell cell_caozhi"> <p class="tag_line"> <span class="tags tag_caozhi">槽值</span> </p> 
+             <div class="column_main"> 
+              <a href="http://caozhi.news.163.com/17/0614/12/CMT1O4C1000181TI.html" class="detail" ne-role="detail"> <h3> 一个家庭的悲剧，是从不好好说话开始的 </h3> 
+               <div class="photo"> 
+                <img src="http://imgsize.ph.126.net/?imgurl=http://cms-bucket.nosdn.127.net/15c77ca035cb4c4996507d25336525b920170614123656.jpeg_200x90x1x85.jpg" width="200" height="90" alt="一个家庭的悲剧，是从不好好说话开始的"> 
+               </div> </a> 
+              <ul> 
+               <li class=""><a href="http://caozhi.news.163.com/17/0613/20/CMRBBFR9000181TI.html">说走就走的旅行，拯救不了你</a></li> 
+               <li class="twoli "><a href="http://caozhi.news.163.com/17/0612/12/CMNULQKH000181TI.html">你一无所有时，没人给你面子</a></li> 
+              </ul> 
+             </div> </li> 
+            <!-- 槽值 结束 --> 
+            <!-- 杂家 开始 --> 
+            <li class="cell cell_zajia"> <p class="tag_line"> <span class="tags tag_zajia">杂家</span> </p> 
+             <div class="column_main"> 
+              <a href="http://zajia.news.163.com/17/0614/19/CMTRS577000181TJ.html" class="detail" ne-role="detail"> <h3> 最倔官三代，民国第一史学大师输给时代 </h3> 
+               <div class="photo"> 
+                <img src="http://imgsize.ph.126.net/?imgurl=http://cms-bucket.nosdn.127.net/d275da7fa652467f988d9dd2ab05e21020170614200825.jpeg_200x90x1x85.jpg" width="200" height="90" alt="最倔官三代，民国第一史学大师输给时代"> 
+               </div> </a> 
+              <ul> 
+               <li class=""><a href="http://zajia.news.163.com/17/0612/19/CMOKORDD000181TJ.html">这些改变历史的人竟然都是左撇子</a></li> 
+               <li class="twoli "><a href="http://zajia.news.163.com/17/0607/19/CMBQHUT7000181TJ.html">京城老大爷收30年破烂，身家千万</a></li> 
+              </ul> 
+             </div> </li> 
+            <!-- 杂家 结束 --> 
+            <!-- 看客 开始 --> 
+            <li class="cell cell_kanke"> <p class="tag_line"> <a href="http://news.163.com/special/insight/" class="tags tag_kanke">看客</a> </p> 
+             <div class="column_main"> 
+              <a href="http://news.163.com/photoview/3R710001/2257179.html" class="detail" ne-role="detail"> <h3> 生活之上梦想之下的环外青年 </h3> 
+               <div class="photo"> 
+                <img src="http://imgsize.ph.126.net/?imgurl=http://cms-bucket.nosdn.127.net/f942755548744c10a5fe75a8805708de20170607081110.jpeg_200x90x1x85.jpg" width="200" height="90" alt="生活之上梦想之下的环外青年"> 
+               </div> </a> 
+              <ul> 
+               <li class=""><a href="http://news.163.com/photoview/3R710001/2259160.html">缅北瘾君子：主啊，请帮我戒毒</a></li> 
+               <li class="twoli "><a href="http://news.163.com/photoview/3R710001/2257277.html">童年三部曲 我在南极上学前班</a></li> 
+              </ul> 
+             </div> </li> 
+            <!-- 看客 结束 --> 
+            <!-- 身体密码 开始 --> 
+            <li class="cell cell_stpwd"> <p class="tag_line"> <a href="http://jiankang.163.com/special/zhutierji/?type=3" class="tags tag_stpwd">身体密码</a> </p> 
+             <div class="column_main"> 
+              <a href="http://jiankang.163.com/17/0612/20/CMOPMHPM0038804G.html" class="detail" ne-role="detail"> <h3> 为啥会有“孕吐”？有人严重有人却没啥事？ </h3> 
+               <div class="photo"> 
+                <img src="http://imgsize.ph.126.net/?imgurl=http://cms-bucket.nosdn.127.net/4079ccf53d9a4d9f90c07cc9c9e930d020170613144110.png_200x90x1x85.jpg" width="200" height="90" alt="为啥会有“孕吐”？有人严重有人却没啥事？"> 
+               </div> </a> 
+              <ul> 
+               <li class=""><a href="http://jiankang.163.com/17/0609/08/CMFPKJRS0038804G.html">"辟谷秘术"减脂止饿还治糖尿病？</a></li> 
+               <li class="twoli "><a href="http://jiankang.163.com/17/0605/18/CM6GQNVE0038804G.html">"恐高"是心理问题还是生理反应？</a></li> 
+              </ul> 
+             </div> </li> 
+            <!-- 身体密码 结束 --> 
+           </ul> 
+          </div> 
+          <div id="js_baseline"></div> 
+          <span class="white_bg" id="js_white_bg"></span> 
+         </div> 
+        </div> 
+       </div> 
+      </div> 
+      <!-- 原创栏目 结束 --> 
+      <!-- 中间新闻 开始 --> 
+      <div class="main_center_news"> 
+       <!-- 头条新闻 --> 
+       <div class="mod_top_news2" id="js_top_news"> 
+        <h2> <a href="http://news.163.com/17/0614/20/CMTSG7NV000189FH.html">习近平会见卢森堡首相贝泰尔</a> </h2> 
+        <ul class="top_news_ul"> 
+         <li><a href="http://news.163.com/17/0614/21/CMU22228000189FH.html">李克强主持国务院常务会议 </a>|<a target="_blank" href="http://news.163.com/17/0614/21/CMU22Q9P000189FH.html">取消下放这些生产许可 政府责任更重了</a></li> 
+         <li><a href="http://news.163.com/17/0615/08/CMV64I0N00018AOQ.html">北大女硕士失联 FBI定性为绑架</a>|<a target="_blank" href="http://news.163.com/17/0615/10/CMVD92IF0001875P.html">最高法再谈彭宇案:他承认撞了老太</a></li> 
+         <li><a href="http://news.163.com/17/0615/08/CMV754C10001899N.html">美媒:通俄门检察官正调查特朗普</a>|<a target="_blank" href="http://news.163.com/17/0615/09/CMV9MLUE000187VE.html">普京将与民众连线 往年被问过啥?</a></li> 
+        </ul> 
+        <h2 class="top_news_title"> <a href="http://money.163.com/17/0615/02/CMUGLO4I002580S6.html">美联储宣布今年第二次加息25个基点</a> </h2> 
+        <ul class="top_news_ul"> 
+         <li><a href="http://news.163.com/17/0615/05/CMUTDAJG00018AOP.html">念斌向公安申请412万国家赔偿</a>|<a target="_blank" href="http://news.163.com/17/0615/08/CMV7MM250001899N.html">驻港某旅特种作战连让飞虎队称赞</a></li> 
+         <li><a href="http://news.163.com/17/0615/07/CMV54KHE0001875P.html">罕见!22岁妈妈诞下单卵三胞胎</a>|<a target="_blank" href="http://news.163.com/17/0615/07/CMV45VJ30001899N.html">夫妻离婚留给儿子20万 女方偷偷取光</a></li> 
+         <li><a href="http://news.163.com/17/0615/08/CMV85NQE0001875P.html">男子每天花6000租宾利 骗7女50多万</a>|<a target="_blank" href="http://news.163.com/17/0615/07/CMV4MNBF0001899N.html">老人跳河轻生 警察营救遭勒脖</a></li> 
+        </ul> 
+       </div> 
+       <!-- 广告 开始 --> 
+       <div class="mod_top_news_ad"> 
+        <!-- 16新闻首页01小通栏 --> 
+        <a href="http://gb.corp.163.com/gb/legal.html" class="ad_hover_href"></a> 
+        <iframe src="http://g.163.com/r?site=netease&amp;affiliate=news&amp;cat=homepage&amp;type=logo600x50&amp;location=1" width="600" height="50" frameborder="no" border="0" marginwidth="0" marginheight="0" scrolling="no"></iframe> 
+       </div> 
+       <!-- 广告 结束 --> 
+       <!-- 特别报道 开始 --> 
+       <div class="mod_important_news none"> 
+        <h5><label>特别报道</label></h5> 
+        <h2> <a href="http://news.163.com/16/0721/19/BSH7V8QF00014JB6.html">辽宁遭暴雨侵袭致城市内涝 紧急转移12万人</a> </h2> 
+        <ul class="top_news_ul"> 
+         <li><a href="http://news.163.com/16/0721/10/BSG7HOH20001124J.html">民政部:北方暴雨75人死亡失踪</a>|<a target="_blank" href="http://news.163.com/16/0721/12/BSGG5VK300011229.html">北京发生山洪灾害 铲车翻倒4人被困</a></li> 
+         <li><a href="http://news.163.com/16/0721/12/BSGHHVLK00011229.html">搜救犬水灾救援22天殉职 主人:它太累了</a>|<a target="_blank" href="http://news.163.com/16/0721/07/BSFUFFP800014AED.html">姐妹被洪水卷走警方拒立案</a></li> 
+        </ul> 
+        <div class="mod_important_pic"> 
+         <ul class="clearfix"> 
+          <li> <a href="http://news.163.com/photoview/00AN0001/2189402.html?from=ph_ss#p=BSG716GE00AN0001"> <img src="http://img3.cache.netease.com/news/2016/7/21/20160721131401d35e2.jpg" width="190" height="120"> <span class="bg"></span> <h3>河南遇强降雨 9.8万人转移</h3> </a> </li> 
+          <li> <a href="http://news.163.com/photoview/00AP0001/2189377.html?from=ph_ss#p=BSFTQ99H00AP0001"> <img src="http://img3.cache.netease.com/news/2016/7/21/201607211319466e84e.jpg" width="190" height="120"> <span class="bg"></span> <h3>女主播直播暴雨 浑身湿透</h3> </a> </li> 
+          <li> <a href="http://news.163.com/photoview/00AP0001/2189389.html?from=ph_ss#p=BSG1S9AM00AP0001"> <img src="http://img5.cache.netease.com/news/2016/7/21/20160721132119ef59b.jpg" width="190" height="120"> <span class="bg"></span> <h3>湖北民众省道上趟水摸鱼</h3> </a> </li> 
+         </ul> 
+        </div> 
+       </div> 
+       <!-- 特别报道 结束 --> 
+       <!-- 网易独家 开始--> 
+       <div ne-module="modules/slide/slide.js" class="mod_netes_origina"> 
+        <div ne-module="slide" class="mod_idx_focus" ne-state="slideMethod:left;events=mouseover;interval=4000"> 
+         <div class="hd"> 
+          <h2><a href="">网易独家</a></h2> 
+          <div class="focus_ctrl"> 
+           <span ne-role="slide-nav"></span> 
+           <span ne-role="slide-nav"></span> 
+           <span ne-role="slide-nav"></span> 
+           <span ne-role="slide-nav"></span> 
+          </div> 
+         </div> 
+         <a ne-role="slide-prev" class="focus_prev"></a> 
+         <a ne-role="slide-next" class="focus_next"></a> 
+         <div ne-role="slide-body" class="focus_body"> 
+          <ul ne-role="slide-scroll"> 
+           <li class="current" ne-role="slide-page"> <a href="http://news.163.com/17/0615/00/CMU9PSN90001885B.html" title="小心，你可能看了一本假书" class="photo"><img src="http://imgsize.ph.126.net/?imgurl=http://cms-bucket.nosdn.127.net/99951c56f66345a1a015cfa9d0b34e4620170615000943.jpeg_600x250x1x85.jpg" width="600" height="250" alt="小心，你可能看了一本假书"></a> <span class="bg"></span> <h3> <span class="
+                     icons icon_wsansan
+                                        "></span> <a href="http://news.163.com/17/0615/00/CMU9PSN90001885B.html">小心，你可能看了一本假书</a> </h3> </li> 
+           <li ne-role="slide-page"> <a href="http://renjian.163.com/17/0614/20/CMTSB7UD000181RK.html" title="老鼠吃了我的学费，我从此辍了学" class="photo"><img src="http://imgsize.ph.126.net/?imgurl=http://cms-bucket.nosdn.127.net/724a4a43476e49be9287fed320caa11a20170614201510.jpeg_600x250x1x85.jpg" width="600" height="250" alt="老鼠吃了我的学费，我从此辍了学"></a> <span class="bg"></span> <h3> <span class="
+                     icons icon_dgxm
+                                        "></span> <a href="http://renjian.163.com/17/0614/20/CMTSB7UD000181RK.html">老鼠吃了我的学费，我从此辍了学</a> </h3> </li> 
+           <li ne-role="slide-page"> <a href="http://caozhi.news.163.com/17/0614/12/CMT1O4C1000181TI.html" title="一个家庭的悲剧，是从不好好说话开始的" class="photo"><img src="http://imgsize.ph.126.net/?imgurl=http://cms-bucket.nosdn.127.net/caeb76b1b65348688c75e78aa33cab1120170614123329.jpeg_600x250x1x85.jpg" width="600" height="250" alt="一个家庭的悲剧，是从不好好说话开始的"></a> <span class="bg"></span> <h3> <span class="
+                     icons icon_caozhi
+                                        "></span> <a href="http://caozhi.news.163.com/17/0614/12/CMT1O4C1000181TI.html">一个家庭的悲剧，是从不好好说话开始的</a> </h3> </li> 
+           <li ne-role="slide-page"> <a href="http://renjian.163.com/17/0613/20/CMRCBKMG000181RV.html" title="20年前，我是如何成为一个美漂的" class="photo"><img src="http://imgsize.ph.126.net/?imgurl=http://cms-bucket.nosdn.127.net/26d8f45fb05240eeb848c23a5bb862dc20170613205715.jpeg_600x250x1x85.jpg" width="600" height="250" alt="20年前，我是如何成为一个美漂的"></a> <span class="bg"></span> <h3> <span class="
+                     icons icon_rj
+                                        "></span> <a href="http://renjian.163.com/17/0613/20/CMRCBKMG000181RV.html">20年前，我是如何成为一个美漂的</a> </h3> </li> 
+          </ul> 
+         </div> 
+        </div> 
+       </div> 
+       <!-- 网易独家 结束--> 
+       <!-- 信息流 开始--> 
+       <div ne-module="modules/datalist2016/datalist2016.js" ne-extend="modules/datalist2016/config.js" class="mod_datalist"> 
+        <div class="newsdata_wrap" ne-on="showed:changepanel" ne-module="tabs" ne-state="showhide:true;delay:400;"> 
+         <div class="newsdata_nav" ne-class="{{myState.fixedTop ? 'fixed_top':''}}"> 
+          <ul class="clearfix"> 
+           <li class="nav_item"> <a class="nav_name no_cursor" ne-role="tab-nav" href="javascript:;" target="_self"> 要闻 <span class="nav_item_ink"></span> </a> </li> 
+           <li class="nav_item"> <a class="nav_name no_cursor" ne-role="tab-nav" href="{{myState.channelbendiurl}}" target="{{myState.channelbendiurl == 'javascript:;' ? '_self' : '_blank'}}" ne-class="{{myState.bendiTstyle ? 'bendistyle' : ''}}"> <strong ne-text="{{myState.bendiCity}}"></strong> <span class="nav_item_ink"></span> </a> </li> 
+           <li class="nav_item"> <a class="nav_name" ne-role="tab-nav" href="http://news.163.com/shehui/"> 社会 <span class="nav_item_ink"></span> </a> </li> 
+           <li class="nav_item"> <a class="nav_name" ne-role="tab-nav" href="http://news.163.com/domestic/"> 国内 <span class="nav_item_ink"></span> </a> </li> 
+           <li class="nav_item"> <a class="nav_name" ne-role="tab-nav" href="http://news.163.com/world/"> 国际 <span class="nav_item_ink"></span> </a> </li> 
+           <li class="nav_item"> <a class="nav_name no_cursor" ne-role="tab-nav" href="javascript:;" target="_self"> 独家 <span class="nav_item_ink"></span> </a> </li> 
+           <li class="nav_item"> <a class="nav_name" ne-role="tab-nav" href="http://war.163.com/"> 军事 <span class="nav_item_ink"></span> </a> </li> 
+           <li class="nav_item"> <a class="nav_name" ne-role="tab-nav" href="http://money.163.com/"> 财经 <span class="nav_item_ink"></span> </a> </li> 
+          </ul> 
+          <a class="more" href="javascript:;" ne-mouseover="moreShowChannel()" ne-mouseout="morehideChannel()" ne-role="morebtn" ne-class="{{myState.morechannel ? 'more_hover': ''}}" target="_self">更多</a> 
+          <div class="more_list" ne-click="moreList($event)" ne-show="{{myState.morechannel}}" ne-role="more_list"> 
+           <a ne-role="tab-nav" href="http://tech.163.com/">科技</a> 
+           <a ne-role="tab-nav" href="http://sports.163.com/">体育</a> 
+           <a ne-role="tab-nav" href="http://ent.163.com/">娱乐</a> 
+           <a ne-role="tab-nav" href="http://lady.163.com/">时尚</a> 
+           <a ne-role="tab-nav" href="http://auto.163.com/">汽车</a> 
+           <a ne-role="tab-nav" href="{{myState.channelhouseurl}}">房产</a> 
+           <a ne-role="tab-nav" href="http://news.163.com/air/">航空</a> 
+           <a ne-role="tab-nav" href="http://jiankang.163.com/">健康</a> 
+          </div> 
+         </div> 
+         <a href="#prev" ne-click="tabPrevFn($event);" class="newsdata_prev" ne-class="{{myState.fixedTop ? 'fixed_data_show': ''}}" ne-hide="{{myState.iPad}}"> <span></span> 
+          <div class="newsdata_btn_name">
+           {{myState.preBtnName}}
+          </div> </a> 
+         <a href="#next" ne-click="tabNextFn($event);" class="newsdata_next" ne-class="{{myState.fixedTop ? 'fixed_data_show': ''}}" ne-hide="{{myState.iPad}}"> <span></span> 
+          <div class="newsdata_btn_name">
+           {{myState.nextBtnName}}
+          </div> </a> 
+         <ul class="newsdata_list" ne-class="{{myState.fixedTop ? 'fixed_bar_padding': ''}} {{myState.bgLoading ? 'bgloading': 'noloading'}}"> 
+          <li class="newsdata_item" ne-role="tab-body" ne-repeat="body in navList"> 
+           <div class="ndi_main" ne-class="{{myState.message > 0 ? 'show_message':''}}"> 
+            <script type="text/template" ne-repeat="newrow in datalist[__i]">
+                <%if(newrow.type == "iframe"){%>
+                    <div class="news_iframe_ad">
+                        <iframe src="<%=newrow.link%>" width="<%=newrow.iframewidth%>" height="<%=newrow.iframeheight%>" frameborder="0" border="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
+                    </div>
+                <%}else if(newrow.type == "docAD"){%>
+                    <div class="news_article clearfix">
+                        <a href="<%=newrow.link%>" class="na_pic">
+                        <img src="<%=newrow.pic_info[0].url%>" alt="<%=newrow.title%>" width="140" height="88">
+                        </a>
+                        <%if(newrow.stat_img){%>
+                        <%for(var i=0;i<newrow.stat_img.length;i++){%>
+                            <img src="<%=newrow.stat_img[i]%>" class="stat_img"/>
+                        <%}%><%}%>
+                        <div class="na_detail clearfix">
+                            <div class="news_title">
+                                <h3><strong><a href="<%=newrow.link%>"><%=newrow.title%></a>
+                                </strong></h3>
+                            </div>
+                        </div>
+                        <span class="tg_tag"><%=newrow.source%></span>
+                    </div>
+                <%} else if(newrow.type == "photosetAD"){%>
+                    <div class="news_photoview clearfix news_ad_photoview">
+                        <div class="news_title">
+                        <h3><strong><a href="<%=newrow.link%>"><%=newrow.title%></a></strong>
+                        </h3>
+                        <span class="tg_tag"><%=newrow.source%></span>
+                        </div>
+                        <div class="np_pic">
+                        <a href="<%=newrow.link%>">
+                            <span class="p_img3">
+                                <img src="<%=newrow.pic_info[0].url%>" width="190" height="120">
+                            </span>
+                            <span class="p_img3">
+                                <img src="<%=newrow.pic_info[1].url%>" width="190" height="120">
+                            </span>
+                            <span class="p_img3">
+                            <img src="<%=newrow.pic_info[2].url%>" width="190" height="120" class="pic_last">
+                            </span>
+                        </a>
+                        <%if(newrow.stat_img){%>
+                        <%for(var i=0;i<newrow.stat_img.length;i++){%>
+                            <img src="<%=newrow.stat_img[i]%>" class="stat_img"/>
+                        <%}%><%}%>
+                        </div>
+                    </div>
+                <%} else if(newrow.type == "columsAD"){%>
+                    <div class="news_special clearfix news_ad_special">
+                        <div class="news_title">
+                        <h3><strong><a href="<%=newrow.link%>"><%=newrow.title%></a></strong></h3>
+                        <span class="tg_tag"><%=newrow.source%></span>
+                        </div><a href="<%=newrow.link%>" class="ns_pic">
+                        <img src="<%=newrow.pic_info[0].url%>" alt="<%=newrow.title%>" width="600" height="200"></a>
+                        <%if(newrow.stat_img){%>
+                        <%for(var i=0;i<newrow.stat_img.length;i++){%>
+                            <img src="<%=newrow.stat_img[i]%>" class="stat_img"/>
+                        <%}%><%}%>
+                    </div>
+                <%} else if(newrow.imgurl && newrow.add1 && newrow.add2 && /\.jpg$|\.png$|\.jpeg$|\.gif$/.test(newrow.imgurl) && /\.jpg$|\.png$|\.jpeg$|\.gif$/.test(newrow.add1) && /\.jpg$|\.png$|\.jpeg$|\.gif$/.test(newrow.add2)){%>
+                    <div class="data_row news_photoview clearfix <%if(__i == 0){%>news_first <%}%>">
+                        <div class="news_title">
+                            <h3><a href="<%=newrow.docurl%>"><%=newrow.title%></a></h3>
+                        </div>
+                        <div class="np_pic">
+                            <a href="<%=newrow.docurl%>">
+                                <span class="p_img3">
+                                <%if(newrow.imgurl.indexOf('gif') != -1){%>
+                                <img src="<%=newrow.imgurl%>" width="190" height="120" onerror="javascript:this.src='http://img2.cache.netease.com/f2e/news/index2016_rmd/images/pic3_error0106.jpg';">
+                                <%} else {%> 
+                                <img src="http://imgsize.ph.126.net/?imgurl=<%=newrow.imgurl%>_190x120x1x85.jpg" width="190" height="120" onerror="javascript:this.src='http://img2.cache.netease.com/f2e/news/index2016_rmd/images/pic3_error0106.jpg';">
+                                <%}%> 
+                                </span>
+                                <span class="p_img3">
+                                <%if(newrow.add1.indexOf('gif') != -1){%>
+                                <img src="<%=newrow.add1%>" width="190" height="120" onerror="javascript:this.src='http://img2.cache.netease.com/f2e/news/index2016_rmd/images/pic3_error0106.jpg';">
+                                <%} else {%> 
+                                <img src="http://imgsize.ph.126.net/?imgurl=<%=newrow.add1%>_190x120x1x85.jpg" width="190" height="120" onerror="javascript:this.src='http://img2.cache.netease.com/f2e/index2016_rmd/images/pic3_error0106.jpg';">
+                                <%}%> 
+                                </span>
+                                <span class="p_img3">
+                                <%if(newrow.add2.indexOf('gif') != -1){%>
+                                <img src="<%=newrow.add2%>" width="190" height="120" class="pic_last" onerror="javascript:this.src='http://img2.cache.netease.com/f2e/news/index2016_rmd/images/pic3_error0106.jpg';">
+                                <%} else {%> 
+                                <img src="http://imgsize.ph.126.net/?imgurl=<%=newrow.add2%>_190x120x1x85.jpg" width="190" height="120" class="pic_last" onerror="javascript:this.src='http://img2.cache.netease.com/f2e/news/index2016_rmd/images/pic3_error0106.jpg';">
+                                <%}%> 
+                                </span>
+                            </a>
+                        </div>
+                        <div class="np_detail clearfix">
+                            <div class="news_tag">
+                                <%if(newrow.channelname && newrow.channelname != "shehui" && newrow.channelname != "guonei" && newrow.channelname != "guoji" && newrow.channelname != "dada" && newrow.channelname != "war" && newrow.channelname != "hangkong"){%>
+                                    <%if(newrow.tlastid != ""){%>
+                                        <strong class="barlink"><%=newrow.tlastid%></strong>
+                                    <%}else if(newrow.label != ""){%>
+                                        <a href="<%=newrow.tlink%>" class="link link_more">
+                                        <em><%=newrow.label%></em></a>
+                                    <%}%> 
+                                <%}%>
+                                <%if(newrow.keywords.length > 0){%>
+                                    <div class="keywords">
+                                    <%bowlder.each(newrow.keywords,function(k){%>
+                                        <a href="<%=k.akey_link%>"><%=k.keyname%></a>
+                                    <%})%> 
+                                    </div>
+                                <%}%> 
+                                <%if(newrow.time){%>
+                                    <span class="time"><%=formatTime(newrow.time)%></span>
+                                <%}%> 
+                            </div>
+                            <div class="share-join clearfix">
+                                <%if(newrow.tienum != ""){%>
+                                <a class="post_recommend_tie right" href="<%=newrow.commenturl%>" >
+                                    <div class="post_recommend_tie_wrap">
+                                        <span class="post_recommend_tie_icon icons"><%=newrow.tienum%></span> 
+                                        <span class="post_recommend_tie_text"><i>跟贴</i><%=newrow.tienum%></span>
+                                    </div>
+                                </a>
+                                <%}%>
+                                <div class="ne-shares-parent right">
+                                    <span href="#share" title="分享" class="ne-shares-arr"></span>
+                                    <div class="share-join-item" ne-module="shares" ne-state="cls.hover:ne-shares-open;title:<%=newrow.title%>;url:<%=newrow.docurl%>;pic:<%=newrow.imgurl%>">
+<div class="ne-shares-pop6x1wrap" ne-role="share-wrap">
+<ul class="ne-shares-pop6x1">
+    <li>
+        <a ne-click="share('yixin')" href="http://yixin.im/#f=www">
+            <span class="inner">
+                <i class="ep-share-icon ep-share-yixin"></i>
+                <span class="ep-share-name">易信</span>
+            </span>
+        </a>
+    </li>
+    <li>
+        <a ne-mouseover="initWeixin()" href="javascript:" target="_self" class="ne-shares-weixin">
+            <span class="inner">
+                <i class="ep-share-icon ep-share-weixin"></i>
+                <span class="ep-share-name">微信</span>
+            </span>
+        </a>
+    </li>
+    <li>
+        <a ne-click="share('sina')" href="javascript:">
+            <span class="inner">
+                <i class="ep-share-icon ep-share-sina"></i>
+                <span class="ep-share-name">微博</span>
+            </span>
+        </a>
+    </li>
+    <li class="last">
+        <a ne-click="share('qzone')" href="javascript:">
+            <span class="inner">
+                <i class="ep-share-icon ep-share-qzone"></i>
+                <span class="ep-share-name">QQ空间</span>
+            </span>
+        </a>
+    </li>
+</ul>
+</div>
+<div class="ne-shares-qrwrap">
+  <div class="ne-shares-qrarr"></div>
+  <div ne-role="qrcode" class="ne-shares-qrcode"></div>
+  <p>用微信扫码二维码</p><p>分享至好友和朋友圈</p>
+</div>
+</div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                <%} else if(newrow.add1 && /\.jpg$|\.png$|\.jpeg$|\.gif$/.test(newrow.add1)){%>
+                    <div class="data_row news_special clearfix <%if(__i == 0){%>news_first <%}%>">
+                        <div class="news_title">
+                            <h3><a href="<%=newrow.docurl%>"><%=newrow.title%></a></h3>
+                            <%if(newrow.channelname && newrow.channelname != "shehui" && newrow.channelname != "guonei" && newrow.channelname != "guoji" && newrow.channelname != "dada" && newrow.channelname != "war" && newrow.channelname != "hangkong"){%>
+                                <%if(newrow.tlastid != ""){%>
+                                    <strong class="barlink"><%=newrow.tlastid%></strong>
+                                <%}else if(newrow.label != ""){%>
+                                    <a href="<%=newrow.tlink%>" class="link link_more">
+                                    <em><%=newrow.label%></em></a>
+                                <%}%> 
+                            <%}%>
+                        </div>
+                        <a href="<%=newrow.docurl%>" class="ns_pic">
+                            <%if(newrow.add1.indexOf('gif') != -1){%>
+                            <img src="<%=newrow.add1%>" alt="<%=newrow.title%>" width="600" height="300" onerror="javascript:this.src='http://img2.cache.netease.com/f2e/news/index2016_rmd/images/special_error0106.jpg';">
+                            <%} else {%> 
+                            <img src="http://imgsize.ph.126.net/?imgurl=<%=newrow.add1%>_600x300x1x85.jpg" alt="<%=newrow.title%>" width="600" height="300" onerror="javascript:this.src='http://img2.cache.netease.com/f2e/news/index2016_rmd/images/special_error0106.jpg';">
+                            <%}%> 
+                        </a>
+                    </div>
+                <%} else if(newrow.imgurl && newrow.imgurl != ""){%>
+                    <div class="data_row news_article clearfix <%if(__i == 0){%>news_first<%}%>">
+                        <%if(newrow.imgurl != ""){%>
+                            <a href="<%=newrow.docurl%>" class="na_pic">
+                                <%if(newrow.imgurl.indexOf('gif') != -1){%>
+                                <img src="<%=newrow.imgurl%>" alt="<%=newrow.title%>" width="140" height="88" onerror="imgError(this)">
+                                <%} else {%> 
+                                <img src="http://imgsize.ph.126.net/?imgurl=<%=newrow.imgurl%>_140x88x1x85.jpg" alt="<%=newrow.title%>" width="140" height="88" onerror="imgError(this)">
+                                <%}%> 
+                            </a>
+                        <%}%> 
+                        <div class="na_detail clearfix <%if(newrow.imgurl == ""){%>no_pic<%}%>">
+                            <div class="news_title">
+                                <h3><a href="<%=newrow.docurl%>"><%=newrow.title%></a></h3>
+                            </div>
+                            <div class="news_tag">
+                                <%if(newrow.channelname && newrow.channelname != "shehui" && newrow.channelname != "guonei" && newrow.channelname != "guoji" && newrow.channelname != "dada" && newrow.channelname != "war" && newrow.channelname != "hangkong"){%>
+                                    <%if(newrow.tlastid != ""){%>
+                                        <strong class="barlink"><%=newrow.tlastid%></strong>
+                                    <%}else if(newrow.label != ""){%>
+                                        <a href="<%=newrow.tlink%>" class="link link_more">
+                                        <em><%=newrow.label%></em></a>
+                                    <%}%> 
+                                <%}%>
+                                <%if(newrow.keywords && newrow.keywords.length > 0){%>
+                                    <div class="keywords">
+                                    <%bowlder.each(newrow.keywords,function(k){%>
+                                        <a href="<%=k.akey_link%>"><%=k.keyname%></a>
+                                    <%})%> 
+                                    </div>
+                                <%}%> 
+                                <%if(newrow.time){%>
+                                    <span class="time"><%=formatTime(newrow.time)%></span>
+                                <%}%> 
+                            </div>
+                            <div class="share-join clearfix">
+                                <a class="post_recommend_tie right" href="<%=newrow.commenturl%>" >
+                                    <div class="post_recommend_tie_wrap">
+                                        <span class="post_recommend_tie_icon icons"><%=newrow.tienum ? newrow.tienum : 0%></span> 
+                                        <span class="post_recommend_tie_text"><i>跟贴</i><%=newrow.tienum%></span>
+                                    </div>
+                                </a>
+                                <div class="ne-shares-parent right">
+                                    <span href="#share" title="分享" class="ne-shares-arr"></span>
+                                    <div class="share-join-item" ne-module="shares" ne-state="cls.hover:ne-shares-open;title:<%=newrow.title%>;url:<%=newrow.docurl%>;pic:<%=newrow.imgurl%>">
+<div class="ne-shares-pop6x1wrap" ne-role="share-wrap">
+<ul class="ne-shares-pop6x1">
+    <li>
+        <a ne-click="share('yixin')" href="http://yixin.im/#f=www">
+            <span class="inner">
+                <i class="ep-share-icon ep-share-yixin"></i>
+                <span class="ep-share-name">易信</span>
+            </span>
+        </a>
+    </li>
+    <li>
+        <a ne-mouseover="initWeixin()" href="javascript:" target="_self" class="ne-shares-weixin">
+            <span class="inner">
+                <i class="ep-share-icon ep-share-weixin"></i>
+                <span class="ep-share-name">微信</span>
+            </span>
+        </a>
+    </li>
+    <li>
+        <a ne-click="share('sina')" href="javascript:">
+            <span class="inner">
+                <i class="ep-share-icon ep-share-sina"></i>
+                <span class="ep-share-name">微博</span>
+            </span>
+        </a>
+    </li>
+    <li class="last">
+        <a ne-click="share('qzone')" href="javascript:">
+            <span class="inner">
+                <i class="ep-share-icon ep-share-qzone"></i>
+                <span class="ep-share-name">QQ空间</span>
+            </span>
+        </a>
+    </li>
+</ul>
+</div>
+<div class="ne-shares-qrwrap">
+  <div class="ne-shares-qrarr"></div>
+  <div ne-role="qrcode" class="ne-shares-qrcode"></div>
+  <p>用微信扫码二维码</p><p>分享至好友和朋友圈</p>
+</div>
+</div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                <%} else if(newrow.pics3 && newrow.pics3.length >= 3){%>
+                    <div class="data_row news_photoview clearfix <%if(__i == 0){%>news_first <%}%>">
+                        <div class="news_title">
+                            <h3><a href="<%=newrow.docurl%>"><%=newrow.title%></a></h3>
+                        </div>
+                        <div class="np_pic">
+                            <a href="<%=newrow.docurl%>">
+                                <%bowlder.each(newrow.pics3,function(n){%>
+                                    <span class="p_img3">
+                                    <img src="<%=n.pic%>" width="190" height="120" onerror="javascript:this.src='http://img2.cache.netease.com/f2e/news/index2016_rmd/images/pic3_error0106.jpg';">
+                                    </span>
+                                <%})%> 
+                            </a>
+                        </div>
+                        <div class="np_detail clearfix">
+                            <div class="news_tag">
+                                <%if(newrow.channelname && newrow.channelname != "shehui" && newrow.channelname != "guonei" && newrow.channelname != "guoji" && newrow.channelname != "dada" && newrow.channelname != "war" && newrow.channelname != "hangkong"){%>
+                                    <%if(newrow.tlastid != ""){%>
+                                        <strong class="barlink"><%=newrow.tlastid%></strong>
+                                    <%}else if(newrow.label != ""){%>
+                                        <a href="<%=newrow.tlink%>" class="link link_more">
+                                        <em><%=newrow.label%></em></a>
+                                    <%}%> 
+                                <%}%>
+                                <%if(newrow.keywords && newrow.keywords.length > 0){%>
+                                    <div class="keywords">
+                                    <%bowlder.each(newrow.keywords,function(k){%>
+                                        <a href="<%=k.akey_link%>"><%=k.keyname%></a>
+                                    <%})%> 
+                                    </div>
+                                <%}%> 
+                                <%if(newrow.time){%>
+                                    <span class="time"><%=formatTime(newrow.time)%></span>
+                                <%}%> 
+                            </div>
+                            <div class="share-join clearfix">
+                                <a class="post_recommend_tie right" href="<%=newrow.commenturl%>" >
+                                    <div class="post_recommend_tie_wrap">
+                                        <span class="post_recommend_tie_icon icons"><%=newrow.tienum%></span> 
+                                        <span class="post_recommend_tie_text"><i>跟贴</i><%=newrow.tienum%></span>
+                                    </div>
+                                </a>
+                                <div class="ne-shares-parent right">
+                                    <span href="#share" title="分享" class="ne-shares-arr"></span>
+                                    <div class="share-join-item" ne-module="shares" ne-state="cls.hover:ne-shares-open;title:<%=newrow.title%>;url:<%=newrow.docurl%>;pic:<%=newrow.imgurl%>">
+<div class="ne-shares-pop6x1wrap" ne-role="share-wrap">
+<ul class="ne-shares-pop6x1">
+    <li>
+        <a ne-click="share('yixin')" href="http://yixin.im/#f=www">
+            <span class="inner">
+                <i class="ep-share-icon ep-share-yixin"></i>
+                <span class="ep-share-name">易信</span>
+            </span>
+        </a>
+    </li>
+    <li>
+        <a ne-mouseover="initWeixin()" href="javascript:" target="_self" class="ne-shares-weixin">
+            <span class="inner">
+                <i class="ep-share-icon ep-share-weixin"></i>
+                <span class="ep-share-name">微信</span>
+            </span>
+        </a>
+    </li>
+    <li>
+        <a ne-click="share('sina')" href="javascript:">
+            <span class="inner">
+                <i class="ep-share-icon ep-share-sina"></i>
+                <span class="ep-share-name">微博</span>
+            </span>
+        </a>
+    </li>
+    <li class="last">
+        <a ne-click="share('qzone')" href="javascript:">
+            <span class="inner">
+                <i class="ep-share-icon ep-share-qzone"></i>
+                <span class="ep-share-name">QQ空间</span>
+            </span>
+        </a>
+    </li>
+</ul>
+</div>
+<div class="ne-shares-qrwrap">
+  <div class="ne-shares-qrarr"></div>
+  <div ne-role="qrcode" class="ne-shares-qrcode"></div>
+  <p>用微信扫码二维码</p><p>分享至好友和朋友圈</p>
+</div>
+</div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                <%} else {%>
+                    <div class="data_row news_article clearfix <%if(__i == 0){%>news_first<%}%>" i={{__i}}>
+                        <div class="na_detail clearfix no_pic">
+                            <div class="news_title">
+                                <h3><a href="<%=newrow.docurl%>"><%=newrow.title%></a></h3>
+                            </div>
+                            <div class="news_tag">
+                                <%if(newrow.channelname && newrow.channelname != "shehui" && newrow.channelname != "guonei" && newrow.channelname != "guoji" && newrow.channelname != "dada" && newrow.channelname != "war" && newrow.channelname != "hangkong"){%>
+                                    <%if(newrow.tlastid != ""){%>
+                                        <strong class="barlink"><%=newrow.tlastid%></strong>
+                                    <%}else if(newrow.label != ""){%>
+                                        <a href="<%=newrow.tlink%>" class="link link_more">
+                                        <em><%=newrow.label%></em></a>
+                                    <%}%> 
+                                <%}%>
+                                <%if(newrow.keywords && newrow.keywords.length > 0){%>
+                                    <div class="keywords">
+                                    <%bowlder.each(newrow.keywords,function(k){%>
+                                        <a href="<%=k.akey_link%>"><%=k.keyname%></a>
+                                    <%})%> 
+                                    </div>
+                                <%}%> 
+                                <%if(newrow.time){%>
+                                    <span class="time"><%=formatTime(newrow.time)%></span>
+                                <%}%> 
+                            </div>
+                            <div class="share-join clearfix">
+                                <a class="post_recommend_tie right" href="<%=newrow.commenturl%>" >
+                                    <div class="post_recommend_tie_wrap">
+                                        <span class="post_recommend_tie_icon icons"><%=newrow.tienum ? newrow.tienum : 0%></span> 
+                                        <span class="post_recommend_tie_text"><i>跟贴</i><%=newrow.tienum%></span>
+                                    </div>
+                                </a>
+                                <div class="ne-shares-parent right">
+                                    <span href="#share" title="分享" class="ne-shares-arr"></span>
+                                    <div class="share-join-item" ne-module="shares" ne-state="cls.hover:ne-shares-open;title:<%=newrow.title%>;url:<%=newrow.docurl%>;pic:<%=newrow.imgurl%>">
+<div class="ne-shares-pop6x1wrap" ne-role="share-wrap">
+<ul class="ne-shares-pop6x1">
+    <li>
+        <a ne-click="share('yixin')" href="http://yixin.im/#f=www">
+            <span class="inner">
+                <i class="ep-share-icon ep-share-yixin"></i>
+                <span class="ep-share-name">易信</span>
+            </span>
+        </a>
+    </li>
+    <li>
+        <a ne-mouseover="initWeixin()" href="javascript:" target="_self" class="ne-shares-weixin">
+            <span class="inner">
+                <i class="ep-share-icon ep-share-weixin"></i>
+                <span class="ep-share-name">微信</span>
+            </span>
+        </a>
+    </li>
+    <li>
+        <a ne-click="share('sina')" href="javascript:">
+            <span class="inner">
+                <i class="ep-share-icon ep-share-sina"></i>
+                <span class="ep-share-name">微博</span>
+            </span>
+        </a>
+    </li>
+    <li class="last">
+        <a ne-click="share('qzone')" href="javascript:">
+            <span class="inner">
+                <i class="ep-share-icon ep-share-qzone"></i>
+                <span class="ep-share-name">QQ空间</span>
+            </span>
+        </a>
+    </li>
+</ul>
+</div>
+<div class="ne-shares-qrwrap">
+  <div class="ne-shares-qrarr"></div>
+  <div ne-role="qrcode" class="ne-shares-qrcode"></div>
+  <p>用微信扫码二维码</p><p>分享至好友和朋友圈</p>
+</div>
+</div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                <%}%>
+                </script> 
+           </div> </li> 
+         </ul> 
+         <div class="load_more_foot" id="load_more_foot"></div> 
+         <a class="load_more_btn" target="_self" ne-click="clickLoadMore();" ne-hide="{{myState.counter >= navList[myState.ndNavIndex].totalPage || myState.counter == 0}}"> 
+          <div class="post_addmore" ne-visible="{{myState.counter < navList[myState.ndNavIndex].totalPage &amp;&amp; !myState.loading}}"> 
+           <i>+</i> 
+           <span>加载更多</span> 
+          </div> 
+          <div class="post_adding" ne-show="{{myState.loading}}"> 
+           <i>+</i> 
+           <span>加载中...</span> 
+          </div> </a> 
+         <div class="load_more_tip" ne-show="{{myState.counter >= navList[myState.ndNavIndex].totalPage}}">
+          :-)已经到最后啦~
+         </div> 
+        </div> 
+       </div> 
+       <!-- 信息流 结束 --> 
+      </div> 
+      <!-- 中间新闻 结束 --> 
+      <!-- 右侧栏目 开始 --> 
+      <div class="main_right_channel"> 
+       <!-- 广告 --> 
+       <!-- 300*30 --> 
+       <!-- 新闻首页焦点图上方L特殊标识广告 开始--> 
+       <!-- <div class="mod_newsr_ad1">
+<a href="http://g.163.com/a?CID=45744&Values=2901173312&Redirect=http://clickc.admaster.com.cn/c/a73960,b1279435,c369,i0,m101,8a1,8b2,h"><img class="block mb10" width="300" height="30" src="http://img1.126.net/channel11/024018300301009.jpg" alt="广告"></a>
+</div> --> 
+       <!--新闻首页焦点图上方L特殊标识广告 结束--> 
+       <!-- 焦点图 开始--> 
+       <div class="mod_right_focus"> 
+        <div ne-module=""> 
+         <div class="mod_focus" ne-module="slide" ne-state="slideMethod:left;events=mouseover;interval=4000;loop=true;"> 
+          <div class="f_body" ne-role="slide-body"> 
+           <ul class="f_main clearfix" ne-role="slide-scroll"> 
+            <li ne-role="slide-page"> <a href="http://g.163.com/a?CID=49497&amp;Values=3721566572&amp;Redirect=http://clickc.admaster.com.cn/c/a84285,b1653843,c3078,i0,m101,8a1,8b2,h"> <img src="http://imgsize.ph.126.net/?imgurl=http://cms-bucket.nosdn.127.net/5062aa3a77c3460ab28eeedb664b086f20170615091736.jpeg_300x400x1x85.jpg" width="300" height="400"> <span class="bg"></span> <h3>广告：路虎之境 从发现神行开始</h3> </a> </li> 
+            <li ne-role="slide-page"> <a href="http://news.163.com/photoview/00AO0001/2260871.html#p=CMV3IF1S00AO0001"> <img src="http://imgsize.ph.126.net/?imgurl=http://cms-bucket.nosdn.127.net/d042808df13746a0bee05d181f2ed2e720170615091303.jpeg_300x400x1x85.jpg" width="300" height="400"> <span class="bg"></span> <h3>美棒球赛遭枪击 特朗普深表悲痛</h3> </a> </li> 
+            <li ne-role="slide-page"> <a href="http://news.163.com/photoview/00AO0001/2260845.html#p=CMU7U9HI00AO0001"> <img src="http://imgsize.ph.126.net/?imgurl=http://cms-bucket.nosdn.127.net/cad4d5d768dc4ab2a17852ccc411d92420170615091415.jpeg_300x400x1x85.jpg" width="300" height="400"> <span class="bg"></span> <h3>爱尔兰产生首位同性恋总理</h3> </a> </li> 
+            <li ne-role="slide-page"> <a href="http://news.163.com/photoview/00AO0001/2260856.html#p=CMUDHQ2700AO0001&amp;from=tj_review"> <img src="http://imgsize.ph.126.net/?imgurl=http://cms-bucket.nosdn.127.net/5ec965b782e649b2a4b5a3dfef9a8b8d20170615091501.jpeg_300x400x1x85.jpg" width="300" height="400"> <span class="bg"></span> <h3>伦敦消防员艰苦对抗公寓大火</h3> </a> </li> 
+           </ul> 
+          </div> 
+          <div class="f_title"> 
+           <span ne-role="slide-nav" class="current  ">1</span> 
+           <span ne-role="slide-nav" class=" ">2</span> 
+           <span ne-role="slide-nav" class=" ">3</span> 
+           <span ne-role="slide-nav" class=" ">4</span> 
+          </div> 
+          <a ne-role="slide-prev" class="f_prev">&lt;</a> 
+          <a ne-role="slide-next" class="f_next">&gt;</a> 
+         </div> 
+        </div> 
+       </div> 
+       <!-- 焦点图 结束--> 
+       <!-- 广告 开始--> 
+       <div class="mod_ad_toutu channel_relative_2016"> 
+        <ul class="clearfix"> 
+         <li><a href="http://mall.163.com/mobile/fill.jsp?from=wwwtext">手机费快充超低折扣</a></li> 
+         <li><a href="http://baoxian.163.com/car/activitylist.html?from=mhdstbl">免费送现金红包！</a></li> 
+         <li><a href="http://baoxian.163.com/activity/act1605/index.html?from=mhds1605">免费领取iPhone6s</a></li> 
+         <li><a href="http://piao.163.com/movie/48461.html?from=newsword">经典cp上演校园爱情</a></li> 
+        </ul> 
+        <span class="channel_ad_text_2016">广告</span> 
+       </div> 
+       <!-- 广告 结束--> 
+       <!-- 右侧960原创栏目 开始 --> 
+       <div class="origina_column_960" id="js_origina_column_960"> 
+        <div ne-module="modules/originacolumn/originacolumn.js"> 
+         <div class="origina_column_warp"> 
+          <h2> <span>新闻各有态度</span> </h2> 
+          <div class="scroll_bd" ne-role="scroll_bd"> 
+           <div class="scroll_column_bd"> 
+            <ul class="scroll_ul"> 
+             <!-- 回声 开始 --> 
+             <!-- 回声 结束 --> 
+             <!-- 数读 开始 --> 
+             <li class="cell cell_sd cell_hover"> <p class="tag_line"> <a href="http://data.163.com/special/datablog/" class="tags tag_sd">数读</a> </p> 
+              <div class="column_main"> 
+               <a href="http://data.163.com/17/0613/13/CMQJAP0B000181IU.html" class="detail" ne-role="detail"> <h3> 中国的酒店设施和印度一样糟心 </h3> 
+                <div class="photo"> 
+                 <img src="http://imgsize.ph.126.net/?imgurl=http://cms-bucket.nosdn.127.net/13c071deddeb48ba8536769477f9385320170613134214.jpeg_200x90x1x85.jpg" width="200" height="90" alt="中国的酒店设施和印度一样糟心"> 
+                </div> </a> 
+               <ul> 
+                <li class=""><a href="http://data.163.com/17/0609/13/CMGAAADN000181IU.html">如果活到78岁，干啥花的时间最多</a></li> 
+                <li class="twoli "><a href="http://data.163.com/17/0608/12/CMDL14GV000181IU.html">古代科举VS现代高考，哪个更容易</a></li> 
+               </ul> 
+              </div> </li> 
+             <!-- 数读 结束 --> 
+             <!-- 人间 开始 --> 
+             <li class="cell cell_rj"> <p class="tag_line"> <a href="http://renjian.163.com/" class="tags tag_rj">人间</a> </p> 
+              <div class="column_main"> 
+               <a href="http://renjian.163.com/17/0613/20/CMRCBKMG000181RV.html" class="detail" ne-role="detail"> <h3> 我是如何成为一个美漂的 </h3> 
+                <div class="photo"> 
+                 <img src="http://imgsize.ph.126.net/?imgurl=http://cms-bucket.nosdn.127.net/3ff247cd7c8549de95771fdb26af4dcd20170613205642.jpeg_200x90x1x85.jpg" width="200" height="90" alt="我是如何成为一个美漂的"> 
+                </div> </a> 
+               <ul> 
+                <li class=""><a href="http://renjian.163.com/17/0612/18/CMOHSGVB000181RV.html">牢饭究竟是什么味？</a></li> 
+                <li class="twoli "><a href="http://renjian.163.com/17/0611/15/CMLK7NJS000181RV.html">只属于童年的味觉记忆</a></li> 
+               </ul> 
+              </div> </li> 
+             <!-- 人间 结束 --> 
+             <!-- 大国小民 开始 --> 
+             <li class="cell cell_dgxm"> <p class="tag_line"> <span class="tags tag_dgxm">大国小民</span> </p> 
+              <div class="column_main"> 
+               <a href="http://renjian.163.com/17/0614/20/CMTSB7UD000181RK.html" class="detail" ne-role="detail"> <h3> 穷孩子的学费 </h3> 
+                <div class="photo"> 
+                 <img src="http://imgsize.ph.126.net/?imgurl=http://cms-bucket.nosdn.127.net/9bd07cb84e7a43b8bc1ab47361b536e720170614201440.jpeg_200x90x1x85.jpg" width="200" height="90" alt="穷孩子的学费"> 
+                </div> </a> 
+               <ul> 
+                <li class=""><a href="http://renjian.163.com/17/0609/19/CMGVTJ29000181RK.html">就怕真的把领导告倒</a></li> 
+                <li class="twoli "><a href="http://renjian.163.com/17/0608/18/CME8398R000181RK.html">村姑新娘</a></li> 
+               </ul> 
+              </div> </li> 
+             <!-- 大国小民 结束 --> 
+             <!-- 三三有梗 开始 --> 
+             <li class="cell cell_dada"> <p class="tag_line"> <span class="tags tag_dada">三三有梗</span> </p> 
+              <div class="column_main"> 
+               <a href="http://news.163.com/17/0615/00/CMU9PSN90001885B.html" class="detail" ne-role="detail"> <h3> 小心，你可能是看了一本假书 </h3> 
+                <div class="photo"> 
+                 <img src="http://imgsize.ph.126.net/?imgurl=http://cms-bucket.nosdn.127.net/fbc4f0e4dbae431d8706c848b2760c7720170614210736.png_200x90x1x85.jpg" width="200" height="90" alt="小心，你可能是看了一本假书"> 
+                </div> </a> 
+               <ul> 
+                <li class=""><a href="http://news.163.com/17/0612/00/CMMIHL170001885B.html">我微信好友最铁的是文件传输助手</a></li> 
+                <li class="twoli "><a href="http://news.163.com/17/0610/00/CMHDSB5J0001885B.html">你想要的无非自己成功别人失败</a></li> 
+               </ul> 
+              </div> </li> 
+             <!-- 三三有梗 结束 --> 
+             <!-- 三三映画 开始 --> 
+             <li class="cell cell_ssyh"> <p class="tag_line"> <span class="tags tag_ssyh">三三映画</span> </p> 
+              <div class="column_main"> 
+               <a href="http://news.163.com/17/0613/00/CMP4U1O80001885B.html" class="detail" ne-role="detail"> <h3> 三三映画|落榜生建了个野鸡大学, 逼疯隔壁名校 </h3> 
+                <div class="photo"> 
+                 <img src="http://imgsize.ph.126.net/?imgurl=http://cms-bucket.nosdn.127.net/97e49d0062914334a44f7266bf6e27ef20170609180131.jpeg_200x90x1x85.jpg" width="200" height="90" alt="三三映画|落榜生建了个野鸡大学, 逼疯隔壁名校"> 
+                </div> </a> 
+               <ul> 
+                <li class=""><a href="http://news.163.com/17/0604/23/CM4HMAKQ0001885B.html">岛国这部高中辣妹电影，完爆国产青春烂片！</a></li> 
+                <li class="twoli "><a href="http://news.163.com/17/0526/23/CLDC50FB0001885B.html">台湾同性婚姻合法,大陆高校却在上"女德"课</a></li> 
+               </ul> 
+              </div> </li> 
+             <!-- 三三映画 结束 --> 
+             <!-- 我去1990 开始 --> 
+             <li class="cell cell_wq1990"> <p class="tag_line"> <span class="tags tag_wq1990">我去1990</span> </p> 
+              <div class="column_main"> 
+               <a href="http://news.163.com/17/0407/00/CHCKFBJR0001885B.html" class="detail" ne-role="detail"> <h3> 每个男孩小时候都是四驱车老司机 </h3> 
+                <div class="photo"> 
+                 <img src="http://imgsize.ph.126.net/?imgurl=http://cms-bucket.nosdn.127.net/676f6e996cee481f872413b4ec0466aa20170407071038.png_200x90x1x85.jpg" width="200" height="90" alt="每个男孩小时候都是四驱车老司机"> 
+                </div> </a> 
+               <ul> 
+                <li class=""><a href="http://news.163.com/17/0326/00/CGDQK8TE0001885B.html">90年代的美女教会我们世界真奇妙</a></li> 
+                <li class="twoli "><a href="http://news.163.com/17/0318/00/CFP4DGJ50001885B.html">你敢说出你的网恋故事吗？</a></li> 
+               </ul> 
+              </div> </li> 
+             <!-- 我去1990 结束 --> 
+             <!-- 轻松一刻 开始 --> 
+             <li class="cell cell_qsyk"> <p class="tag_line"> <span class="tags tag_qsyk">轻松一刻</span> </p> 
+              <div class="column_main"> 
+               <a href="http://news.163.com/17/0614/17/CMTKEJMB000181BR.html" class="detail" ne-role="detail"> <h3> 这不是深夜食堂，这是深夜尴尬 </h3> 
+                <div class="photo"> 
+                 <img src="http://imgsize.ph.126.net/?imgurl=http://cms-bucket.nosdn.127.net/52635d66ad644b598ea603646268c6f320170614181324.jpeg_200x90x1x85.jpg" width="200" height="90" alt="这不是深夜食堂，这是深夜尴尬"> 
+                </div> </a> 
+               <ul> 
+                <li class=""><a href="http://news.163.com/17/0614/10/CMSQG7PL000181BR.html">为什么女生找对象一定要找帅的？</a></li> 
+                <li class="twoli "><a href="http://news.163.com/17/0613/17/CMR00A7R000181BR.html">NBA总决赛上，他宣布了一个惊人决定！</a></li> 
+               </ul> 
+              </div> </li> 
+             <!-- 轻松一刻 结束 --> 
+             <!-- 槽值 开始 --> 
+             <li class="cell cell_caozhi"> <p class="tag_line"> <span class="tags tag_caozhi">槽值</span> </p> 
+              <div class="column_main"> 
+               <a href="http://caozhi.news.163.com/17/0614/12/CMT1O4C1000181TI.html" class="detail" ne-role="detail"> <h3> 一个家庭的悲剧，是从不好好说话开始的 </h3> 
+                <div class="photo"> 
+                 <img src="http://imgsize.ph.126.net/?imgurl=http://cms-bucket.nosdn.127.net/15c77ca035cb4c4996507d25336525b920170614123656.jpeg_200x90x1x85.jpg" width="200" height="90" alt="一个家庭的悲剧，是从不好好说话开始的"> 
+                </div> </a> 
+               <ul> 
+                <li class=""><a href="http://caozhi.news.163.com/17/0613/20/CMRBBFR9000181TI.html">说走就走的旅行，拯救不了你</a></li> 
+                <li class="twoli "><a href="http://caozhi.news.163.com/17/0612/12/CMNULQKH000181TI.html">你一无所有时，没人给你面子</a></li> 
+               </ul> 
+              </div> </li> 
+             <!-- 槽值 结束 --> 
+             <!-- 杂家 开始 --> 
+             <li class="cell cell_zajia"> <p class="tag_line"> <span class="tags tag_zajia">杂家</span> </p> 
+              <div class="column_main"> 
+               <a href="http://zajia.news.163.com/17/0614/19/CMTRS577000181TJ.html" class="detail" ne-role="detail"> <h3> 最倔官三代，民国第一史学大师输给时代 </h3> 
+                <div class="photo"> 
+                 <img src="http://imgsize.ph.126.net/?imgurl=http://cms-bucket.nosdn.127.net/d275da7fa652467f988d9dd2ab05e21020170614200825.jpeg_200x90x1x85.jpg" width="200" height="90" alt="最倔官三代，民国第一史学大师输给时代"> 
+                </div> </a> 
+               <ul> 
+                <li class=""><a href="http://zajia.news.163.com/17/0612/19/CMOKORDD000181TJ.html">这些改变历史的人竟然都是左撇子</a></li> 
+                <li class="twoli "><a href="http://zajia.news.163.com/17/0607/19/CMBQHUT7000181TJ.html">京城老大爷收30年破烂，身家千万</a></li> 
+               </ul> 
+              </div> </li> 
+             <!-- 杂家 结束 --> 
+             <!-- 看客 开始 --> 
+             <li class="cell cell_kanke"> <p class="tag_line"> <a href="http://news.163.com/special/insight/" class="tags tag_kanke">看客</a> </p> 
+              <div class="column_main"> 
+               <a href="http://news.163.com/photoview/3R710001/2257179.html" class="detail" ne-role="detail"> <h3> 生活之上梦想之下的环外青年 </h3> 
+                <div class="photo"> 
+                 <img src="http://imgsize.ph.126.net/?imgurl=http://cms-bucket.nosdn.127.net/f942755548744c10a5fe75a8805708de20170607081110.jpeg_200x90x1x85.jpg" width="200" height="90" alt="生活之上梦想之下的环外青年"> 
+                </div> </a> 
+               <ul> 
+                <li class=""><a href="http://news.163.com/photoview/3R710001/2259160.html">缅北瘾君子：主啊，请帮我戒毒</a></li> 
+                <li class="twoli "><a href="http://news.163.com/photoview/3R710001/2257277.html">童年三部曲 我在南极上学前班</a></li> 
+               </ul> 
+              </div> </li> 
+             <!-- 看客 结束 --> 
+             <!-- 身体密码 开始 --> 
+             <li class="cell cell_stpwd"> <p class="tag_line"> <a href="http://jiankang.163.com/special/zhutierji/?type=3" class="tags tag_stpwd">身体密码</a> </p> 
+              <div class="column_main"> 
+               <a href="http://jiankang.163.com/17/0612/20/CMOPMHPM0038804G.html" class="detail" ne-role="detail"> <h3> 为啥会有“孕吐”？有人严重有人却没啥事？ </h3> 
+                <div class="photo"> 
+                 <img src="http://imgsize.ph.126.net/?imgurl=http://cms-bucket.nosdn.127.net/4079ccf53d9a4d9f90c07cc9c9e930d020170613144110.png_200x90x1x85.jpg" width="200" height="90" alt="为啥会有“孕吐”？有人严重有人却没啥事？"> 
+                </div> </a> 
+               <ul> 
+                <li class=""><a href="http://jiankang.163.com/17/0609/08/CMFPKJRS0038804G.html">"辟谷秘术"减脂止饿还治糖尿病？</a></li> 
+                <li class="twoli "><a href="http://jiankang.163.com/17/0605/18/CM6GQNVE0038804G.html">"恐高"是心理问题还是生理反应？</a></li> 
+               </ul> 
+              </div> </li> 
+             <!-- 身体密码 结束 --> 
+            </ul> 
+           </div> 
+           <div id="js_baseline"></div> 
+           <span class="white_bg" id="js_white_bg"></span> 
+          </div> 
+         </div> 
+        </div> 
+       </div> 
+       <!-- 右侧960原创栏目 结束 --> 
+       <div class="mt12 mod_ad_1 mod_ad_r"> 
+        <!-- 300*250 --> 
+        <div style="position:relative;height:250px;"> 
+         <a href="http://gb.corp.163.com/gb/legal.html" class="ad_hover_href"></a> 
+         <iframe class="mb40 fl" src="http://g.163.com/r?site=netease&amp;affiliate=news&amp;cat=homepage&amp;type=logo300x250&amp;location=1" width="300" height="250" frameborder="no" border="0" marginwidth="0" marginheight="0" scrolling="no"></iframe> 
+        </div> 
+       </div> 
+       <!-- 新闻策划 开始 --> 
+       <div class="mt35 mod_pageh5"> 
+        <div ne-module="modules/modh5/modh5.js"> 
+         <div class="idx_cm_title"> 
+          <a href="http://news.163.com/special/h5column/" class="title">网易新闻策划</a> 
+         </div> 
+         <div class="wrap" ne-module="slide" ne-state="slideMethod:left;events=mouseover;loop=true;"> 
+          <div class="h5_bg h5_border"> 
+           <div class="h5_body" ne-role="slide-body"> 
+            <div class="h5_main clearfix" ne-role="slide-scroll"> 
+             <div ne-role="slide-page" class="h5_item"> 
+              <div class="h5_item_poster"> 
+               <a href="http://news.163.com/special/fdh5_valentines/"> <img src="http://cms-bucket.nosdn.127.net/a4d81722c4404cb8a047256269c4fac920170220105058.jpeg" width="280" height="436"> </a> 
+              </div> 
+             </div> 
+             <div ne-role="slide-page" class="h5_item"> 
+              <div class="h5_item_poster"> 
+               <a href="http://news.163.com/special/beichengjiaotong"> <img src="http://img2.cache.netease.com/cnews/2016/8/23/20160823110031b5ad9.jpg" width="280" height="436"> </a> 
+              </div> 
+             </div> 
+             <div ne-role="slide-page" class="h5_item"> 
+              <div class="h5_item_poster"> 
+               <a href="http://news.163.com/special/ons/"> <img src="http://cms-bucket.nosdn.127.net/34ac70842b2d49eda99190dbff209b8920160913185536.png" width="280" height="436"> </a> 
+              </div> 
+             </div> 
+             <div ne-role="slide-page" class="h5_item"> 
+              <div class="h5_item_poster"> 
+               <a href="http://news.163.com/special/tsdizhen_chahua/"> <img src="http://img6.cache.netease.com/cnews/2016/7/28/20160728114207f5900.jpg" width="280" height="436"> </a> 
+              </div> 
+             </div> 
+            </div> 
+           </div> 
+           <div class="scrollbtn scrollbtl" ne-role="scrollbtn">
+            <a ne-role="slide-prev" class="f_prev">&lt;</a>
+           </div> 
+           <div class="scrollbtn scrollbtnr" ne-role="scrollbtn">
+            <a ne-role="slide-next" class="f_next">&gt;</a>
+           </div> 
+          </div> 
+          <div class="nav clearfix"> 
+           <span ne-role="slide-nav" ne-repeat="1..state.total"></span> 
+          </div> 
+         </div>
+        </div> 
+       </div> 
+       <!-- 新闻策划 结束 --> 
+       <!-- 新闻专题 开始 --> 
+       <div class="mt30 mod_news_special"> 
+        <div class="idx_cm_title"> 
+         <h2 class="title"><a href="http://news.163.com/special/">新闻专题</a></h2> 
+        </div> 
+        <div class="bd"> 
+         <div class="photo"> 
+          <a href="http://news.163.com/special/2017lh_index/"> <img src="http://imgsize.ph.126.net/?imgurl=http://cms-bucket.nosdn.127.net/fbbafbd4ec2047d6bcec2c2b2e03ebd020170517122344.jpeg_300x90x1x85.jpg" width="300" height="90" alt="2017年全国两会"> </a> 
+         </div> 
+         <h3> <span>HOT</span> <strong><a href="http://news.163.com/special/2017lh_index/">2017年全国两会</a></strong> </h3> 
+         <ul class="idx_cm_list"> 
+          <li> <a href="http://news.163.com/17/0527/14/CLETCUJ7000189DH.html">一心一意拥有 成其幸福永久</a> </li> 
+          <li> <a href="http://news.163.com/17/0517/12/CKKU9JGL000189DH.html">上海移动"提速降费"再加码</a> </li> 
+          <li> <a href="http://news.163.com/17/0509/19/CK1361AL000189DH.html">交行"三增三降"创造更有质量的增长</a> </li> 
+          <li> <a href="http://news.163.com/17/0428/14/CJ481U0G000187UV.html">科沃斯:不从用户出发产品是耍流氓</a> </li> 
+         </ul> 
+        </div> 
+       </div> 
+       <!-- 新闻专题 结束 --> 
+       <!-- 高层动态 开始--> 
+       <div class="mt27 mod_high_dynamic"> 
+        <div class="idx_cm_title"> 
+         <h2 class="title"><a href="http://news.163.com/special/00011269/gdmore.html">高层动态</a></h2> 
+        </div> 
+        <ul class="idx_cm_list idx_cm_list_h"> 
+         <li> <a href="http://news.163.com/17/0613/17/CMR19K8000018AOQ.html">习近平授予驻港部队某连荣誉称号</a> </li> 
+         <li> <a href="http://news.163.com/17/0613/20/CMRCV4AT000189FH.html">李克强:坚持不懈推动政府职能转变</a> </li> 
+        </ul> 
+       </div> 
+       <!-- 高层动态 结束--> 
+       <div class="mt25 mod_ad_2 mod_ad_r"> 
+        <!-- 300*250 --> 
+        <div style="position:relative;height:250px;"> 
+         <a href="http://gb.corp.163.com/gb/legal.html" class="ad_hover_href"></a> 
+         <iframe class="fl" src="http://g.163.com/r?site=netease&amp;affiliate=news&amp;cat=homepage&amp;type=logo300x250&amp;location=2" width="300" height="250" frameborder="no" border="0" marginwidth="0" marginheight="0" scrolling="no"></iframe> 
+        </div> 
+       </div> 
+       <!-- 军事 航空  开始 --> 
+       <div class="mt35 mod_war"> 
+        <div class="idx_cm_title"> 
+         <h2 class="title"> <a href="http://war.163.com/">军事</a> <i>·</i> <a href="http://news.163.com/air/">航空</a> </h2> 
+        </div> 
+        <div class="idx_cm_img"> 
+         <a href="http://war.163.com/photoview/4T8E0001/2258559.html"> <img src="http://imgsize.ph.126.net/?imgurl=http://cms-bucket.nosdn.127.net/49439bca8ac745e8819bf70ff6bb6b8520170602082455.jpeg_300x150x1x85.jpg" width="300" height="150" alt="美两艘航母会师与日准航母组队巡航"> 
+          <div class="bg"> 
+           <h3>美两艘航母会师与日准航母组队巡航</h3> 
+          </div> </a> 
+        </div> 
+        <ul class="mt12 idx_cm_list idx_cm_list_h"> 
+         <li> <a href="http://war.163.com/17/0602/12/CLU5MICO000181KT.html">世界最强航母"福特"号正式交付美国海军</a> </li> 
+         <li> <a href="http://war.163.com/17/0602/09/CLTRKSAN000181KT.html">韩外交部就"萨德"表态：愿与中方真诚沟通</a> </li> 
+         <li> <a href="http://news.163.com/air/17/0325/13/CGCL1TR2000181O6.html">国产大型客机C919通过首飞技术评审</a> </li> 
+         <li> <a href="http://news.163.com/air/17/0325/11/CGCDAOMD000181O6.html">美航借道南航入华 航空联盟格局生变 </a> </li> 
+        </ul> 
+       </div> 
+       <!-- 军事 航空  结束 --> 
+       <div class="mt27 mod_ad_3 mod_ad_r"> 
+        <!-- 300*250 --> 
+        <iframe class="fl" src="http://g.163.com/r?site=netease&amp;affiliate=news&amp;cat=homepage&amp;type=logo300x250&amp;location=3" width="300" height="250" frameborder="no" border="0" marginwidth="0" marginheight="0" scrolling="no"></iframe> 
+       </div> 
+       <!-- 热点排行 开始 --> 
+       <div class="mt35 mod_hot_rank clearfix"> 
+        <div class="idx_cm_title"> 
+         <a href="http://news.163.com/rank/" class="title">热点排行</a> 
+        </div> 
+        <ul> 
+         <li class="top "> <em>1</em> <a href="http://news.163.com/17/0614/16/CMTFIIF800018AOQ.html">第三方评估部分公安改革项目实施效果：满意度均超92%</a> <span>1147658</span> </li> 
+         <li class=" top "> <em>2</em> <a href="http://news.163.com/17/0614/15/CMTC5GG2000187VE.html">男子花千万将垃圾场改造为足球场 城管依法拆除</a> <span>392228</span> </li> 
+         <li class=" top "> <em>3</em> <a href="http://news.163.com/17/0615/05/CMUSV67100018AOP.html">异地办理身份证实施效果公众满意度达98.2%</a> <span>324906</span> </li> 
+         <li class=""> <em>4</em> <a href="http://news.163.com/17/0615/05/CMUTUSLF0001875N.html">人民日报批辽宁营商环境：依法依规把企业整没了</a> <span>190456</span> </li> 
+         <li class=""> <em>5</em> <a href="http://news.163.com/17/0615/03/CMUK186O00018AOP.html">六项公安改革 群众满意度均超九成</a> <span>137505</span> </li> 
+         <li class=""> <em>6</em> <a href="http://news.163.com/17/0615/10/CMVD92IF0001875P.html">最高法再谈彭宇案真相：他自己承认撞了老太</a> <span>115753</span> </li> 
+         <li class=""> <em>7</em> <a href="http://news.163.com/photoview/00AP0001/2260745.html">郑州一豪车无视交警 猛撞本田扬长而去</a> <span>87609</span> </li> 
+         <li class=""> <em>8</em> <a href="http://news.163.com/17/0615/05/CMUSVQ0C00018AOP.html">[社论]公安改革，民众点赞才是真的赞</a> <span>87419</span> </li> 
+         <li class=""> <em>9</em> <a href="http://news.163.com/17/0614/13/CMT53QA7000187VE.html">官方发布转基因生物安全证书进口清单 含大豆玉米</a> <span>77509</span> </li> 
+         <li class=""> <em>10</em> <a href="http://news.163.com/17/0614/13/CMT6LFD9000187VE.html">刘先林院士回应高铁照片:国家给我的荣誉已经够多</a> <span>70073</span> </li> 
+        </ul> 
+       </div> 
+       <!-- 热点排行 结束 --> 
+       <div class="mt25 mod_ad_4 mod_ad_r"> 
+        <!-- 300*250 --> 
+        <div style="position:relative;height:250px;"> 
+         <a href="http://gb.corp.163.com/gb/legal.html" class="ad_hover_href"></a> 
+         <iframe class="mb20 fl" src="http://g.163.com/r?site=netease&amp;affiliate=news&amp;cat=homepage&amp;type=logo300x250&amp;location=4" width="300" height="250" frameborder="no" border="0" marginwidth="0" marginheight="0" scrolling="no"></iframe> 
+        </div> 
+       </div> 
+       <!-- 财经 开始 --> 
+       <div class="mt35 mod_money"> 
+        <div class="idx_cm_title"> 
+         <h2 class="title"><a href="http://money.163.com/">财经</a></h2> 
+        </div> 
+        <div class="idx_cm_img"> 
+         <a href="http://money.163.com/17/0615/07/CMV2UUEK002581PQ.html"> <img src="http://imgsize.ph.126.net/?imgurl=http://cms-bucket.nosdn.127.net/1f4f4e065f8b4c239573082d26f3234320170615072914.jpeg_300x150x1x85.jpg" width="300" height="150" alt="一文看清美联储加息市场焦点"> 
+          <div class="bg"> 
+           <h3>一文看清美联储加息市场焦点</h3> 
+          </div> </a> 
+        </div> 
+        <ul class="mt12 idx_cm_list idx_cm_list_h"> 
+         <li> <a href="http://money.163.com/17/0615/07/CMV49P1A002580S6.html">党报批辽宁营商环境：依法依规把企业整没了</a> </li> 
+         <li> <a href="http://money.163.com/17/0615/05/CMUT3C4I002580S6.html">安邦系三险企规模保费4月下滑逾90%</a> </li> 
+         <li> <a href="http://money.163.com/17/0615/02/CMUI4U25002580S6.html">这可能是美联储最不受待见的加息</a> </li> 
+         <li> <a href="http://money.163.com/17/0615/02/CMUHK4DC002580S6.html">史上首次！5月M2增速跌破10%</a> </li> 
+        </ul> 
+       </div> 
+       <!-- 财经 结束 --> 
+       <!-- 体育 开始 --> 
+       <div class="mt27 mod_sports"> 
+        <div class="idx_cm_title"> 
+         <h2 class="title"><a href="http://sports.163.com/">体育</a></h2> 
+        </div> 
+        <div class="idx_cm_img"> 
+         <a href="http://sports.163.com/photoview/00C90005/155677.html"> <img src="http://imgsize.ph.126.net/?imgurl=http://cms-bucket.nosdn.127.net/a69024cd1ffe498b84af313bf9a3d6fe20170615113655.jpeg_300x150x1x85.jpg" width="300" height="150" alt="《天下足球》女主播拍写真秀长腿"> 
+          <div class="bg"> 
+           <h3>《天下足球》女主播拍写真秀长腿</h3> 
+          </div> </a> 
+        </div> 
+        <ul class="mt12 idx_cm_list idx_cm_list_h"> 
+         <li> <a href="http://sports.163.com/nba/">KD夺冠证明赢家通吃:胜利即正义</a> </li> 
+         <li> <a href="http://sports.163.com/17/0615/07/CMV3MCMP0005877U.html">勇士打服詹皇 但香蕉船兄弟齐聚能否一战?</a> </li> 
+         <li> <a href="http://sports.163.com/17/0615/07/CMV2P1FI0005877U.html">杜兰特:奥巴马发短信祝贺我 还夸我防守好</a> </li> 
+         <li> <a href="http://sports.163.com/yc/">曼联宣布最贵后卫加盟</a> <a target="_blank" href="http://sports.163.com/17/0615/00/CMUBGUCO00058781.html">拜仁4000万欧签新援</a> </li> 
+        </ul> 
+       </div> 
+       <!-- 体育 结束 --> 
+       <div class="mt27 mod_ad_5 mod_ad_r"> 
+        <!-- 300*250 --> 
+        <div style="position:relative;height:250px;"> 
+         <a href="http://gb.corp.163.com/gb/legal.html" class="ad_hover_href"></a> 
+         <iframe class="fl" src="http://g.163.com/r?site=netease&amp;affiliate=news&amp;cat=homepage&amp;type=logo300x250&amp;location=5" width="300" height="250" frameborder="no" border="0" marginwidth="0" marginheight="0" scrolling="no"></iframe> 
+        </div> 
+       </div> 
+       <!-- 娱乐 开始 --> 
+       <div class="mt35 mod_ent"> 
+        <div class="idx_cm_title"> 
+         <h2 class="title"><a href="http://ent.163.com/">娱乐</a></h2> 
+        </div> 
+        <div class="idx_cm_img"> 
+         <a href="http://ent.163.com/photoview/00AJ0003/633445.html"> <img src="http://imgsize.ph.126.net/?imgurl=http://cms-bucket.nosdn.127.net/8dfbc311aa2244b68280c5be112b509120170614110746.jpeg_300x150x1x85.jpg" width="300" height="150" alt="周迅素颜赶飞机 面无表情"> 
+          <div class="bg"> 
+           <h3>周迅素颜赶飞机 面无表情</h3> 
+          </div> </a> 
+        </div> 
+        <ul class="mt12 idx_cm_list idx_cm_list_h"> 
+         <li> <a href="http://ent.163.com/17/0614/10/CMSQUBGB00038FO9.html">周迅工作室回应离婚传闻:没离 请多关注公益</a> </li> 
+         <li> <a href="http://ent.163.com/17/0614/10/CMSR89M200038FO9.html">这是豆得儿得宠秘诀?陪思聪逛街做这个动作</a> </li> 
+         <li> <a href="http://ent.163.com/17/0614/07/CMSI49UF00038FO9.html">大S一家出席活动 亲自回应3胎：美丽的误会</a> </li> 
+         <li> <a href="http://ent.163.com/17/0613/07/CMQ03K1L00038FO9.html">大S腹部凸出被疑怀3胎 本尊这样回应了</a> </li> 
+        </ul> 
+       </div> 
+       <!-- 娱乐 结束 --> 
+       <!-- 汽车精选 开始 --> 
+       <div class="mt25 mod_auto"> 
+        <div class="idx_cm_title"> 
+         <h2 class="title"><a href="http://auto.163.com/">汽车精选</a></h2> 
+        </div> 
+        <div class="idx_cm_img"> 
+         <a href="http://auto.163.com/17/0615/07/CMV2D26N0008856V.html"> <img src="http://imgsize.ph.126.net/?imgurl=http://cms-bucket.nosdn.127.net/79293b5eb33e4d9694d34daf40b2768320170615075820.jpeg_300x150x1x85.jpg" width="300" height="150" alt="展现真我 沙漠体验奔驰G级"> 
+          <div class="bg"> 
+           <h3>展现真我 沙漠体验奔驰G级</h3> 
+          </div> </a> 
+        </div> 
+        <ul class="mt12 idx_cm_list idx_cm_list_h"> 
+         <li> <a href="http://auto.163.com/17/0615/07/CMV2EHU10008856S.html">手动也有高配置 试驾RX5 20T手动智惠版</a> </li> 
+         <li> <a href="http://auto.163.com/17/0615/06/CMUULA9T0008856R.html">来猜猜起步价 长安CS55将于7月26日上市</a> </li> 
+         <li> <a href="http://auto.163.com/17/0615/06/CMUUNJQ20008856R.html">加电池/换档杆 东风本田XR-V混动版谍照</a> </li> 
+         <li> <a href="http://auto.163.com/17/0615/02/CMUGN5IA0008856R.html">年内在华投产 全新小型SUV现代Kona亮相</a> </li> 
+        </ul> 
+       </div> 
+       <!-- 购车指南 结束 --> 
+       <div class="mt25 mod_ad_6 mod_ad_r"> 
+        <!-- 300*250 --> 
+        <div style="position:relative;height:250px;"> 
+         <a href="http://gb.corp.163.com/gb/legal.html" class="ad_hover_href"></a> 
+         <iframe class="fl" src="http://g.163.com/r?site=netease&amp;affiliate=news&amp;cat=homepage&amp;type=logo300x250&amp;location=6" width="300" height="250" frameborder="no" border="0" marginwidth="0" marginheight="0" scrolling="no"></iframe> 
+        </div> 
+       </div> 
+       <!-- 房产 开始 --> 
+       <div class="mt35 mod_house" ne-module="modules/house/house.js">
+        <script type="text/template" ne-repeat="vhouse in rhouselist">    
+<div class="idx_cm_title">
+    <h2 class="title">
+        <a href="<%=vhouse.houselink%>">房产</a>
+        <i>·</i>
+        <a href="http://home.163.com/">家居</a>
+    </h2>
+    <%if(vhouse.moresecondary){%>
+    <a class="more" href="<%=vhouse.moresecondary%>">二手房</a>
+    <%}%>
+    <a class="more" href="<%=vhouse.moreloupan%>">楼盘大全</a>
+</div>
+<div class="idx_cm_img">
+    <a href="<%=vhouse.imgdocurl%>">
+        <img src="<%=vhouse.imgs%>" width="300" height="150" alt="<%=vhouse.imgstitle%>">
+        <div class="bg">
+            <h3><%=vhouse.imgstitle%></h3>
+        </div>
+    </a>
+</div>
+<ul class="mt12 idx_cm_list idx_cm_list_h">
+    <%if(vhouse.news){%>
+    <%for(var i=0;i<vhouse.news.length;i++){%>
+        <li><a href="<%=vhouse.news[i].link%>"><%=vhouse.news[i].title%></a></li>
+    <%}%><%}%>
+</ul>
+</script> 
+        <ul class="idx_cm_list idx_cm_list_h"> 
+         <li><a href="http://home.163.com/17/0615/07/CMV1SFPV001081EI.html">留美博士30万建美式乡村小别墅 村民都羡慕疯了</a></li> 
+         <li><a href="http://home.163.com/17/0615/07/CMV3JDV9001081EI.html">中国版《深夜食堂》太山寨!美食装修比日版差10倍</a></li> 
+        </ul> 
+       </div> 
+       <!-- 房产 结束 --> 
+       <div class="mt27 mod_ad_7 mod_ad_r"> 
+        <!-- 300*250 --> 
+        <div style="position:relative;height:250px;"> 
+         <a href="http://gb.corp.163.com/gb/legal.html" class="ad_hover_href"></a> 
+         <iframe class="fl" src="http://g.163.com/r?site=netease&amp;affiliate=news&amp;cat=homepage&amp;type=logo300x250&amp;location=7" width="300" height="250" frameborder="no" border="0" marginwidth="0" marginheight="0" scrolling="no"></iframe> 
+        </div> 
+       </div> 
+       <!-- 精彩视频 开始--> 
+       <div class="mt35 mod_wonderful_video"> 
+        <div class="idx_cm_title"> 
+         <a href="http://v.163.com/" class="title">精彩视频</a> 
+        </div> 
+        <a href="http://v.163.com/zixun/VBMGGRV60/VCLVETGHD.html" class="big_video"> <img src="http://vimg2.ws.126.net/image/snapshot/2017/6/D/1/VCLVEUQD1.jpg" alt="【高能学妹】身肢柔软 学妹舞姿曼妙" title="【高能学妹】身肢柔软 学妹舞姿曼妙" width="300" height="190"> <span class="bg"></span> <em></em> <span class="title">【高能学妹】身肢柔软 学妹舞姿曼妙</span> </a> 
+        <div class="clearfix small_video"> 
+         <a href="http://v.163.com/zixun/VBMGGRV60/VCL7PLF45.html" class="item"> <img src="http://vimg2.ws.126.net/image/snapshot/2017/6/N/V/VCL7PO3NV.jpg" alt="美女学妹现场尬舞" title="美女学妹现场尬舞" width="140" height="88"> <h3 class="item_text">美女学妹现场尬舞 <i class="icon_video"></i></h3> </a> 
+         <a href="http://v.163.com/zixun/VBMGGRV60/VCL7QQ9E5.html" class="item"> <img src="http://vimg3.ws.126.net/image/snapshot/2017/6/V/M/VCL7QRLVM.jpg" alt="天价珍宝拍卖会" title="天价珍宝拍卖会" width="140" height="88"> <h3 class="item_text">天价珍宝拍卖会 <i class="icon_video"></i></h3> </a> 
+        </div> 
+       </div> 
+       <!-- 精彩视频 结束--> 
+       <!-- 科技 开始 --> 
+       <div class="mt35 mod_tech"> 
+        <div class="idx_cm_title"> 
+         <h2 class="title"><a href="http://tech.163.com/">科技</a></h2> 
+        </div> 
+        <div class="idx_cm_img"> 
+         <a href="http://tech.163.com/17/0614/08/CMSLJDLQ00097U7T.html"> <img src="http://imgsize.ph.126.net/?imgurl=http://cms-bucket.nosdn.127.net/4c77f4aa902f4bd3a4390d42d929201e20170614085827.jpeg_300x150x1x85.jpg" width="300" height="150" alt="物联网真的能让生活变得更好吗"> 
+          <div class="bg"> 
+           <h3>物联网真的能让生活变得更好吗</h3> 
+          </div> </a> 
+        </div> 
+        <ul class="mt12 idx_cm_list idx_cm_list_h"> 
+         <li> <a href="http://tech.163.com/special/2017fh/">2017网易未来科技峰会将在7月15日召开</a> </li> 
+         <li> <a href="http://tech.163.com/17/0615/07/CMV4TMAE00097U7R.html">App Store很干净？垃圾APP每月能骗50万</a> </li> 
+         <li> <a href="http://tech.163.com/17/0615/00/CMU9RF8Q00097U81.html">冰雪融化会怎样?6亿中国人居住地被淹</a> </li> 
+         <li> <a href="http://tech.163.com/17/0615/07/CMV48BIB00097U7T.html">1米内无压力！斯坦福研发高效无线输电</a> </li> 
+        </ul> 
+       </div> 
+       <!-- 科技 结束 --> 
+       <!-- 手机 数码  开始 --> 
+       <div class="mt27 mod_digi"> 
+        <div class="idx_cm_title"> 
+         <h2 class="title"> <a href="http://mobile.163.com/">手机</a> <i>·</i> <a href="http://digi.163.com/">数码</a> </h2> 
+        </div> 
+        <div class="idx_cm_img"> 
+         <a href="http://mobile.163.com/17/0606/02/CM7D9EBN00118017.html"> <img src="http://imgsize.ph.126.net/?imgurl=http://cms-bucket.nosdn.127.net/62e572ab4460479fb3107817a8a22e7b20170606042500.jpeg_300x150x1x85.jpg" width="300" height="150" alt="iOS11发布：全新设计的控制中心"> 
+          <div class="bg"> 
+           <h3>iOS11发布：全新设计的控制中心</h3> 
+          </div> </a> 
+        </div> 
+        <ul class="mt12 idx_cm_list idx_cm_list_h"> 
+         <li> <a href="http://mobile.163.com/17/0522/08/CL1E3BAN0011819H.html">三星Note8曝光：屏幕下指纹+双摄</a> </li> 
+         <li> <a href="http://mobile.163.com/17/0522/09/CL1G1C480011819H.html">国行诺基亚3310通过工信部认证</a> </li> 
+         <li> <a href="http://digi.163.com/17/0615/08/CMV5MG0C001680P9.html">雷蛇发布2017款灵刃潜行：13英寸窄边、i7/16G</a> </li> 
+         <li> <a href="http://digi.163.com/17/0615/08/CMV5TBVB001680P9.html">10.5英寸iPad Pro 3Dmark跑分出炉：提升不俗</a> </li> 
+        </ul> 
+       </div> 
+       <!-- 手机 数码  结束 --> 
+       <div class="mt27 mod_ad_8 mod_ad_r"> 
+        <!-- 300*250 --> 
+        <div style="position:relative;height:250px;"> 
+         <a href="http://gb.corp.163.com/gb/legal.html" class="ad_hover_href"></a> 
+         <iframe class="fl" src="http://g.163.com/r?site=netease&amp;affiliate=news&amp;cat=homepage&amp;type=logo300x250&amp;location=8" width="300" height="250" frameborder="no" border="0" marginwidth="0" marginheight="0" scrolling="no"></iframe> 
+        </div> 
+       </div> 
+       <!-- 女人时尚 开始 --> 
+       <div class="mt35 mod_lady"> 
+        <div class="idx_cm_title"> 
+         <h2 class="title"> <a href="http://lady.163.com/">女人</a> <i>·</i> <a href="http://fashion.163.com/">时尚</a> </h2> 
+        </div> 
+        <div class="idx_cm_img"> 
+         <a href="http://lady.163.com/17/0615/09/CMV8LJ4300267VQQ.html"> <img src="http://imgsize.ph.126.net/?imgurl=http://cms-bucket.nosdn.127.net/29901e18db5f44699e3bfd984aecd9a220170615090759.jpeg_300x150x1x85.jpg" width="300" height="150" alt="女星“西装杀”帅起来男人都拼不过"> 
+          <div class="bg"> 
+           <h3>女星“西装杀”帅起来男人都拼不过</h3> 
+          </div> </a> 
+        </div> 
+        <ul class="mt12 idx_cm_list idx_cm_list_h"> 
+         <li> <a href="http://lady.163.com/photoview/78LH0026/109067.html#p=CMV7QTCD78LH0026">“邱莹莹”戏里戏外造型大对比</a> </li> 
+         <li> <a href="http://lady.163.com/17/0615/08/CMV6M0DD00267VQK.html">40岁的林心如20岁的脸 直播满屏“少女肌”</a> </li> 
+         <li> <a href="http://ent.163.com/photoview/00AJ0003/633514.html#p=CMU3CEQQ00AJ0003">戚薇梳哪吒头扮嫩 鼓“包子脸”卖萌</a> </li> 
+         <li> <a href="http://lady.163.com/17/0614/22/CMU613BU00268H02.html">吐槽姬：来聊聊《深夜食堂》没讲的午夜市井生活</a> </li> 
+        </ul> 
+       </div> 
+       <!-- 女人时尚 结束 --> 
+       <!-- 教育 旅游  开始 --> 
+       <div class="mt27 mod_edu"> 
+        <div class="idx_cm_title"> 
+         <h2 class="title"> <a href="http://edu.163.com/">教育</a> <i>·</i> <a href="http://travel.163.com/">旅游</a> </h2> 
+        </div> 
+        <div class="idx_cm_img"> 
+         <a href="http://edu.163.com/photoview/3Q0N0029/2235944.html"> <img src="http://imgsize.ph.126.net/?imgurl=http://cms-bucket.nosdn.127.net/4c454151754e4a879c992f4093780ab220170615070244.jpeg_300x150x1x85.jpg" width="300" height="150" alt="探秘高考评卷现场 12天就公布成绩"> 
+          <div class="bg"> 
+           <h3>探秘高考评卷现场 12天就公布成绩</h3> 
+          </div> </a> 
+        </div> 
+        <ul class="mt12 idx_cm_list idx_cm_list_h"> 
+         <li> <a href="http://edu.163.com/17/0615/06/CMV0O0F200297VGM.html">江苏省考试院：评卷过程不可能有满分作文流出</a> </li> 
+         <li> <a href="http://edu.163.com/17/0615/06/CMV05HSU00297VGM.html">一纸通知书可读多所大学 湖北这所大学厉害了</a> </li> 
+         <li> <a href="http://travel.163.com/photoview/17KK0006/2139567.html">英国老人用30多年将廉租房改成“凡尔赛宫”</a> </li> 
+         <li> <a href="http://travel.163.com/17/0615/01/CMUET3KE00067VF3.html">日本推猫奴便当:猫猫这么可爱,怎么可以吃?</a> </li> 
+        </ul> 
+       </div> 
+       <!-- 教育 移民  结束 --> 
+       <!-- 健康 读书 开始 --> 
+       <div class="mt27 mod_jiankang"> 
+        <div class="idx_cm_title"> 
+         <h2 class="title"> <a href="http://jiankang.163.com/">健康</a> <i>·</i> <a href="http://yuedu.163.com/">读书</a> </h2> 
+        </div> 
+        <div class="idx_cm_img"> 
+         <a href="http://jiankang.163.com/photoview/5S400038/8517.html"> <img src="http://imgsize.ph.126.net/?imgurl=http://cms-bucket.nosdn.127.net/969fd2c24ca84fca9d875df2a94c193220170614234539.jpeg_300x150x1x85.jpg" width="300" height="150" alt="＂悬空翘臀法＂真能练就＂蜜桃臀＂?"> 
+          <div class="bg"> 
+           <h3>"悬空翘臀法"真能练就"蜜桃臀"?</h3> 
+          </div> </a> 
+        </div> 
+        <ul class="mt12 idx_cm_list idx_cm_list_h"> 
+         <li> <a href="http://yuedu.163.com/book_reader/bd_083f5d287b8841658b2579f593ce81ae_4/c0ef828b49ee45d2bab02407d38e50d7_4">婚礼现场 豪门老公骂我人尽可夫</a> </li> 
+         <li> <a href="http://yuedu.163.com/source/f160cd4e19624829a81fb30c15214755_4">葛优、章子怡主演《罗曼蒂克消亡史》原著</a> </li> 
+         <li> <a href="http://jiankang.163.com/17/0614/19/CMTRTJHA0038804H.html">美日英出国看病花费揭秘</a> <a target="_blank" href="http://jiankang.163.com/17/0614/19/CMTQBN4D0038806F.html">它竟是"自黑"神器</a> </li> 
+         <li> <a href="http://jiankang.163.com/17/0614/15/CMTCO4KT00388165.html">吃了它 身体竟变这样</a> <a target="_blank" href="http://jiankang.163.com/17/0614/20/CMTTTF8J00388165.html">穷人才有选择恐惧症?</a> </li> 
+        </ul> 
+       </div> 
+       <!-- 健康 读书 结束 --> 
+       <div class="mt27 mod_ad_9 mod_ad_r"> 
+        <!-- 300*250 --> 
+        <div style="position:relative;height:250px;"> 
+         <a href="http://gb.corp.163.com/gb/legal.html" class="ad_hover_href"></a> 
+         <iframe class="fl" src="http://g.163.com/r?site=netease&amp;affiliate=news&amp;cat=homepage&amp;type=logo300x250&amp;location=9" width="300" height="250" frameborder="no" border="0" marginwidth="0" marginheight="0" scrolling="no"></iframe> 
+        </div> 
+       </div> 
+       <!-- BoBo 开始 --> 
+       <div class="mt35 mod_bobo" ne-module="modules/bobo/bobo.js"> 
+        <div class="idx_cm_title"> 
+         <h2 class="title"><a href="">BoBo</a></h2> 
+        </div> 
+        <ul class="clearfix bobolist"> 
+         <!-- bobo --> 
+         <script type="text/template" ne-repeat="bobo in bobolist">
+        <%if(__i == 0){%>
+        <li>
+            <a title="<%=bobo.anchorExtendTitle%>" href="<%=bobo.liveUrl%>?f=163.newshome" class="bobo_img">
+                <span class="item_bobo_img js_bobo_img">
+                    <%if(bobo.liveCoverUrl.indexOf("imageView") >-1){%>
+                        <img src="<%=bobo.liveCoverUrl%>&imageView&thumbnail=140y105" width="140" height="105" class="bobo-cover" alt="<%=bobo.anchorExtendTitle%>">
+                    <%}else{%>
+                        <img src="<%=bobo.liveCoverUrl%>?imageView&thumbnail=140y105" width="140" height="105" class="bobo-cover" alt="<%=bobo.anchorExtendTitle%>">
+                    <%}%>
+                </span>
+                <span class="bobo-live-tag bobo-live-<%=bobo.lableOne%>">
+                <%=bobo.lableName%>
+                </span>
+            </a>
+            <h3><a href="<%=bobo.liveUrl%>"><%=bobo.anchorExtendTitle%></a></h3>
+        </li> 
+        <%}%>
+    </script> 
+         <!-- 交友 --> 
+         <script type="text/template" ne-repeat="live in livelist">
+        <%if(live.platform == "love"){%>
+        <li>
+            <a title="<%=live.name%>" href="<%=live.url%>?f=jy_163.news" class="bobo_img">
+                <span class="item_bobo_img js_bobo_img">
+                    <img src="<%=live.coverUrl%>" width="140" height="105" class="bobo-cover" alt="<%=live.name%>">
+                </span>
+                <span class="bobo-live-tag bobo-live-<%=live.platform%>">
+                <%=live.platform != "love" ? "直播" : "交友"%></span>
+            </a>
+            <h3><a href="<%=live.url%>"><%=live.name%></a></h3>
+        </li> 
+        <%}%>
+    </script> 
+         <!-- bobo --> 
+         <script type="text/template" ne-repeat="bobo in bobolist">
+        <%if(__i > 0){%>
+        <li>
+            <a title="<%=bobo.anchorExtendTitle%>" href="<%=bobo.liveUrl%>?f=163.newshome" class="bobo_img">
+                <span class="item_bobo_img js_bobo_img">
+                <%if(bobo.liveCoverUrl.indexOf("imageView") >-1){%>
+                    <img src="<%=bobo.liveCoverUrl%>&imageView&thumbnail=140y105" width="140" height="105" class="bobo-cover" alt="<%=bobo.anchorExtendTitle%>">
+                <%}else{%>
+                    <img src="<%=bobo.liveCoverUrl%>?imageView&thumbnail=140y105" width="140" height="105" class="bobo-cover" alt="<%=bobo.anchorExtendTitle%>">
+                <%}%>
+                </span>
+                <span class="bobo-live-tag bobo-live-<%=bobo.lableOne%>">
+                <%=bobo.lableName%>
+                </span>
+            </a>
+            <h3><a href="<%=bobo.liveUrl%>"><%=bobo.anchorExtendTitle%></a></h3>
+        </li> 
+        <%}%>
+    </script> 
+        </ul>
+       </div> 
+       <!-- BoBo 结束 --> 
+       <span id="js_rfix_baseline"></span> 
+       <div class="mt13 mod_ad_10 mod_ad_r" id="js_right_last"> 
+        <!-- 300*250 --> 
+        <div style="position:relative;height:250px;"> 
+         <a href="http://gb.corp.163.com/gb/legal.html" class="ad_hover_href"></a> 
+         <iframe class="fl" src="http://g.163.com/r?site=netease&amp;affiliate=news&amp;cat=homepage&amp;type=logo300x250&amp;location=10" width="300" height="250" frameborder="no" border="0" marginwidth="0" marginheight="0" scrolling="no"></iframe> 
+        </div> 
+       </div> 
+      </div> 
+      <!-- 右侧栏目 结束 --> 
+     </div> 
+     <!-- 内容区域 结束 --> 
+     <script src="http://img2.cache.netease.com/f2e/news/index2016_rmd/collect/first~SqTKgqrbEzFz.js" charset="utf-8"></script> 
+     <!-- 博客 开始 --> 
+     <div ne-module="" class="ns_area clearfix index_blog" id="js_index_blog">
+      <span class="tag"></span> 
+      <div class="hd"> 
+       <h2><a href="http://blog.163.com/">博客</a></h2> 
+       <a class="more" href="http://blog.163.com/"> <i>+</i> <span>更多</span> </a> 
+      </div> 
+      <div class="blog_list"> 
+       <ul> 
+        <li> 
+         <div class="blog_con"> 
+          <a href="" target="_blank" class="blogger"> 
+           <div class="photo"> 
+            <img src="http://os.blog.163.com/common/ava.s?host=youyoulvxingji&amp;b=1" alt="网易博客" title="网易博客"> 
+           </div> <p></p> </a> 
+          <h3> <a href="http://youyoulvxingji.blog.163.com/blog/static/27303714820175352241770/" target="_blank">巴黎是艺术家的圣地</a> </h3> 
+         </div> </li> 
+        <li> 
+         <div class="blog_con"> 
+          <a href="" target="_blank" class="blogger"> 
+           <div class="photo"> 
+            <img src="http://os.blog.163.com/common/ava.s?host=zqpanli&amp;b=1" alt="网易博客" title="网易博客"> 
+           </div> <p></p> </a> 
+          <h3> <a href="http://zqpanli.blog.163.com/blog/static/247500020175801610854/" target="_blank">美若仙境的太平湖</a> </h3> 
+         </div> </li> 
+        <li> 
+         <div class="blog_con"> 
+          <a href="" target="_blank" class="blogger"> 
+           <div class="photo"> 
+            <img src="http://os.blog.163.com/common/ava.s?host=qibuzigushi&amp;b=1" alt="网易博客" title="网易博客"> 
+           </div> <p></p> </a> 
+          <h3> <a href="http://qibuzigushi.blog.163.com/blog/static/22736613820175612451250/" target="_blank">千余考生集体吃壮行餐</a> </h3> 
+         </div> </li> 
+        <li> 
+         <div class="blog_con"> 
+          <a href="" target="_blank" class="blogger"> 
+           <div class="photo"> 
+            <img src="http://os.blog.163.com/common/ava.s?host=chgyu1968&amp;b=1" alt="网易博客" title="网易博客"> 
+           </div> <p></p> </a> 
+          <h3> <a href="http://chgyu1968.blog.163.com/blog/static/744932320175763438276/" target="_blank">九老十八匠”民间手艺 </a> </h3> 
+         </div> </li> 
+       </ul> 
+      </div>
+     </div> 
+     <!-- 博客 结束 --> 
+     <!-- 底部区轮播图 开始 --> 
+     <div ne-module="" class="index_foot_imgs"> 
+      <div class="bottomnews_focus" ne-module="slide" ne-state="slideMethod:left;events=mouseover;interval=3000;loop:1" ne-lazy="lazy-footer-img"> 
+       <div class="bottomnews_box" ne-role="slide-body"> 
+        <!-- 主要内容 648*402 20字--> 
+        <div class="bottomnews_scroll clearfix" ne-role="slide-scroll"> 
+         <!-- 一页 --> 
+         <div class="bottomnews_main clearfix" ne-role="slide-page"> 
+          <!-- 左 --> 
+          <div class="bottomnews_main_bimg bottomnews_main_img"> 
+           <a href="http://news.163.com/photoview/00AO0001/2260923.html" target="_blank"> <img data-src="http://img3.cache.netease.com/photo/0001/2017-06-15/CMVH3IS000AO0001.jpg" width="100%"> </a> 
+           <span class="bg"></span> 
+           <h2><a href="http://news.163.com/photoview/00AO0001/2260923.html" target="_blank">日本公司给宠物猫狗定做武士服 威风凛凛</a></h2> 
+          </div> 
+          <!-- 右 --> 
+          <div class="bottomnews_main_r"> 
+           <div class="bottomnews_main_simgs clearfix"> 
+            <div class="bottomnews_main_simg bottomnews_main_img"> 
+             <a href="http://news.163.com/photoview/00AN0001/2260843.html" target="_blank"> <img data-src="http://img3.cache.netease.com/photo/0001/2017-06-14/CMU597F800AN0001.jpg" width="100%" height="100%" alt="$til"> </a> 
+             <span class="bg"></span> 
+             <h2><a href="http://news.163.com/photoview/00AN0001/2260843.html" target="_blank">中国首款时速160公里城际动车组试运营</a></h2> 
+            </div> 
+            <div class="bottomnews_main_simg bottomnews_main_img"> 
+             <a href="http://news.163.com/photoview/00AP0001/2260931.html" target="_blank"> <img data-src="http://img3.cache.netease.com/photo/0001/2017-06-15/CMVHKB1Q00AP0001.jpg" width="100%" height="100%" alt="$til"> </a> 
+             <span class="bg"></span> 
+             <h2><a href="http://news.163.com/photoview/00AP0001/2260931.html" target="_blank">醉驾司机等红灯时竟然睡着了</a></h2> 
+            </div> 
+           </div> 
+          </div> 
+         </div> 
+         <!-- 一页 --> 
+         <div class="bottomnews_main clearfix" ne-role="slide-page"> 
+          <!-- 左 --> 
+          <div class="bottomnews_main_bimg bottomnews_main_img"> 
+           <a href="http://news.163.com/photoview/00AO0001/2260922.html" target="_blank"> <img data-src="http://img4.cache.netease.com/photo/0001/2017-06-15/CMVGD8RH00AP0001.jpg" width="100%"> </a> 
+           <span class="bg"></span> 
+           <h2><a href="http://news.163.com/photoview/00AO0001/2260922.html" target="_blank">朴槿惠与崔顺实再次出庭受审 神情各异</a></h2> 
+          </div> 
+          <!-- 右 --> 
+          <div class="bottomnews_main_r"> 
+           <div class="bottomnews_main_simgs clearfix"> 
+            <div class="bottomnews_main_simg bottomnews_main_img"> 
+             <a href="http://news.163.com/photoview/00AN0001/2260668.html" target="_blank"> <img data-src="http://img3.cache.netease.com/photo/0001/2017-06-14/CMSJ0R3700AN0001.jpg" width="100%" height="100%" alt="$til"> </a> 
+             <span class="bg"></span> 
+             <h2><a href="http://news.163.com/photoview/00AN0001/2260668.html" target="_blank">"蛟龙"号完成中国大洋38航次最后一潜</a></h2> 
+            </div> 
+            <div class="bottomnews_main_simg bottomnews_main_img"> 
+             <a href="http://news.163.com/photoview/00AP0001/2260921.html" target="_blank"> <img data-src="http://img4.cache.netease.com/photo/0001/2017-06-15/CMVFL5M600AP0001.jpg" width="100%" height="100%" alt="$til"> </a> 
+             <span class="bg"></span> 
+             <h2><a href="http://news.163.com/photoview/00AP0001/2260921.html" target="_blank">杭州拆迁现场房屋整齐倒下似多米诺骨牌</a></h2> 
+            </div> 
+           </div> 
+          </div> 
+         </div> 
+         <!-- 一页 --> 
+         <div class="bottomnews_main clearfix" ne-role="slide-page"> 
+          <!-- 左 --> 
+          <div class="bottomnews_main_bimg bottomnews_main_img"> 
+           <a href="http://news.163.com/photoview/00AO0001/2260917.html" target="_blank"> <img data-src="http://img4.cache.netease.com/photo/0001/2017-06-15/CMVEQORP00AO0001.jpg" width="100%"> </a> 
+           <span class="bg"></span> 
+           <h2><a href="http://news.163.com/photoview/00AO0001/2260917.html" target="_blank">特朗普偕第一夫人慰问枪击事件受害者</a></h2> 
+          </div> 
+          <!-- 右 --> 
+          <div class="bottomnews_main_r"> 
+           <div class="bottomnews_main_simgs clearfix"> 
+            <div class="bottomnews_main_simg bottomnews_main_img"> 
+             <a href="http://news.163.com/photoview/00AN0001/2260667.html" target="_blank"> <img data-src="http://img3.cache.netease.com/photo/0001/2017-06-14/CMSI05DC00AN0001.jpg" width="100%" height="100%" alt="$til"> </a> 
+             <span class="bg"></span> 
+             <h2><a href="http://news.163.com/photoview/00AN0001/2260667.html" target="_blank">南方暴雨下"众生相":市民雨中淡定拍照</a></h2> 
+            </div> 
+            <div class="bottomnews_main_simg bottomnews_main_img"> 
+             <a href="http://news.163.com/photoview/00AP0001/2260913.html" target="_blank"> <img data-src="http://img4.cache.netease.com/photo/0001/2017-06-15/CMVCAHGI00AP0001.jpg" width="100%" height="100%" alt="$til"> </a> 
+             <span class="bg"></span> 
+             <h2><a href="http://news.163.com/photoview/00AP0001/2260913.html" target="_blank">老人驼背90度 手术台为他垫1米高凳子</a></h2> 
+            </div> 
+           </div> 
+          </div> 
+         </div> 
+         <!-- 结束 --> 
+        </div> 
+       </div> 
+       <a ne-role="slide-prev" class="bottomnews_focus_prev">&lt;</a> 
+       <a ne-role="slide-next" class="bottomnews_focus_next">&gt;</a> 
+       <div class="bottomnews_mask bottomnews_mask_l"></div> 
+       <div class="bottomnews_mask bottomnews_mask_r"></div> 
+       <div class="bottomnews_focus_title"> 
+        <span ne-role="slide-nav" class="current">1</span> 
+        <span ne-role="slide-nav">2</span> 
+        <span ne-role="slide-nav">3</span> 
+       </div> 
+      </div>
+     </div> 
+     <!-- 底部区轮播图 结束 --> 
+     <!-- 通栏广告 开始 --> 
+     <div class="ns_area mt40 index_bottom_ad channel_relative_2016"> 
+      <!--16新闻首页底通--> 
+      <script type="text/javascript">
+    window.bottomAd1={
+        'ad12_src': 'http://g.163.com/r?site=netease&affiliate=news&cat=homepage&type=column1200x125_960x100browser&location=12'
+    }
+</script> 
+     </div> 
+     <!-- 通栏广告 结束 --> 
+     <!-- 媒体合作 开始 --> 
+     <div class="ns_area index_media"> 
+      <h2>媒体合作</h2> 
+      <ul class="clearfix"> 
+       <li class="first"> 
+        <div class="ns_media_box"> 
+         <a href="http://www.xinhuanet.com/">新华网</a>
+         <a href="http://www.people.com.cn//">人民网</a>
+         <a href="http://www.chinanews.com/">中国新闻网</a>
+         <a href="http://www.chinadaily.com.cn/">中国日报网站</a>
+         <a href="http://www.cyol.com/">中青在线</a>
+         <a href="http://www.china.com.cn/">中国网</a>
+         <a href="http://www.youth.cn/">中国青年网</a>
+         <a href="http://gb.cri.cn/">国际在线</a>
+         <a href="http://www.taiwan.cn/">中国台湾网</a>
+         <a href="http://www.nddaily.com/">南方都市报</a>
+         <a href="http://www.nfdaily.cn/">南方日报</a>
+         <a href="http://www.infzm.com/">南方周末</a>
+         <a href="http://www.bjnews.com.cn/">新京报</a>
+         <a href="http://www.jinghua.cn/">京华网</a>
+         <a href="http://www.jfdaily.com/">解放网</a>
+         <a href="http://www.eastday.com/">东方网</a>
+         <a href="http://www.ycwb.com/">金羊网</a>
+         <a href="http://www.cnhan.com/">汉网</a>
+         <a href="http://www.southcn.com/">南方网</a>
+         <a href="http://rednet.cn/">红网</a>
+         <a href="http://www.ynet.com/">北京青年报</a>
+         <a href="http://www.news365.com.cn/whb/">文汇报</a> 
+         <a href="http://www.nen.com.cn/">东北新闻网</a>
+         <a href="http://www.dahe.cn/">大河网</a>
+         <a href="http://365jilin.com/">吉和网</a> 
+         <a class="" href="http://www.dzwww.com/">大众网</a>
+         <a class="" href="http://www.hsw.cn/">华商网</a>
+         <a class="" href="http://www.beijingdaily.com.cn/">北京日报</a>
+         <a class="" href="http://www.beijingdaily.com.cn/">北京晚报</a>
+         <a class="" href="http://www.dayoo.com/">大洋网</a>
+         <a class="" href="http://www.fawan.com/">法制晚报</a>
+         <a class="" href="http://www.morningpost.com.cn/">北京晨报</a>
+         <a href="http://www.fznews.com.cn/">福州新闻网</a> 
+        </div> </li> 
+       <li class="second"> 
+        <div class="ns_media_box"> 
+         <a href="http://www.cncnews.cn/">新华网络电视</a>
+         <a href="http://www.js.cn/">现代快报</a>
+         <a href="http://www.xbsb.com.cn/">西部商报</a>
+         <a href="http://www.qnck.net.cn/">青年参考</a>
+         <a href="http://www.ts.cn/">天山网</a>
+         <a href="http://www.jxnews.com.cn/">大江网</a>
+         <a href="http://www.ce.cn/">中国经济网</a>
+         <a href="http://www.hilizi.com/">半岛晨报</a>
+         <a href="http://www.nanfangdaily.com.cn/">南方报业网</a>
+         <a href="http://www.cqwb.com.cn/">重庆晚报</a>
+         <a href="http://informationtimes.dayoo.com/">信息时报</a>
+         <a href="http://www.changjiangtimes.com/">长江商报</a>
+         <a href="http://www.lzcbnews.com/">兰州晨报</a>
+         <a href="http://www.xwhb.net/">新文化报</a>
+         <a href="http://www.nanfangdaily.com.cn/rwzk">南方人物周刊</a>
+         <a href="http://www.cctv.com/default.shtml">央视网</a>
+         <a href="http://www.hljnews.cn/">黑龙江新闻网</a>
+         <a href="http://www.cnhubei.com/">荆楚网</a>
+         <a href="http://war.163.com/special/00012ABP/junshifengmianxiugjzw.html">国际展望</a>
+         <a href="http://www.66wz.com/">温州网</a>
+         <a href="http://www.yndaily.com/">云南日报</a>
+         <a href="http://www.bbtnews.com.cn/">北京商报</a>
+         <a href="http://www.sznews.com/">深圳新闻网</a> 
+         <a class="" href="http://www.scol.com.cn/">四川在线</a>
+         <a class="" href="http://www.hebei.com.cn/">长城网</a>
+         <a class="" href="http://www.godpp.gov.cn/">中国文明网</a>
+         <a class="" href="http://www.daynews.com.cn/">山西新闻网</a>
+         <a class="" href="http://www.yunnan.cn/ ">云南网</a>
+         <a class="" href="http://www.jfdaily.com.cn/">解放日报</a>
+         <a class="" href="http://www.nxnet.cn/">宁夏网</a>
+         <a class="" href="http://www.tibet.cn/">中国西藏网</a> 
+        </div> </li> 
+       <li class="third"> 
+        <div class="ns_media_box"> 
+         <a href="http://www.northnews.cn">北方新闻网</a>
+         <a href="http://www.hebnews.cn">河北新闻网</a>
+         <a href="http://www.njnews.cn/">南京报业网</a>
+         <a href="http://www.sciencetimes.com.cn/">科学网</a>
+         <a href="http://cn.chinareviewnews.com/">中国评论新闻网</a>
+         <a href="http://www.huanqiu.com/">环球网</a>
+         <a href="http://www.xkb.com.cn/">新快网</a>
+         <a href="http://www.1news.cc/">长春日报</a>
+         <a href="http://www.voc.com.cn/">华声在线</a>
+         <a href="http://www.gmw.cn">光明网</a>
+         <a href="http://www.dbw.cn">东北网</a>
+         <a href="http://news.enorth.com.cn/">北方网</a>
+         <a href="http://www.hinews.cn/">南海网</a>
+         <a href="http://www.kunming.cn/">昆明信息港</a>
+         <a href="http://www.ynxxb.com/">云信网</a>
+         <a href="http://www.e23.cn">舜网</a>
+         <a href="http://www.xwwb.com">天天新报</a>
+         <a href="http://www.chinaweekly.cn">中国周刊</a>
+         <a href="http://www.changsha.cn/">星辰在线</a>
+         <a href="http://www.ybnews.cn/">延边新闻网</a>
+         <a href="http://www.ccvic.com">华媒网</a>
+         <a href="http://www.iqilu.com/">齐鲁网</a>
+         <a href="http://www.takungpao.com/">大公网</a>
+         <a href="http://ssic.cass.cn/">中国社会科学报</a> 
+         <a class="" href="http://www.chinatibetnews.com/">西藏新闻网</a>
+         <a class="" href="http://www.qhnews.com/">青海新闻网</a>
+         <a class="" href="http://www.hxfzzx.com/">海峡法治在线</a>
+         <a class="" href="http://www.cankaoxiaoxi.com/">参考消息</a>
+         <a class="" href="http://www.qx162.com">黔讯网</a>
+         <a class="" href="http://news.iyaxin.com/">亚心网</a>
+         <a href="http://www.gettyimages.cn/">华盖创意</a> 
+        </div> </li> 
+       <li class="last"> 
+        <div class="ns_media_box"> 
+         <a href="http://www.dzwww.com/">大众网</a>
+         <a href="http://www.hsw.cn/">华商网</a>
+         <a href="http://www.beijingdaily.com.cn/">北京日报</a>
+         <a href="http://www.beijingdaily.com.cn/">北京晚报</a>
+         <a href="http://www.dayoo.com/">大洋网</a>
+         <a href="http://www.fawan.com/">法制晚报</a>
+         <a href="http://www.morningpost.com.cn/">北京晨报</a>
+         <a href="http://www.scol.com.cn/">四川在线</a>
+         <a href="http://www.hebei.com.cn/">长城网</a>
+         <a href="http://www.godpp.gov.cn/">中国文明网</a>
+         <a href="http://www.daynews.com.cn/">山西新闻网</a>
+         <a href="http://www.yunnan.cn/ ">云南网</a>
+         <a href="http://www.jfdaily.com.cn/">解放日报</a>
+         <a href="http://www.nxnet.cn/">宁夏网</a>
+         <a href="http://www.chinatibetnews.com/">西藏新闻网</a>
+         <a href="http://www.qhnews.com/">青海新闻网</a>
+         <a href="http://www.hxfzzx.com/">海峡法治在线</a>
+         <a href="http://www.cankaoxiaoxi.com/">参考消息</a>
+         <a href="http://www.qx162.com">黔讯网</a>
+         <a href="http://news.iyaxin.com/">亚心网</a>
+         <a href="http://www.tibet.cn/">中国西藏网</a> 
+        </div> </li> 
+      </ul> 
+     </div> 
+     <!-- 媒体合作 结束 --> 
+     <div class="ns_area foot_execute_leader">
+      执行主编：黄欢_NN1650
+     </div> 
+     <!-- 底部 开始 --> 
+     <style type="text/css">
+        /* footer */
+        .ft_icons{background-image:url(http://img1.cache.netease.com/f2e/news/index2016_rmd/images/sprite_foot20170605.png);}
+        .index_footer{border-top:1px solid #ddd;height:270px;background:#f8f8f8;margin-top:20px;}
+        .ns_pot_bar {width:240px;padding-top:50px;float:right;margin-right: 35px;}
+        .ns_pot_logo {width:220px;height:270px;border-right:1px solid #ddd;float:left;}
+        .ns_pot_news {width:240px;height:270px;border-right:1px solid #ddd;float:left;}
+        .ns_pot_site {width:420px;height:270px;border-right:1px solid #ddd;float:left;}
+        .ic_news_ft{display:block;margin-top: 20px;width: 142px;height: 65px;background-position: 0px -200px;}
+        .ns_pot_news h4,.ns_pot_site h4{padding:30px 0 10px 30px;color:#808080;font-weight:bold}
+        .ns_pot_news li,.ns_pot_site li{float:left;width:70px;padding:0 0 10px 30px;}
+        .ns_pot_news p,.ns_pot_site p{padding-left:30px;}
+        .ns_pot_news a,.ns_pot_site a{color: #888;}
+        .ns_pot_news a:hover,.ns_pot_site a:hover{color: #ba2636;}
+        .ns-pot-share a{float:left;margin-right:10px;}
+        .ns-pot-history {position: relative;height: 27px; width: 110px;margin: 30px 0 0 25px;color: #888;cursor:pointer;}
+        .ns-pot-history .ns-calendar {position: absolute;bottom:36px;left:0;z-index:99;}
+        .ns-pot-tri {height: 25px; width: 100px; line-height: 26px;border:1px solid #ddd;padding-left: 8px;background:#fff;position:relative;}
+        .ns-pot-tri i{position:absolute;right:10px;top:9px;z-index:3;overflow:hidden;}
+        .ns-pot-tri:hover i{background-position: 0 -859px;}
+        .ns_pot_search {height: 28px; width: 225px; line-height: 26px;border:1px solid #ddd;padding-left: 8px;background:#fff;position:relative;margin: 30px 0 0 0px;overflow:hidden;}
+        .ns_pot_search .search_texh {height:28px;width:200px;border:0;margin:0;color: #888;line-height:28px;}
+        .ns_pot_search .search_btn{border:0;padding:0;position: absolute;right:10px;top:6px;text-indent:100px;overflow:hidden;z-index:3;width:24px;height:24px;background-position:-117px -4px;background-color:#fff;}
+        .ic_lofter_ft,.ic_mail_ft,.ic_rss_ft {width:33px;height:33px;transition: background 0.3s cubic-bezier(.17, .67, .88, 1.25);}
+        .ic_lofter_ft{background-position: 0 -1px;}
+        .ic_lofter_ft:hover{background-position: 0 -34px;}
+        .ic_mail_ft{background-position: 0 -67px;}
+        .ic_mail_ft:hover{background-position: 0 -100px;}
+        .ic_rss_ft{background-position: 0 -133px;}
+        .ic_rss_ft:hover{background-position: 0 -166px;}
+        .ic_newsapp_ft{float:left;_display:inline;width: 26px;height: 30px;border-left: 1px solid #cbcbcb;padding-left: 16px;margin-left: 10px;}
+        .ic_newsapp_ft a{margin-right:0;display: block;width: 26px;height: 30px;background:url(http://img1.cache.netease.com/f2e/news/index2015/img/newsapp.png) no-repeat;_background:url(http://img1.cache.netease.com/f2e/news/index2015/img/newsapp_8.png) no-repeat;background-position: 0 0;-webkit-transition:background 0.3s cubic-bezier(.17, .67, .88, 1.25);-moz-transition:background 0.3s cubic-bezier(.17, .67, .88, 1.25);-o-transition:background 0.3s cubic-bezier(.17, .67, .88, 1.25);transition:background 0.3s cubic-bezier(.17, .67, .88, 1.25);}
+        .ic_newsapp_ft a:hover{background-position: 0 -31px;}
+        .ic_cloudapp_ft{float:left;width: 33px;height: 33px;margin-right: 10px;background:url(http://img1.cache.netease.com/f2e/news/res/img/cloudapp.png) no-repeat;_background:url(http://img1.cache.netease.com/f2e/news/res/img/cloudapp_8.png) no-repeat;background-position: 0 0;-webkit-transition:background 0.3s cubic-bezier(.17, .67, .88, 1.25);-moz-transition:background 0.3s cubic-bezier(.17, .67, .88, 1.25);-o-transition:background 0.3s cubic-bezier(.17, .67, .88, 1.25);transition:background 0.3s cubic-bezier(.17, .67, .88, 1.25);}
+        .ic_cloudapp_ft:hover{background-position: 0 -34px;}
+        .ns9 .ns_pot_logo {width:150px;}
+        .ns9 .ns_pot_news {width:190px;}
+        .ns9 .ns_pot_site {width:300px;}
+        .ns9 .ns_pot_news li,.ns9 .ns_pot_site li{width:50px;padding-left: 30px;}
+        .ns9 .ns_pot_news h4,.ns9 .ns_pot_site h4{padding-left: 30px;}
+        .ns9 .ns_pot_news p{padding-left:30px;}
+        .ns9 .ns_pot_site{width: 360px;}
+        .ns9 .ns_pot_bar{margin-right: 0;}
+        </style> 
+     <div class="index_footer"> 
+      <div class="ns_area clearfix"> 
+       <div class="ns_pot_logo">
+        <a href="http://3g.163.com/links/6691"><i class="ft_icons ic_news_ft"></i></a>
+       </div> 
+       <div class="ns_pot_news"> 
+        <h4>新闻</h4> 
+        <ul class="clearfix"> 
+         <li><a href="http://news.163.com/domestic/">国内</a></li> 
+         <li><a href="http://news.163.com/world/">国际</a></li> 
+         <li><a href="http://news.163.com/photo/">图片</a></li> 
+         <li><a href="http://news.163.com/shehui/">社会</a></li> 
+         <li><a href="http://news.163.com/air/">航空</a></li> 
+         <li><a href="http://war.163.com/">军事</a></li> 
+         <li><a href="http://news.163.com/rank/">排行</a></li> 
+         <li><a href="http://news.163.com/special/interviewdiscoverer1/">探索</a></li> 
+         <li><a href="http://news.163.com/review/">评论</a></li> 
+        </ul> 
+        <p><a href="http://news.163.com/review/">新闻地图&gt;&gt;</a></p> 
+       </div> 
+       <div class="ns_pot_site"> 
+        <h4>其他频道</h4> 
+        <ul class="clearfix"> 
+         <li><a href="http://sports.163.com/">体育</a></li> 
+         <li><a href="http://tech.163.com/">科技</a></li> 
+         <li><a href="http://v.163.com/">视频</a></li> 
+         <li><a href="http://edu.163.com/">教育</a></li> 
+         <li><a href="http://ent.163.com/">娱乐</a></li> 
+         <li><a href="http://mobile.163.com/">手机</a></li> 
+         <li><a href="http://www.lofter.com/?act=qb163rk_20141031_03">LOFTER</a></li> 
+         <li><a href="http://book.163.com/">读书</a></li> 
+         <li><a href="http://money.163.com/">财经</a></li> 
+         <li><a href="http://digi.163.com/">数码</a></li> 
+         <li><a href="http://book.163.com/art">艺术</a></li> 
+         <li><a href="http://money.163.com/stock/">股票</a></li> 
+         <li><a href="http://auto.163.com/">汽车</a></li> 
+         <li><a href="http://blog.163.com/">博客</a></li> 
+         <li><a href="http://play.163.com/">游戏</a></li> 
+         <li><a href="http://lady.163.com/">女人</a></li> 
+         <li><a href="http://house.163.com/">房产</a></li> 
+         <li><a href="http://travel.163.com/">旅游</a></li> 
+         <li><a href="http://m.163.com/">应用</a></li> 
+         <li><a href="http://gov.163.com/">政务</a></li> 
+         <li><a href="http://study.163.com/?utm_source=news.163.com&amp;utm_medium=web_bottomnav&amp;utm_campaign=business">云课堂</a></li> 
+         <li><a href=" http://jiankang.163.com">健康</a></li> 
+        </ul> 
+        <p><a href="http://news.163.com/review/">新闻地图&gt;&gt;</a></p> 
+       </div> 
+       <div class="ns_pot_bar"> 
+        <div class="ns-pot-share clearfix"> 
+         <a class="ft_icons ic_lofter_ft" href="http://www.lofter.com/?act=qb163rk_20141031_03"></a> 
+         <a class="ft_icons ic_mail_ft" href="http://email.163.com/"></a> 
+         <a class="ft_icons ic_rss_ft" rel="nofollow" href="http://www.163.com/rss"></a> 
+         <a href="http://study.163.com/?utm_source=163.com&amp;utm_medium=web_bottomlogo&amp;utm_campaign=business" class="ic_cloudapp_ft"></a> 
+         <div class="ic_newsapp_ft"> 
+          <a href="http://www.163.com/newsapp/#f=down" class="ft_icons"></a> 
+         </div> 
+        </div> 
+        <div class="ns_pot_search"> 
+         <form action="http://news.yodao.com/search" method="get"> 
+          <input class="search_texh" type="text" name="q" autocomplete="off" value="输入关键字"> 
+          <input class="ft_icons search_btn" type="submit" value="搜索"> 
+          <input type="hidden" name="keyfrom" value="news.163"> 
+          <input type="hidden" name="suser" value="user163"> 
+          <input type="hidden" name="ue" value="gbk"> 
+          <input type="hidden" name="site" value="网易"> 
+          <input type="hidden" name="in" value="page"> 
+         </form> 
+        </div> 
+       </div> 
+      </div> 
+     </div> 
+     <!-- 底部 结束 --> 
+    </div> 
+   </div> 
+  </div> 
+  <!-- 二维码 --> 
+  <div class="ns_sidebar none"> 
+   <a href="http://news.163.com/16/0602/16/BOIMS8PF00014JB5.html " target="_blank" class="ic_guide">新版<br>反馈</a> 
+   <div class="ns_side_qrcode">
+    <i class="ft_icons ic_qrcode"></i>
+   </div> 
+   <div class="ns_side_tolid">
+    <i class="ft_icons ic_totop"></i>
+   </div> 
+  </div> 
+  <style>
+.N-nav-bottom-sub {
+    width: 960px;
+    margin: 0 auto;
+    position: relative;
+    height: 0px;
+    z-index: 1000;
+}
+.ne_foot_feedback_box {
+    width: 360px;
+    height: 270px;
+    position: absolute;
+    z-index: 9999;
+    bottom: 34px;
+    right: 0;
+    display: none;
+}
+.ne_foot_feedback_box .feedback_close {
+    width: 11px;
+    height: 11px;
+    background: url(http://img1.cache.netease.com/f2e/www/feedback/images/box_close.png) no-repeat;
+    position: absolute;
+    right: 8px;
+    top: 7px;
+    font-size: 0;
+    overflow: hidden;
+    text-indent: -9990em;
+}
+.ne_foot_feedback_box .feedback_cor {
+    width: 19px;
+    height: 13px;
+    background: url(http://img1.cache.netease.com/f2e/www/feedback/images/box_cor.png) no-repeat;
+    position: absolute;
+    left: 236px;
+    top: 250px;
+}
+.ne_foot_feedback_box .feedback_box {
+    border: 1px solid #cdcdcd;
+    background: #fff;
+    width: 358px;
+    height: 250px;
+    overflow: hidden;
+}
+.ne_foot_feedback_box .feedback_box iframe {
+    display: block;
+    border: 0;
+    width: 100%;
+    height: 250px;
+    overflow: hidden;
+}
+</style> 
+  <div ne-module="/modules/ne2015/common-foot/common-foot.js"> 
+   <div class="N-nav-bottom"> 
+    <div ne-role="footMain" class="N-nav-bottom-main"> 
+     <div class="ntes_foot_link"> 
+      <span class="N-nav-bottom-copyright"><span class="N-nav-bottom-copyright-icon">&copy;</span> 1997-2017 网易公司版权所有</span> 
+      <a href="http://corp.163.com/">About NetEase</a> | 
+      <a href="http://gb.corp.163.com/gb/about/overview.html">公司简介</a> | 
+      <a href="http://gb.corp.163.com/gb/contactus.html">联系方法</a> | 
+      <a href="http://corp.163.com/gb/job/job.html">招聘信息</a> | 
+      <a href="http://help.163.com/ ">客户服务</a> | 
+      <a href="http://gb.corp.163.com/gb/legal.html">隐私政策</a> | 
+      <a href="http://emarketing.163.com/">广告服务</a> | 
+      <a href="http://sitemap.163.com/">网站地图</a> | 
+      <a ne-role="feedBackLink" ne-click="handleFeedBackLinkClick()" href="http://www.163.com/special/0077450P/feedback_window.html" class="ne_foot_feedback_link">意见反馈</a> | 
+      <a href="http://jubao.aq.163.com/">不良信息举报</a> 
+     </div> 
+    </div> 
+    <div class="N-nav-bottom-sub"> 
+     <div ne-show="{{state.feedBackBoxFlag}}" ne-role="feedBackBox" ne-style="left:{{state.feedBackBoxX}}px;" class="ne_foot_feedback_box"> 
+      <a ne-click="handleFeedCloseBtnClick()" href="javascript:;" target="_self" class="feedback_close">关闭</a> 
+      <span class="feedback_cor"></span> 
+      <div class="feedback_box"> 
+       <iframe ne-role="feedBackIframe" ne-src="{{state.feedBackIframeUrl}}" frameborder="0" witdh="100%" height="290" scrolling="no"></iframe> 
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+  </div> 
+  <script>bowlder.define("/modules/ne2015/common-foot/common-foot.js",[],function(){var e=bowlder,f=this,o=f.$widget,a=o.roles,t,d,n,i,c,r,B,s,l="http://www.163.com/special/0077450P/feedback_window.html";var k=f.state={feedBackBoxInited:false,feedBackBoxFlag:false,feedBackBoxX:0,feedBackBoxY:0,feedBackIframeUrl:""};f.handleFeedBackLinkClick=function(){i=a["feedBackBox"][0];n=e(i);r=a["footMain"][0];c=e(r);d=a["feedBackLink"][0];t=e(d);B=e(a["feedBackIframe"][0]);s=new e.Promise(function(e,f){B.bind("load",function(){e()})});this.$event.preventDefault();k=e.extend(k,{feedBackIframeUrl:l});if(f.$refresh)f.$refresh();if(k.feedBackBoxInited){k.feedBackBoxFlag=true;if(f.$refresh)f.$refresh()}else{s.then(function(){k.feedBackBoxInited=true;var o=d.offsetLeft-r.offsetLeft+d.offsetWidth/2-246;if(e.utils.msie<=7){o=d.offsetLeft+d.offsetWidth/2-246}k=e.extend(k,{feedBackBoxX:o});k.feedBackBoxFlag=true;if(f.$refresh)f.$refresh()})}};f.handleFeedCloseBtnClick=function(){k.showFeedBackBoxFlag=false;n=a["feedBackBox"];B=a["feedBackIframe"];k.feedBackBoxFlag=false;if(f.$refresh)f.$refresh()};f.init=function(e){}});
+</script> 
+ </div> 
+ <!-- 节日背景 --> 
+ <!-- 节日背景飘红 --> 
+ <!-- <div id="festivalCloseBtn" class="ns-festival-close"></div>
+<style>
+    .ns-festival body {background:#ef482c url(http://img2.cache.netease.com/f2e/news/index2016/images/news_g20_1200_v3.jpg) no-repeat fixed center top;padding-top:45px;}
+    .ns-festival .ns9 {background-image: url(http://img2.cache.netease.com/f2e/news/index2016/images/news_g20_960_v3.jpg);}
+    .ns-festival .ns-bg-wrap {width:1212px;background:#fff;margin:0 auto;/*box-shadow:0 0 8px rgba(0,0,0,0.5);*/}
+    .ns-festival .ns9 .ns-bg-wrap {width:970px;}
+    .ns-festival .ns-festival-close {display:block;cursor:pointer;width:40px;height:18px;background:url(http://img1.cache.netease.com/f2e/www/index2014/images/close_red.jpg);position:absolute;top:72px;left:50%;margin-left:566px;}
+    .ns-festival .ns9 .ns-festival-close {margin-left:446px;}
+</style>
+<script type="text/javascript">
+(function(d, dd) {
+    dd.className += " ns-festival";
+    d.getElementById("festivalCloseBtn").onclick = function() {
+        dd.className = dd.className.replace("ns-festival", "");
+    };
+})(document, document.documentElement);
+</script>
+--> 
+ <script type="text/javascript">
+(function() {
+    //广告判断使用
+    var isNs9 = false;
+    var winWidth = window.innerWidth || document.documentElement.clientWidth;
+    if(winWidth < 1360 || /\?narrow/.test(location.search)) {
+        isNs9 = true;
+    }
+    window.isNs9 = isNs9;
+})();
+</script> 
+ <script src="http://img2.cache.netease.com/f2e/news/index2016_rmd/collect/foot~Z4j59jwPATQ1.js" charset="utf-8"></script> 
+ <!--  --> 
+ <!-- STAT WRating v1.0 --> 
+ <script type="text/javascript" src="http://img1.cache.netease.com/common/script/wrating.js"></script> 
+ <script type="text/javascript">
+    var vjAcc = "860010-0502010100";
+    var wrUrl = "http://163.wrating.com/";
+    vjTrack();
+</script> 
+ <noscript> 
+  <img src="http://163.wrating.com/a.gif?c=860010-0502010100" width="1" height="1"> 
+ </noscript> 
+ <!-- STAT NetEase Devilfish 2006 --> 
+ <script type="text/javascript" src="http://analytics.163.com/ntes.js"></script> 
+ <script type="text/javascript">
+    _ntes_nacc = "news"; //站点ID。
+    neteaseTracker();
+</script> 
+ <!-- big data statistics --> 
+ <!-- big data analysis --> 
+ <script src="http://img1.cache.netease.com/f2e/products/analysis/js/analysis.350ctAoOoFtN.12.js"></script> 
+ <!-- 富媒体广告 begin --> 
+ <!-- 浮层 --> 
+ <script language="JavaScript1.1" src="http://g.163.com/jr?site=netease&amp;affiliate=news&amp;cat=homepage&amp;type=richmedia&amp;location=1"></script> 
+ <!-- 角标样式 勿删--> 
+ <style type="text/css">
+ .ad_hover_href {
+  width: 30px;
+  height: 17px;
+  position:absolute;
+  left:0;
+  bottom:0;
+  z-index:10;
+  background:url(http://img1.126.net/channel18/ad.png) no-repeat;
+ }
+</style> 
+ <!-- 角标样式 勿删--> 
+ <div id="ssid1"></div> 
+ <!-- 流媒体 begin --> 
+ <!-- <script type="text/javascript" src="http://popme.163.com/js/nadTimeFlashLayer3.js"></script>
+<script type="text/javascript">//<![CDATA[
+new nadFlashLayer(
+'http://img1.126.net/channel4/013525/200150_0131a.swf',
+'nad2234Home',{
+//nextId:'nad2234Home1',
+visibility:true,
+time:5,
+xPx:-100,
+yPx:400
+});
+new nadFlashLayer(
+'http://img1.126.net/channel4/012437/yili200150_0831.swf',
+'nad2234Home1',{
+nextId:'',
+visibility:false,
+time:5,
+xPx:-100,
+yPx:450
+});
+//></script> --> 
+ <!-- 流媒体 end --> 
+ <!-- 全屏收缩 begin --> 
+ <!-- script type="text/javascript" src="http://popme.163.com/js/nadScreenFloat2011_1.js"></script>
+<script type="text/javascript" src="http://popme.163.com/js/nadTimeFlashLayer3.js"></script>
+<script type="text/javascript">//<![CDATA[
+new nadScreenFloat("http://img1.126.net/channel12/018322/750550_1126aodi.jpg",{
+type		:	"image",
+href		:	"http://g.163.com/a?CID=32008&Values=3555242165&Redirect=http://c.admaster.com.cn/c/a24562,b200597083,c3376,i0,m101,h",
+playFunc	:	function(){
+new nadFlashLayer(
+'',
+'nad2234Home',{
+//nextId:'nad2234Home1',
+visibility:true,
+time:5,
+xPx:-100,
+yPx:400
+});
+new nadFlashLayer(
+'http://img1.126.net/channel4/012437/yili200150_0831.swf',
+'nad2234Home1',{
+nextId:'',
+visibility:false,
+time:8,
+xPx:-100,
+yPx:450
+});
+}
+});
+//]]></script --> 
+ <!-- 尺寸适配 --> 
+ <script type="text/javascript">
+(function() {
+    isNs9 = false;
+    if(window.innerWidth <1366) {
+        isNs9 = true;
+    }
+    window.isNs9 = isNs9;
+})();
+</script> 
+ <!--弹窗代码--> 
+ <script language="JavaScript1.1" src="http://g.163.com/r?site=netease&amp;affiliate=news&amp;cat=homepage&amp;type=popwin&amp;location=1"></script> 
+ <script language="JavaScript1.1" src="http://g.163.com/jr?site=netease&amp;affiliate=news&amp;cat=homepage&amp;type=popup&amp;location=1 "></script> 
+ <!--广告顺序管理开始--> 
+ <script language="javascript" src="http://img2.126.net/ntesrich/auto/adbox/adbox-v1.1.2-120705.js"></script> 
+ <script language="javascript" src="http://img2.126.net/ntesrich/2013/1210/adControl-indexx-v1.0.2-131210.js"></script> 
+ <!--广告顺序管理结束--> 
+ <!-- 富媒体广告 end --> 
+ <!-- 统计 --> 
+ <script>!function(i){function e(){}function n(){var i=Math.round((+new Date-A)/1e3);return i<0?0:i}function t(i){var e=i.className,n=r(i),t={script:1,style:1,link:1,img:1,hr:1,br:1},a=!0;return t[n]?a=!1:/blank\d/.test(e)&&(a=!1),a}function a(e){b||(h&&window._ntes_sendInfo?(i.each(x,function(i,e){f(i)}),b=!0):x.push(e)),b&&f(e)}function o(i){return i<10?i.toString():i>62?"z":String.fromCharCode(i+(i<36?55:61))}function l(i,e){if(!e)return i;var n=i.length-1,t=i.charCodeAt(n);return t<58?t-=48:t<91?t-=55:t<123&&(t-=61),i.substr(0,n)+o(t+e)}function s(i,e,n){e&&e.setAttribute((n?"_":"")+"jcid",i)}function c(i){if(i){var e=this.getAttribute("href")||"";w++;var t="/ntes_p?"+g+"&_nct="+n()+"&_nah="+escape(e)+"&_nat={id}_"+i;a(t)}}function f(i){_ntes_sendInfo("jc",_ntes_src_addr+i.replace("{id}",h))}function _(i,e,n){for(var t={a:1,area:1},a=i,o=null;i.tagName&&i!=y;){if(t[r(i)]){o=i;break}i=i.parentNode}if(o)for(;i&&i!=e&&!(n=i.getAttribute("jcid"));)i=i.parentNode;for(;!n&&!(n=a.getAttribute("_jcid"));)if(a=a.parentNode,!a||!a.tagName||a==y)return;n&&c.call(o||i,n)}function r(i){return i.tagName.toLowerCase()}function d(i){return(i.innerHTML.match(/jcid=".*?"/g)||[]).join("")}function u(e,n){var t,a;i(e).bind("mouseover touchstart",function(){var i=d(e),o=e.innerHTML.replace(/<.*?>/g,"").length;!e.children.length||i==t&&o==a||(n(),t=d(e),a=o)})}function m(i,e){var n=i[0],t=i.level;return n&&t&&v(n,t,e),n}function v(e,n,t){if(i.isArray(e))i.each(e,function(i,e){v(i,n,t)});else if("object"==typeof e)if(e.i)e.k=l(e.i.substr(0,n+1),t)+e.i.substr(n+1);else for(var a in e)v(e[a],n,t)}var h,p,g="_nacc=siteclick&_npurl="+escape(document.URL),w=0,b=!1,x=[],y=document.body,A=window.performance&&window.performance.timing?window.performance.timing.connectStart:+new Date,j=[function(e,n,t){e+=o(t.start||1),t.bind?i(n).bind("click",function(i){c.call(n,e)}):s(e,n,t.all)},function(e,n,t){var a,l=t.start||1,c=t.query||"a";/(.*?)\|(.*)/.test(c)?(a=RegExp.$1,c=RegExp.$2,i(a,n).each(function(n,a){l=t.start||1,i(c,n).each(function(i,n){s(e+o(l++),i,t.all)})})):i(c,n).each(function(i,n){s(e+o(l++),i,t.all)})},function(e,n,a){for(var l=1,c=a.level||1,f=[n],_=0;_<c;_++){var d=[];i.each(f,function(e,n){var a=0;"a"==r(e)||/ntes-nav-select/.test(e.className)||i.each(e.children,function(i,e){t(i)&&(d.push(i),a++)}),a||d.push(e)}),f=d}i.each(f,function(i,n){s(e+o(l++),i,a.all)})},function(e,n,t){var a=i(">form",n);a[0]&&a.bind("submit",function(){c.call(this,e+"1")})},function(e,n,t){var a=i(t.h,n),l=i(t.b,n);if(a&&l){var c=t.step||10,f=2;s(e+"1",n),a.each(function(i,n){s(e+o(f+n*c),i)}),l.each(function(i,n){s(e+o(f+n*c+1),i)})}},function(e,n,a){var l=a.union||"",c={};if(/^[\s\d,]+$/.test(l)){var f=0;i.each(l.split(/\s*,\s*/),function(i,e){if(i=parseInt(i))for(var n=0;n<i;n++)c[f++]=e})}var _=2;s(e+"1",n);var r=parseInt(a.step)||10,d=i(a.h,n);if(d&&u){i.each(d,function(i,n){s(e+o(n*r+_),i)});var u=i(a.b,n);i.each(u,function(n,a){var l=a*r+_+1,f=n.children;if(0==f.length)f=[n];else for(;1==f.length;)f=f[0].children;var d=0;i.each(f,function(i,n){t(i)&&("undefined"!=typeof c[n]&&(d=c[n]),s(e+o(l+d),i),d++)})})}}];e.prototype={init:function(e,t){e&&5==e.length&&(h=e),p||(p=location.href.indexOf("_aCM")>-1||Math.random()<(t||.1),p&&(i("body").bind("click",function(i){_(i.target,y)}),i(function(){function e(){o&&(a("/ntes_u?"+o+"&_nct="+n()+"&_mcn="+w+l),o=0)}var t=i(window),o=g+"&_nch={id}",l="",s="&_msl="+n();t.bind("load",function(){l="&_msl="+n()}),a("/ntes_u?"+o+s),t.bind("beforeunload",e);var c=navigator.userAgent.toLowerCase();!/compatible/.test(c)&&/firefox/.test(c)&&t.bind("unload",e)}),this.retain&&this.area(y,this.retain)))},area:function(i,e,n){for(var t in e){var a=!1,o=e[t];o.level=n||0,/(.*?)=$/.test(t)&&(t=RegExp.$1,a=!0),this.procA(i,t,o,a)}},procA:function(e,n,t,a){var o=this,l=t.level+1;if(a)return void u(e,function(){o.procA(e,n,t)});var s=function(i,e){o.area(i,e,l)},c=0,f=0,_=0;/(.*?)!$/.test(n)&&(n=RegExp.$1,f=1),/(.*?)\*$/.test(n)?(n=RegExp.$1,c=1):/(.*?)\+$/.test(n)&&(n=RegExp.$1,_=1);var r,d=n?i(n,e):[e],v=0,h=d.length;for(r=0;r<h;r++){var p=d[r];if(!f||!p.id){var g=c?t[0]:t[v];if(_&&1==t.length&&(g=m(t,v)),g&&p)if(g.i)for(var w=g.s||1,b=0;b<w;b++)g.j=b,this.zone(d[r+b],g);else s(p,g);v++}}},zone:function(i,e){var n=l(e.k||e.i,e.j),t=j[e.f||0],a=e.p||{};i&&t&&(a.dyn?u(i,function(){t(n,i,a)}):t(n,i,a))},batch:function(i){p?this.area(y,i):this.retain=i}},window._aCM=new e}(window.bowlder),function(){_aCM.init(window._aCMID||"xwa01"),setTimeout(function(){_aCM.batch({".ntes-nav-main":[{".ntes-nav-app":[{"":[{i:"111",f:1}]}],".ntes-nav-entry-wide":[{"":[{i:"121"}]}],".c-fl":[0,0,0,0,{".ntes-nav-login-title":[{i:"131"}],">.ntes-nav-select":[{i:"132",f:1}]},0,{"*#js_login_suggest_wrap":[{i:"141",f:1}],"#js_N_navLogout":[{i:"142"}]}],".ntes-nav-inside>li":[{">.ntes-nav-select":[{i:"151",f:1}]},{">.ntes-nav-select":[{i:"161",f:1}]},{">.ntes-nav-select":[{i:"171",f:1}]},{">.ntes-nav-select":[{i:"181",f:1}]},{">.ntes-nav-select":[{i:"191",f:1}]},{">.ntes-nav-select":[{i:"1A1",f:1}]},{">.ntes-nav-select":[{i:"1B1",f:1}]},{">.ntes-nav-select":[{i:"1C1",f:1}]},{">.ntes-nav-select":[{i:"1D1",f:1}]}]}],".N-nav-channel":[{"":[{"":[{i:"211",f:1}]}]}],".index_top_ad":[{"":[{"":[{i:"311"}]}]}],".index_head":[{h1:[{"":[{i:"411"}]}],".top-search":[{"":[{i:"421",f:3}]}],"#nsWeather":[{"":[{i:"431"}]}],".first":[{"":[{i:"441"}]}],li:[0,{"":[{i:"451"}]},{"":[{i:"461"}]},0,0,0,{"":[{i:"4A1"}]},{"":[{i:"4B1"}]},0,0,0,{"":[{i:"4F1"}]},{"":[{i:"4G1"}]},{"":[{i:"4H1"}]}],".menu_guonei":[{"":[{i:"471"}]}],".menu_guoji":[{"":[{i:"481"}]}],".menu_shehui":[{"":[{i:"491"}]}],".menu_war":[{"":[{i:"4C1"}]}],".menu_hangkong":[{"":[{i:"4D1"}]}],".menu_wurenji":[{"":[{i:"4E1"}]}],".last":[{"":[{i:"4I1"}]}]}],".index_main":[{".origina_column_warp":[{".cell_hs":[{i:"511",f:1}],".cell_sd":[{i:"512",f:1}],".cell_rj":[{i:"513",f:1}],".cell_dgxm":[{i:"514",f:1}],".cell_dada":[{i:"515",f:1}],".cell_qsyk":[{i:"516",f:1}],".cell_caozhi":[{i:"517",f:1}],".cell_zajia":[{i:"518",f:1}],".cell_kanke":[{i:"519",f:1}],".cell_hotsee":[{i:"51A",f:1}],".cell_yuandian":[{i:"51B",f:1}],".ne-scrl-ct":[{i:"51C"}]}],"#js_top_news":[{">h2":[{i:"521"}],li:[{i:"522"},{i:"523"},{i:"524"},{i:"526"},{i:"527"},{i:"528"}],">.top_news_title":[{i:"525"}]}],".mod_top_news_ad":[{"":[{i:"531"}]}],".mod_important_news":[{">h2":[{i:"541"}],li:[{i:"542",s:5}]}],".mod_idx_focus":[{h2:[{i:"551"}],">.focus_prev":[{i:"552"}],">.focus_next":[{i:"553"}],li:[{i:"554",f:1,s:4}]}],".newsdata_wrap":[{">.newsdata_nav":[{i:"561",f:1,p:{dyn:1}}],">.newsdata_prev":[{i:"562"}],">.newsdata_next":[{i:"563"}],".newsdata_item":[{i:"564",f:2,p:{level:2,dyn:1}},{i:"565",f:2,p:{level:2,dyn:1}},{i:"566",f:2,p:{level:2,dyn:1}},{i:"567",f:2,p:{level:2,dyn:1}},{i:"568",f:2,p:{level:2,dyn:1}},{i:"569",f:2,p:{level:2,dyn:1}},{i:"56A",f:2,p:{level:2,dyn:1}},{i:"56B",f:2,p:{level:2,dyn:1}},{i:"56C",f:2,p:{level:2,dyn:1}},{i:"56D",f:2,p:{level:2,dyn:1}},{i:"56E",f:2,p:{level:2,dyn:1}},{i:"56F",f:2,p:{level:2,dyn:1}},{i:"56G",f:2,p:{level:2,dyn:1}},{i:"56H",f:2,p:{level:2,dyn:1}},{i:"56I",f:2,p:{level:2,dyn:1}},{i:"56J",f:2,p:{level:2,dyn:1}},{i:"56K",f:2,p:{level:2,dyn:1}}],">.load_more_btn":[{i:"56L"}]}],".mod_right_focus>div!":[{li:[{i:"571",s:4}],".f_prev":[{i:"575"}],".f_next":[{i:"576"}]}],".mod_ad_toutu":[{li:[{i:"581",s:4}]}],">.main_right_channel>div>div!":[0,{".cell_hs":[{i:"591",f:1}],".cell_sd":[{i:"592",f:1}],".cell_rj":[{i:"593",f:1}],".cell_dgxm":[{i:"594",f:1}],".cell_dada":[{i:"595",f:1}],".cell_qsyk":[{i:"596",f:1}],".cell_caozhi":[{i:"597",f:1}],".cell_zajia":[{i:"598",f:1}],".cell_kanke":[{i:"599",f:1}],".cell_hotsee":[{i:"59A",f:1}],".cell_yuandian":[{i:"59B",f:1}],".ne-scrl-ct":[{i:"59C"}]}],".mt12>div!":[{"":[{i:"5A1"}]}],".mod_pageh5>div!":[{">.idx_cm_title":[{i:"5B1"}],".h5_item_poster":[{i:"5B2",s:4}],".scrollbtl":[{i:"5B6"}],".scrollbtnr":[{i:"5B7"}]}],".mt30":[{".title":[{i:"5C1"}],".photo":[{i:"5C2"}],strong:[{i:"5C3"}],li:[{i:"5C4",s:4}]}],".mod_high_dynamic":[{".title":[{i:"5D1"}],li:[{i:"5D2",s:2}]}],".mt25>div!":[{"":[{i:"5E1"}]},{"":[{i:"5I1"}]},0,0,{"":[{i:"5O1"}]}],".mod_war":[{".title":[{i:"5F1"}],">.idx_cm_img":[{i:"5F2"}],li:[{i:"5F3",s:4}]}],".mod_ad_r>div!":[0,0,{"":[{i:"5G1"}]},0,{"":[{i:"5L1"}]},0,{"":[{i:"5Q1"}]},{"":[{i:"5U1"}]},{"":[{i:"5Y1"}]}],".mod_hot_rank":[{">.idx_cm_title":[{i:"5H1"}],".top":[{i:"5H2",s:3}],li:[0,0,0,{i:"5H5"},{i:"5H6"},{i:"5H7"},{i:"5H8"},{i:"5H9"},{i:"5HA"},{i:"5HB"}]}],".mod_money":[{".title":[{i:"5J1"}],">.idx_cm_img":[{i:"5J2"}],li:[{i:"5J3",s:4}]}],".mod_sports":[{".title":[{i:"5K1"}],">.idx_cm_img":[{i:"5K2"}],li:[{i:"5K3",s:4}]}],".mod_ent":[{".title":[{i:"5M1"}],">.idx_cm_img":[{i:"5M2"}],li:[{i:"5M3",s:4}]}],".mod_auto":[{".title":[{i:"5N1"}],">.idx_cm_img":[{i:"5N2"}],li:[{i:"5N3",s:4}]}],".mod_house":[{">.idx_cm_title":[{i:"5P1",f:1}],">.idx_cm_img":[{i:"5P2"}],li:[{i:"5P3",s:4}]}],".mod_wonderful_video":[{">.idx_cm_title":[{i:"5R1"}],">.big_video":[{i:"5R2"}],">.small_video":[{i:"5R3",f:1}]}],".mod_tech":[{".title":[{i:"5S1"}],">.idx_cm_img":[{i:"5S2"}],li:[{i:"5S3",s:4}]}],".mod_digi":[{".title":[{i:"5T1"}],">.idx_cm_img":[{i:"5T2"}],li:[{i:"5T3",s:4}]}],".mod_lady":[{".title":[{i:"5V1"}],">.idx_cm_img":[{i:"5V2"}],li:[{i:"5V3",s:4}]}],".mod_edu":[{".title":[{i:"5W1"}],">.idx_cm_img":[{i:"5W2"}],li:[{i:"5W3",s:4}]}],".mod_jiankang":[{".title":[{i:"5X1"}],">.idx_cm_img":[{i:"5X2"}],li:[{i:"5X3",s:4}]}],".mod_bobo":[{".title":[{i:"5Z1"}],li:[{i:"5Z2",f:1,s:7}]}],".mt13>div!":[{"":[{i:"5a1"}]}]}],"#js_index_blog":[{">.hd":[{"":[{i:"611",f:1}]}],".blog_con":[{"":[{i:"621",f:1}]},{"":[{i:"631",f:1}]},{"":[{i:"641",f:1}]},{"":[{i:"651",f:1}]}]}],".bottomnews_focus":[{".bottomnews_main_bimg":[{"":[{i:"711",f:2}]},{"":[{i:"731",f:2}]},{"":[{i:"751",f:2}]}],".bottomnews_main_simgs":[{">.bottomnews_main_simg":[{i:"721",f:2,s:2}]},{">.bottomnews_main_simg":[{i:"741",f:2,s:2}]},{">.bottomnews_main_simg":[{i:"761",f:2,s:2}]}],">.bottomnews_focus_prev":[{"":[{i:"771"}]}],">.bottomnews_focus_next":[{"":[{i:"781"}]}]}],".mt40":[{"":[{"":[{i:"811"}]}]}],".index_media":[{".ns_media_box":[{"":[{i:"911",f:1}]},{"":[{i:"921",f:1}]},{"":[{i:"931",f:1}]},{"":[{i:"941",f:1}]}]}],".ns_area":[0,0,0,0,0,0,0,0,{">.ns_pot_logo":[{"":[{i:"A11"}]}],ul:[{">li":[{i:"A21",s:10}]},{">li":[{i:"A41",s:22}]}],p:[{"":[{i:"A31"}]},{"":[{i:"A51"}]}],".ns-pot-share":[{"":[{i:"A61",f:1}]}],".ns_pot_search":[{"":[{i:"A71",f:3}]}]}],".ic_guide":[{"":[{"":[{i:"B11"}]}]}],".ntes_foot_link":[{"":[{"":[{i:"C11",f:1}]}]}]})},1e3)}();</script>  
+</body>
