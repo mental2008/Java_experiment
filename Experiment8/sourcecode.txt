@@ -706,13 +706,13 @@ var HouseNavBendiTxt = {
             <!-- 数读 开始 --> 
             <li class="cell cell_sd cell_hover"> <p class="tag_line"> <a href="http://data.163.com/special/datablog/" class="tags tag_sd">数读</a> </p> 
              <div class="column_main"> 
-              <a href="http://data.163.com/17/0613/13/CMQJAP0B000181IU.html" class="detail" ne-role="detail"> <h3> 中国的酒店设施和印度一样糟心 </h3> 
+              <a href="http://data.163.com/17/0615/12/CMVJJBRB000181IU.html" class="detail" ne-role="detail"> <h3> 恐怖电影套路指南 </h3> 
                <div class="photo"> 
-                <img src="http://imgsize.ph.126.net/?imgurl=http://cms-bucket.nosdn.127.net/13c071deddeb48ba8536769477f9385320170613134214.jpeg_200x90x1x85.jpg" width="200" height="90" alt="中国的酒店设施和印度一样糟心"> 
+                <img src="http://imgsize.ph.126.net/?imgurl=http://cms-bucket.nosdn.127.net/2277977c07ec4426974632b3bd0d975920170615122454.jpeg_200x90x1x85.jpg" width="200" height="90" alt="恐怖电影套路指南"> 
                </div> </a> 
               <ul> 
-               <li class=""><a href="http://data.163.com/17/0609/13/CMGAAADN000181IU.html">如果活到78岁，干啥花的时间最多</a></li> 
-               <li class="twoli "><a href="http://data.163.com/17/0608/12/CMDL14GV000181IU.html">古代科举VS现代高考，哪个更容易</a></li> 
+               <li class=""><a href="http://data.163.com/17/0613/13/CMQJAP0B000181IU.html">中国的酒店设施和印度一样糟心</a></li> 
+               <li class="twoli "><a href="http://data.163.com/17/0609/13/CMGAAADN000181IU.html">如果活到78岁，干啥花的时间最多</a></li> 
               </ul> 
              </div> </li> 
             <!-- 数读 结束 --> 
@@ -732,26 +732,26 @@ var HouseNavBendiTxt = {
             <!-- 大国小民 开始 --> 
             <li class="cell cell_dgxm"> <p class="tag_line"> <span class="tags tag_dgxm">大国小民</span> </p> 
              <div class="column_main"> 
-              <a href="http://renjian.163.com/17/0614/20/CMTSB7UD000181RK.html" class="detail" ne-role="detail"> <h3> 穷孩子的学费 </h3> 
+              <a href="http://renjian.163.com/17/0615/16/CN034D38000181RK.html" class="detail" ne-role="detail"> <h3> 生也医闹，死也医闹 </h3> 
                <div class="photo"> 
-                <img src="http://imgsize.ph.126.net/?imgurl=http://cms-bucket.nosdn.127.net/9bd07cb84e7a43b8bc1ab47361b536e720170614201440.jpeg_200x90x1x85.jpg" width="200" height="90" alt="穷孩子的学费"> 
+                <img src="http://imgsize.ph.126.net/?imgurl=http://cms-bucket.nosdn.127.net/05c202413bd34e9795d6cec4c7b2d2d820170615165434.jpeg_200x90x1x85.jpg" width="200" height="90" alt="生也医闹，死也医闹"> 
                </div> </a> 
               <ul> 
-               <li class=""><a href="http://renjian.163.com/17/0609/19/CMGVTJ29000181RK.html">就怕真的把领导告倒</a></li> 
-               <li class="twoli "><a href="http://renjian.163.com/17/0608/18/CME8398R000181RK.html">村姑新娘</a></li> 
+               <li class=""><a href="http://renjian.163.com/17/0614/20/CMTSB7UD000181RK.html">穷孩子的学费</a></li> 
+               <li class="twoli "><a href="http://renjian.163.com/17/0609/19/CMGVTJ29000181RK.html">就怕真的把领导告倒</a></li> 
               </ul> 
              </div> </li> 
             <!-- 大国小民 结束 --> 
             <!-- 三三有梗 开始 --> 
             <li class="cell cell_dada"> <p class="tag_line"> <span class="tags tag_dada">三三有梗</span> </p> 
              <div class="column_main"> 
-              <a href="http://news.163.com/17/0615/00/CMU9PSN90001885B.html" class="detail" ne-role="detail"> <h3> 小心，你可能是看了一本假书 </h3> 
+              <a href="http://news.163.com/17/0616/00/CN0S862U0001885B.html" class="detail" ne-role="detail"> <h3> 在武汉毛豆面前,深夜食堂就是渣 </h3> 
                <div class="photo"> 
-                <img src="http://imgsize.ph.126.net/?imgurl=http://cms-bucket.nosdn.127.net/fbc4f0e4dbae431d8706c848b2760c7720170614210736.png_200x90x1x85.jpg" width="200" height="90" alt="小心，你可能是看了一本假书"> 
+                <img src="http://imgsize.ph.126.net/?imgurl=http://cms-bucket.nosdn.127.net/d15533aed47442e1b39333c7c4021b4820170615172427.png_200x90x1x85.jpg" width="200" height="90" alt="在武汉毛豆面前,深夜食堂就是渣"> 
                </div> </a> 
               <ul> 
-               <li class=""><a href="http://news.163.com/17/0612/00/CMMIHL170001885B.html">我微信好友最铁的是文件传输助手</a></li> 
-               <li class="twoli "><a href="http://news.163.com/17/0610/00/CMHDSB5J0001885B.html">你想要的无非自己成功别人失败</a></li> 
+               <li class=""><a href="http://news.163.com/17/0615/00/CMU9PSN90001885B.html">小心，你可能是看了一本假书</a></li> 
+               <li class="twoli "><a href="http://news.163.com/17/0612/00/CMMIHL170001885B.html">我微信好友最铁的是文件传输助手</a></li> 
               </ul> 
              </div> </li> 
             <!-- 三三有梗 结束 --> 
@@ -784,13 +784,13 @@ var HouseNavBendiTxt = {
             <!-- 轻松一刻 开始 --> 
             <li class="cell cell_qsyk"> <p class="tag_line"> <span class="tags tag_qsyk">轻松一刻</span> </p> 
              <div class="column_main"> 
-              <a href="http://news.163.com/17/0614/17/CMTKEJMB000181BR.html" class="detail" ne-role="detail"> <h3> 这不是深夜食堂，这是深夜尴尬 </h3> 
+              <a href="http://news.163.com/17/0615/19/CN0B2CSA000181BR.html" class="detail" ne-role="detail"> <h3> 这位领导，上班竟然看这种网站 </h3> 
                <div class="photo"> 
-                <img src="http://imgsize.ph.126.net/?imgurl=http://cms-bucket.nosdn.127.net/52635d66ad644b598ea603646268c6f320170614181324.jpeg_200x90x1x85.jpg" width="200" height="90" alt="这不是深夜食堂，这是深夜尴尬"> 
+                <img src="http://imgsize.ph.126.net/?imgurl=http://cms-bucket.nosdn.127.net/02f32186fb8a40eb997a91aca7e57dc820170615191735.png_200x90x1x85.jpg" width="200" height="90" alt="这位领导，上班竟然看这种网站"> 
                </div> </a> 
               <ul> 
-               <li class=""><a href="http://news.163.com/17/0614/10/CMSQG7PL000181BR.html">为什么女生找对象一定要找帅的？</a></li> 
-               <li class="twoli "><a href="http://news.163.com/17/0613/17/CMR00A7R000181BR.html">NBA总决赛上，他宣布了一个惊人决定！</a></li> 
+               <li class=""><a href="http://news.163.com/17/0615/10/CMVE1M8A000181BR.html">请看完!在马路上,大妈是如何健身的?</a></li> 
+               <li class="twoli "><a href="http://news.163.com/17/0614/17/CMTKEJMB000181BR.html">这不是深夜食堂，这是深夜尴尬</a></li> 
               </ul> 
              </div> </li> 
             <!-- 轻松一刻 结束 --> 
@@ -810,13 +810,13 @@ var HouseNavBendiTxt = {
             <!-- 杂家 开始 --> 
             <li class="cell cell_zajia"> <p class="tag_line"> <span class="tags tag_zajia">杂家</span> </p> 
              <div class="column_main"> 
-              <a href="http://zajia.news.163.com/17/0614/19/CMTRS577000181TJ.html" class="detail" ne-role="detail"> <h3> 最倔官三代，民国第一史学大师输给时代 </h3> 
+              <a href="http://zajia.news.163.com/17/0615/21/CN0IBD6E000181TJ.html" class="detail" ne-role="detail"> <h3> 日本清洁工成国宝匠人 </h3> 
                <div class="photo"> 
-                <img src="http://imgsize.ph.126.net/?imgurl=http://cms-bucket.nosdn.127.net/d275da7fa652467f988d9dd2ab05e21020170614200825.jpeg_200x90x1x85.jpg" width="200" height="90" alt="最倔官三代，民国第一史学大师输给时代"> 
+                <img src="http://imgsize.ph.126.net/?imgurl=http://cms-bucket.nosdn.127.net/928f73f859544b369227a09bfac9e33720170615211532.jpeg_200x90x1x85.jpg" width="200" height="90" alt="日本清洁工成国宝匠人"> 
                </div> </a> 
               <ul> 
-               <li class=""><a href="http://zajia.news.163.com/17/0612/19/CMOKORDD000181TJ.html">这些改变历史的人竟然都是左撇子</a></li> 
-               <li class="twoli "><a href="http://zajia.news.163.com/17/0607/19/CMBQHUT7000181TJ.html">京城老大爷收30年破烂，身家千万</a></li> 
+               <li class=""><a href="http://zajia.news.163.com/17/0614/19/CMTRS577000181TJ.html">民国第一史学大师输给时代</a></li> 
+               <li class="twoli "><a href="http://zajia.news.163.com/17/0612/19/CMOKORDD000181TJ.html">这些改变历史的人竟然都是左撇子</a></li> 
               </ul> 
              </div> </li> 
             <!-- 杂家 结束 --> 
@@ -859,17 +859,17 @@ var HouseNavBendiTxt = {
       <div class="main_center_news"> 
        <!-- 头条新闻 --> 
        <div class="mod_top_news2" id="js_top_news"> 
-        <h2> <a href="http://news.163.com/17/0614/20/CMTSG7NV000189FH.html">习近平会见卢森堡首相贝泰尔</a> </h2> 
+        <h2> <a href="http://news.163.com/17/0615/21/CN0JLUHB000189FH.html">2020告别贫困！习近平要求限时完成的目标</a> </h2> 
         <ul class="top_news_ul"> 
          <li><a href="http://news.163.com/17/0614/21/CMU22228000189FH.html">李克强主持国务院常务会议 </a>|<a target="_blank" href="http://news.163.com/17/0614/21/CMU22Q9P000189FH.html">取消下放这些生产许可 政府责任更重了</a></li> 
-         <li><a href="http://news.163.com/17/0615/08/CMV64I0N00018AOQ.html">北大女硕士失联 FBI定性为绑架</a>|<a target="_blank" href="http://news.163.com/17/0615/10/CMVD92IF0001875P.html">最高法再谈彭宇案:他承认撞了老太</a></li> 
-         <li><a href="http://news.163.com/17/0615/08/CMV754C10001899N.html">美媒:通俄门检察官正调查特朗普</a>|<a target="_blank" href="http://news.163.com/17/0615/09/CMV9MLUE000187VE.html">普京将与民众连线 往年被问过啥?</a></li> 
+         <li><a href="http://news.163.com/17/0615/16/CN02CIPV0001899N.html">纪检组长干了17年 退休1年半后被调查</a>|<a target="_blank" href="http://news.163.com/17/0615/19/CN0E571C0001899N.html">媒体盘点落马官员"捆绑腐败"</a></li> 
+         <li><a href="http://news.163.com/17/0615/17/CN04GQJK000187VE.html">马来西亚军机失联:2名飞行员遗体已找到</a>|<a target="_blank" href="http://news.163.com/17/0615/18/CN0AAEK2000187V9.html">韩媒:6名韩国人被朝鲜扣押</a></li> 
         </ul> 
-        <h2 class="top_news_title"> <a href="http://money.163.com/17/0615/02/CMUGLO4I002580S6.html">美联储宣布今年第二次加息25个基点</a> </h2> 
+        <h2 class="top_news_title"> <a href="http://news.163.com/17/0616/00/CN0TH5QN000189FH.html">公安部派工作组赴江苏丰县指导处置爆炸事件</a> </h2> 
         <ul class="top_news_ul"> 
-         <li><a href="http://news.163.com/17/0615/05/CMUTDAJG00018AOP.html">念斌向公安申请412万国家赔偿</a>|<a target="_blank" href="http://news.163.com/17/0615/08/CMV7MM250001899N.html">驻港某旅特种作战连让飞虎队称赞</a></li> 
-         <li><a href="http://news.163.com/17/0615/07/CMV54KHE0001875P.html">罕见!22岁妈妈诞下单卵三胞胎</a>|<a target="_blank" href="http://news.163.com/17/0615/07/CMV45VJ30001899N.html">夫妻离婚留给儿子20万 女方偷偷取光</a></li> 
-         <li><a href="http://news.163.com/17/0615/08/CMV85NQE0001875P.html">男子每天花6000租宾利 骗7女50多万</a>|<a target="_blank" href="http://news.163.com/17/0615/07/CMV4MNBF0001899N.html">老人跳河轻生 警察营救遭勒脖</a></li> 
+         <li><a href="http://news.163.com/17/0615/14/CMVSFJLK00018AOR.html">神龙架"野人"存在?有人自称被掳走</a>|<a target="_blank" href="http://news.163.com/17/0615/17/CN06IUSS000187VE.html">高校回应"宿舍粪坑爆炸":系误传</a></li> 
+         <li><a href="http://news.163.com/17/0615/17/CN06U7430001899N.html">大学生陷传销被关"小黑屋" 一句话得救</a>|<a target="_blank" href="http://news.163.com/17/0615/17/CN04GQJM000187VE.html">男子殴打女友致其重伤失忆</a></li> 
+         <li><a href="http://news.163.com/17/0615/19/CN0CDK030001899N.html">女子夜晚打车被换走800元真钞</a>|<a target="_blank" href="http://news.163.com/17/0615/19/CN0DATB800018AOR.html">男子不满前女友结婚 蹲其门口放哀乐</a></li> 
         </ul> 
        </div> 
        <!-- 广告 开始 --> 
@@ -912,18 +912,18 @@ var HouseNavBendiTxt = {
          <a ne-role="slide-next" class="focus_next"></a> 
          <div ne-role="slide-body" class="focus_body"> 
           <ul ne-role="slide-scroll"> 
-           <li class="current" ne-role="slide-page"> <a href="http://news.163.com/17/0615/00/CMU9PSN90001885B.html" title="小心，你可能看了一本假书" class="photo"><img src="http://imgsize.ph.126.net/?imgurl=http://cms-bucket.nosdn.127.net/99951c56f66345a1a015cfa9d0b34e4620170615000943.jpeg_600x250x1x85.jpg" width="600" height="250" alt="小心，你可能看了一本假书"></a> <span class="bg"></span> <h3> <span class="
+           <li class="current" ne-role="slide-page"> <a href="http://news.163.com/17/0616/00/CN0S862U0001885B.html" title="在武汉的朋克毛豆面前,深夜食堂就是渣渣" class="photo"><img src="http://imgsize.ph.126.net/?imgurl=http://cms-bucket.nosdn.127.net/209d738857494166927f09744463a62020170616001336.png_600x250x1x85.jpg" width="600" height="250" alt="在武汉的朋克毛豆面前,深夜食堂就是渣渣"></a> <span class="bg"></span> <h3> <span class="
                      icons icon_wsansan
-                                        "></span> <a href="http://news.163.com/17/0615/00/CMU9PSN90001885B.html">小心，你可能看了一本假书</a> </h3> </li> 
-           <li ne-role="slide-page"> <a href="http://renjian.163.com/17/0614/20/CMTSB7UD000181RK.html" title="老鼠吃了我的学费，我从此辍了学" class="photo"><img src="http://imgsize.ph.126.net/?imgurl=http://cms-bucket.nosdn.127.net/724a4a43476e49be9287fed320caa11a20170614201510.jpeg_600x250x1x85.jpg" width="600" height="250" alt="老鼠吃了我的学费，我从此辍了学"></a> <span class="bg"></span> <h3> <span class="
+                                        "></span> <a href="http://news.163.com/17/0616/00/CN0S862U0001885B.html">在武汉的朋克毛豆面前,深夜食堂就是渣渣</a> </h3> </li> 
+           <li ne-role="slide-page"> <a href="http://zajia.news.163.com/17/0615/21/CN0IBD6E000181TJ.html" title="打工妹成香奈儿模特，日本清洁工成国宝匠人" class="photo"><img src="http://imgsize.ph.126.net/?imgurl=http://cms-bucket.nosdn.127.net/f1ea86d0d4e845c6b03f1d31470ab46a20170615211408.jpeg_600x250x1x85.jpg" width="600" height="250" alt="打工妹成香奈儿模特，日本清洁工成国宝匠人"></a> <span class="bg"></span> <h3> <span class="
+                     icons icon_zajia
+                                        "></span> <a href="http://zajia.news.163.com/17/0615/21/CN0IBD6E000181TJ.html">打工妹成香奈儿模特，日本清洁工成国宝匠人</a> </h3> </li> 
+           <li ne-role="slide-page"> <a href="http://renjian.163.com/17/0615/16/CN034D38000181RK.html" title="职业医闹：活着替人闹，死了被人闹" class="photo"><img src="http://imgsize.ph.126.net/?imgurl=http://cms-bucket.nosdn.127.net/e03671f7140f4c8f813d5c8678370bec20170615165511.jpeg_600x250x1x85.jpg" width="600" height="250" alt="职业医闹：活着替人闹，死了被人闹"></a> <span class="bg"></span> <h3> <span class="
                      icons icon_dgxm
-                                        "></span> <a href="http://renjian.163.com/17/0614/20/CMTSB7UD000181RK.html">老鼠吃了我的学费，我从此辍了学</a> </h3> </li> 
-           <li ne-role="slide-page"> <a href="http://caozhi.news.163.com/17/0614/12/CMT1O4C1000181TI.html" title="一个家庭的悲剧，是从不好好说话开始的" class="photo"><img src="http://imgsize.ph.126.net/?imgurl=http://cms-bucket.nosdn.127.net/caeb76b1b65348688c75e78aa33cab1120170614123329.jpeg_600x250x1x85.jpg" width="600" height="250" alt="一个家庭的悲剧，是从不好好说话开始的"></a> <span class="bg"></span> <h3> <span class="
+                                        "></span> <a href="http://renjian.163.com/17/0615/16/CN034D38000181RK.html">职业医闹：活着替人闹，死了被人闹</a> </h3> </li> 
+           <li ne-role="slide-page"> <a href="http://caozhi.news.163.com/17/0615/12/CMVJTDLR000181TI.html" title="第一批已经离婚的90后" class="photo"><img src="http://imgsize.ph.126.net/?imgurl=http://cms-bucket.nosdn.127.net/fb7d6e72536d402c91f7c6b59f9c408520170615122511.png_600x250x1x85.jpg" width="600" height="250" alt="第一批已经离婚的90后"></a> <span class="bg"></span> <h3> <span class="
                      icons icon_caozhi
-                                        "></span> <a href="http://caozhi.news.163.com/17/0614/12/CMT1O4C1000181TI.html">一个家庭的悲剧，是从不好好说话开始的</a> </h3> </li> 
-           <li ne-role="slide-page"> <a href="http://renjian.163.com/17/0613/20/CMRCBKMG000181RV.html" title="20年前，我是如何成为一个美漂的" class="photo"><img src="http://imgsize.ph.126.net/?imgurl=http://cms-bucket.nosdn.127.net/26d8f45fb05240eeb848c23a5bb862dc20170613205715.jpeg_600x250x1x85.jpg" width="600" height="250" alt="20年前，我是如何成为一个美漂的"></a> <span class="bg"></span> <h3> <span class="
-                     icons icon_rj
-                                        "></span> <a href="http://renjian.163.com/17/0613/20/CMRCBKMG000181RV.html">20年前，我是如何成为一个美漂的</a> </h3> </li> 
+                                        "></span> <a href="http://caozhi.news.163.com/17/0615/12/CMVJTDLR000181TI.html">第一批已经离婚的90后</a> </h3> </li> 
           </ul> 
          </div> 
         </div> 
@@ -1457,9 +1457,9 @@ var HouseNavBendiTxt = {
           <div class="f_body" ne-role="slide-body"> 
            <ul class="f_main clearfix" ne-role="slide-scroll"> 
             <li ne-role="slide-page"> <a href="http://g.163.com/a?CID=49497&amp;Values=3721566572&amp;Redirect=http://clickc.admaster.com.cn/c/a84285,b1653843,c3078,i0,m101,8a1,8b2,h"> <img src="http://imgsize.ph.126.net/?imgurl=http://cms-bucket.nosdn.127.net/5062aa3a77c3460ab28eeedb664b086f20170615091736.jpeg_300x400x1x85.jpg" width="300" height="400"> <span class="bg"></span> <h3>广告：路虎之境 从发现神行开始</h3> </a> </li> 
-            <li ne-role="slide-page"> <a href="http://news.163.com/photoview/00AO0001/2260871.html#p=CMV3IF1S00AO0001"> <img src="http://imgsize.ph.126.net/?imgurl=http://cms-bucket.nosdn.127.net/d042808df13746a0bee05d181f2ed2e720170615091303.jpeg_300x400x1x85.jpg" width="300" height="400"> <span class="bg"></span> <h3>美棒球赛遭枪击 特朗普深表悲痛</h3> </a> </li> 
-            <li ne-role="slide-page"> <a href="http://news.163.com/photoview/00AO0001/2260845.html#p=CMU7U9HI00AO0001"> <img src="http://imgsize.ph.126.net/?imgurl=http://cms-bucket.nosdn.127.net/cad4d5d768dc4ab2a17852ccc411d92420170615091415.jpeg_300x400x1x85.jpg" width="300" height="400"> <span class="bg"></span> <h3>爱尔兰产生首位同性恋总理</h3> </a> </li> 
-            <li ne-role="slide-page"> <a href="http://news.163.com/photoview/00AO0001/2260856.html#p=CMUDHQ2700AO0001&amp;from=tj_review"> <img src="http://imgsize.ph.126.net/?imgurl=http://cms-bucket.nosdn.127.net/5ec965b782e649b2a4b5a3dfef9a8b8d20170615091501.jpeg_300x400x1x85.jpg" width="300" height="400"> <span class="bg"></span> <h3>伦敦消防员艰苦对抗公寓大火</h3> </a> </li> 
+            <li ne-role="slide-page"> <a href="http://news.163.com/photoview/00AP0001/2260970.html"> <img src="http://imgsize.ph.126.net/?imgurl=http://cms-bucket.nosdn.127.net/cf051f1c7a8745cc9ee256e2a16e7ce120170615190351.jpeg_300x400x1x85.jpg" width="300" height="400"> <span class="bg"></span> <h3>少林寺众僧手工收麦 现场秀功夫</h3> </a> </li> 
+            <li ne-role="slide-page"> <a href="http://news.163.com/photoview/00AO0001/2260983.html"> <img src="http://imgsize.ph.126.net/?imgurl=http://cms-bucket.nosdn.127.net/5a5252e9de034c7d8e659329c4f91ffe20170615190526.jpeg_300x400x1x85.jpg" width="300" height="400"> <span class="bg"></span> <h3>韩海军在"独岛"周边进行防御演习</h3> </a> </li> 
+            <li ne-role="slide-page"> <a href="http://news.163.com/photoview/00AP0001/2260964.html#p=CN06BM1L00AP0001"> <img src="http://imgsize.ph.126.net/?imgurl=http://cms-bucket.nosdn.127.net/18f8242f1d614a97b4a3d307ae6bcde620170615190643.jpeg_300x400x1x85.jpg" width="300" height="400"> <span class="bg"></span> <h3>高校保洁阿姨背大学生"过河"</h3> </a> </li> 
            </ul> 
           </div> 
           <div class="f_title"> 
@@ -1498,13 +1498,13 @@ var HouseNavBendiTxt = {
              <!-- 数读 开始 --> 
              <li class="cell cell_sd cell_hover"> <p class="tag_line"> <a href="http://data.163.com/special/datablog/" class="tags tag_sd">数读</a> </p> 
               <div class="column_main"> 
-               <a href="http://data.163.com/17/0613/13/CMQJAP0B000181IU.html" class="detail" ne-role="detail"> <h3> 中国的酒店设施和印度一样糟心 </h3> 
+               <a href="http://data.163.com/17/0615/12/CMVJJBRB000181IU.html" class="detail" ne-role="detail"> <h3> 恐怖电影套路指南 </h3> 
                 <div class="photo"> 
-                 <img src="http://imgsize.ph.126.net/?imgurl=http://cms-bucket.nosdn.127.net/13c071deddeb48ba8536769477f9385320170613134214.jpeg_200x90x1x85.jpg" width="200" height="90" alt="中国的酒店设施和印度一样糟心"> 
+                 <img src="http://imgsize.ph.126.net/?imgurl=http://cms-bucket.nosdn.127.net/2277977c07ec4426974632b3bd0d975920170615122454.jpeg_200x90x1x85.jpg" width="200" height="90" alt="恐怖电影套路指南"> 
                 </div> </a> 
                <ul> 
-                <li class=""><a href="http://data.163.com/17/0609/13/CMGAAADN000181IU.html">如果活到78岁，干啥花的时间最多</a></li> 
-                <li class="twoli "><a href="http://data.163.com/17/0608/12/CMDL14GV000181IU.html">古代科举VS现代高考，哪个更容易</a></li> 
+                <li class=""><a href="http://data.163.com/17/0613/13/CMQJAP0B000181IU.html">中国的酒店设施和印度一样糟心</a></li> 
+                <li class="twoli "><a href="http://data.163.com/17/0609/13/CMGAAADN000181IU.html">如果活到78岁，干啥花的时间最多</a></li> 
                </ul> 
               </div> </li> 
              <!-- 数读 结束 --> 
@@ -1524,26 +1524,26 @@ var HouseNavBendiTxt = {
              <!-- 大国小民 开始 --> 
              <li class="cell cell_dgxm"> <p class="tag_line"> <span class="tags tag_dgxm">大国小民</span> </p> 
               <div class="column_main"> 
-               <a href="http://renjian.163.com/17/0614/20/CMTSB7UD000181RK.html" class="detail" ne-role="detail"> <h3> 穷孩子的学费 </h3> 
+               <a href="http://renjian.163.com/17/0615/16/CN034D38000181RK.html" class="detail" ne-role="detail"> <h3> 生也医闹，死也医闹 </h3> 
                 <div class="photo"> 
-                 <img src="http://imgsize.ph.126.net/?imgurl=http://cms-bucket.nosdn.127.net/9bd07cb84e7a43b8bc1ab47361b536e720170614201440.jpeg_200x90x1x85.jpg" width="200" height="90" alt="穷孩子的学费"> 
+                 <img src="http://imgsize.ph.126.net/?imgurl=http://cms-bucket.nosdn.127.net/05c202413bd34e9795d6cec4c7b2d2d820170615165434.jpeg_200x90x1x85.jpg" width="200" height="90" alt="生也医闹，死也医闹"> 
                 </div> </a> 
                <ul> 
-                <li class=""><a href="http://renjian.163.com/17/0609/19/CMGVTJ29000181RK.html">就怕真的把领导告倒</a></li> 
-                <li class="twoli "><a href="http://renjian.163.com/17/0608/18/CME8398R000181RK.html">村姑新娘</a></li> 
+                <li class=""><a href="http://renjian.163.com/17/0614/20/CMTSB7UD000181RK.html">穷孩子的学费</a></li> 
+                <li class="twoli "><a href="http://renjian.163.com/17/0609/19/CMGVTJ29000181RK.html">就怕真的把领导告倒</a></li> 
                </ul> 
               </div> </li> 
              <!-- 大国小民 结束 --> 
              <!-- 三三有梗 开始 --> 
              <li class="cell cell_dada"> <p class="tag_line"> <span class="tags tag_dada">三三有梗</span> </p> 
               <div class="column_main"> 
-               <a href="http://news.163.com/17/0615/00/CMU9PSN90001885B.html" class="detail" ne-role="detail"> <h3> 小心，你可能是看了一本假书 </h3> 
+               <a href="http://news.163.com/17/0616/00/CN0S862U0001885B.html" class="detail" ne-role="detail"> <h3> 在武汉毛豆面前,深夜食堂就是渣 </h3> 
                 <div class="photo"> 
-                 <img src="http://imgsize.ph.126.net/?imgurl=http://cms-bucket.nosdn.127.net/fbc4f0e4dbae431d8706c848b2760c7720170614210736.png_200x90x1x85.jpg" width="200" height="90" alt="小心，你可能是看了一本假书"> 
+                 <img src="http://imgsize.ph.126.net/?imgurl=http://cms-bucket.nosdn.127.net/d15533aed47442e1b39333c7c4021b4820170615172427.png_200x90x1x85.jpg" width="200" height="90" alt="在武汉毛豆面前,深夜食堂就是渣"> 
                 </div> </a> 
                <ul> 
-                <li class=""><a href="http://news.163.com/17/0612/00/CMMIHL170001885B.html">我微信好友最铁的是文件传输助手</a></li> 
-                <li class="twoli "><a href="http://news.163.com/17/0610/00/CMHDSB5J0001885B.html">你想要的无非自己成功别人失败</a></li> 
+                <li class=""><a href="http://news.163.com/17/0615/00/CMU9PSN90001885B.html">小心，你可能是看了一本假书</a></li> 
+                <li class="twoli "><a href="http://news.163.com/17/0612/00/CMMIHL170001885B.html">我微信好友最铁的是文件传输助手</a></li> 
                </ul> 
               </div> </li> 
              <!-- 三三有梗 结束 --> 
@@ -1576,13 +1576,13 @@ var HouseNavBendiTxt = {
              <!-- 轻松一刻 开始 --> 
              <li class="cell cell_qsyk"> <p class="tag_line"> <span class="tags tag_qsyk">轻松一刻</span> </p> 
               <div class="column_main"> 
-               <a href="http://news.163.com/17/0614/17/CMTKEJMB000181BR.html" class="detail" ne-role="detail"> <h3> 这不是深夜食堂，这是深夜尴尬 </h3> 
+               <a href="http://news.163.com/17/0615/19/CN0B2CSA000181BR.html" class="detail" ne-role="detail"> <h3> 这位领导，上班竟然看这种网站 </h3> 
                 <div class="photo"> 
-                 <img src="http://imgsize.ph.126.net/?imgurl=http://cms-bucket.nosdn.127.net/52635d66ad644b598ea603646268c6f320170614181324.jpeg_200x90x1x85.jpg" width="200" height="90" alt="这不是深夜食堂，这是深夜尴尬"> 
+                 <img src="http://imgsize.ph.126.net/?imgurl=http://cms-bucket.nosdn.127.net/02f32186fb8a40eb997a91aca7e57dc820170615191735.png_200x90x1x85.jpg" width="200" height="90" alt="这位领导，上班竟然看这种网站"> 
                 </div> </a> 
                <ul> 
-                <li class=""><a href="http://news.163.com/17/0614/10/CMSQG7PL000181BR.html">为什么女生找对象一定要找帅的？</a></li> 
-                <li class="twoli "><a href="http://news.163.com/17/0613/17/CMR00A7R000181BR.html">NBA总决赛上，他宣布了一个惊人决定！</a></li> 
+                <li class=""><a href="http://news.163.com/17/0615/10/CMVE1M8A000181BR.html">请看完!在马路上,大妈是如何健身的?</a></li> 
+                <li class="twoli "><a href="http://news.163.com/17/0614/17/CMTKEJMB000181BR.html">这不是深夜食堂，这是深夜尴尬</a></li> 
                </ul> 
               </div> </li> 
              <!-- 轻松一刻 结束 --> 
@@ -1602,13 +1602,13 @@ var HouseNavBendiTxt = {
              <!-- 杂家 开始 --> 
              <li class="cell cell_zajia"> <p class="tag_line"> <span class="tags tag_zajia">杂家</span> </p> 
               <div class="column_main"> 
-               <a href="http://zajia.news.163.com/17/0614/19/CMTRS577000181TJ.html" class="detail" ne-role="detail"> <h3> 最倔官三代，民国第一史学大师输给时代 </h3> 
+               <a href="http://zajia.news.163.com/17/0615/21/CN0IBD6E000181TJ.html" class="detail" ne-role="detail"> <h3> 日本清洁工成国宝匠人 </h3> 
                 <div class="photo"> 
-                 <img src="http://imgsize.ph.126.net/?imgurl=http://cms-bucket.nosdn.127.net/d275da7fa652467f988d9dd2ab05e21020170614200825.jpeg_200x90x1x85.jpg" width="200" height="90" alt="最倔官三代，民国第一史学大师输给时代"> 
+                 <img src="http://imgsize.ph.126.net/?imgurl=http://cms-bucket.nosdn.127.net/928f73f859544b369227a09bfac9e33720170615211532.jpeg_200x90x1x85.jpg" width="200" height="90" alt="日本清洁工成国宝匠人"> 
                 </div> </a> 
                <ul> 
-                <li class=""><a href="http://zajia.news.163.com/17/0612/19/CMOKORDD000181TJ.html">这些改变历史的人竟然都是左撇子</a></li> 
-                <li class="twoli "><a href="http://zajia.news.163.com/17/0607/19/CMBQHUT7000181TJ.html">京城老大爷收30年破烂，身家千万</a></li> 
+                <li class=""><a href="http://zajia.news.163.com/17/0614/19/CMTRS577000181TJ.html">民国第一史学大师输给时代</a></li> 
+                <li class="twoli "><a href="http://zajia.news.163.com/17/0612/19/CMOKORDD000181TJ.html">这些改变历史的人竟然都是左撇子</a></li> 
                </ul> 
               </div> </li> 
              <!-- 杂家 结束 --> 
@@ -1725,8 +1725,8 @@ var HouseNavBendiTxt = {
          <h2 class="title"><a href="http://news.163.com/special/00011269/gdmore.html">高层动态</a></h2> 
         </div> 
         <ul class="idx_cm_list idx_cm_list_h"> 
-         <li> <a href="http://news.163.com/17/0613/17/CMR19K8000018AOQ.html">习近平授予驻港部队某连荣誉称号</a> </li> 
-         <li> <a href="http://news.163.com/17/0613/20/CMRCV4AT000189FH.html">李克强:坚持不懈推动政府职能转变</a> </li> 
+         <li> <a href="http://news.163.com/17/0615/18/CN07LB84000189FH.html">习近平谈合格党员的“标配”</a> </li> 
+         <li> <a href="http://news.163.com/17/0614/21/CMU22228000189FH.html">李克强主持召开国务院常务会议 </a> </li> 
         </ul> 
        </div> 
        <!-- 高层动态 结束--> 
@@ -1766,16 +1766,16 @@ var HouseNavBendiTxt = {
          <a href="http://news.163.com/rank/" class="title">热点排行</a> 
         </div> 
         <ul> 
-         <li class="top "> <em>1</em> <a href="http://news.163.com/17/0614/16/CMTFIIF800018AOQ.html">第三方评估部分公安改革项目实施效果：满意度均超92%</a> <span>1147658</span> </li> 
-         <li class=" top "> <em>2</em> <a href="http://news.163.com/17/0614/15/CMTC5GG2000187VE.html">男子花千万将垃圾场改造为足球场 城管依法拆除</a> <span>392228</span> </li> 
-         <li class=" top "> <em>3</em> <a href="http://news.163.com/17/0615/05/CMUSV67100018AOP.html">异地办理身份证实施效果公众满意度达98.2%</a> <span>324906</span> </li> 
-         <li class=""> <em>4</em> <a href="http://news.163.com/17/0615/05/CMUTUSLF0001875N.html">人民日报批辽宁营商环境：依法依规把企业整没了</a> <span>190456</span> </li> 
-         <li class=""> <em>5</em> <a href="http://news.163.com/17/0615/03/CMUK186O00018AOP.html">六项公安改革 群众满意度均超九成</a> <span>137505</span> </li> 
-         <li class=""> <em>6</em> <a href="http://news.163.com/17/0615/10/CMVD92IF0001875P.html">最高法再谈彭宇案真相：他自己承认撞了老太</a> <span>115753</span> </li> 
-         <li class=""> <em>7</em> <a href="http://news.163.com/photoview/00AP0001/2260745.html">郑州一豪车无视交警 猛撞本田扬长而去</a> <span>87609</span> </li> 
-         <li class=""> <em>8</em> <a href="http://news.163.com/17/0615/05/CMUSVQ0C00018AOP.html">[社论]公安改革，民众点赞才是真的赞</a> <span>87419</span> </li> 
-         <li class=""> <em>9</em> <a href="http://news.163.com/17/0614/13/CMT53QA7000187VE.html">官方发布转基因生物安全证书进口清单 含大豆玉米</a> <span>77509</span> </li> 
-         <li class=""> <em>10</em> <a href="http://news.163.com/17/0614/13/CMT6LFD9000187VE.html">刘先林院士回应高铁照片:国家给我的荣誉已经够多</a> <span>70073</span> </li> 
+         <li class="top "> <em>1</em> <a href="http://news.163.com/17/0615/03/CMUK186O00018AOP.html">六项公安改革 群众满意度均超九成</a> <span>699177</span> </li> 
+         <li class=" top "> <em>2</em> <a href="http://news.163.com/17/0615/10/CMVD92IF0001875P.html">最高法再谈彭宇案真相：他自己承认撞了老太</a> <span>592517</span> </li> 
+         <li class=" top "> <em>3</em> <a href="http://news.163.com/17/0615/05/CMUSVQ0C00018AOP.html">[社论]公安改革，民众点赞才是真的赞</a> <span>376922</span> </li> 
+         <li class=""> <em>4</em> <a href="http://news.163.com/17/0615/10/CMVDK3FK0001899N.html">又一起!南京广场舞大妈和篮球小伙起冲突 警察出动</a> <span>242666</span> </li> 
+         <li class=""> <em>5</em> <a href="http://news.163.com/17/0615/05/CMUTUSLF0001875N.html">人民日报批辽宁营商环境：依法依规把企业整没了</a> <span>226949</span> </li> 
+         <li class=""> <em>6</em> <a href="http://news.163.com/photoview/00AP0001/2260964.html">贵州高校积水 保洁阿姨背大学生"过河"</a> <span>147671</span> </li> 
+         <li class=""> <em>7</em> <a href="http://news.163.com/17/0615/21/CN0KVSST00014SEH.html">媒体:"彭宇案"10年来成了"不扶者"的"挡箭牌"</a> <span>146365</span> </li> 
+         <li class=""> <em>8</em> <a href="http://news.163.com/17/0615/14/CMVSENR90001875N.html">媒体:去年全国彩票销售4000亿 筹来的钱花哪里了 </a> <span>126095</span> </li> 
+         <li class=""> <em>9</em> <a href="http://news.163.com/17/0615/18/CN07N4FR0001875P.html">江苏一幼儿园发生爆炸 多人衣不蔽体伤亡不明</a> <span>124318</span> </li> 
+         <li class=""> <em>10</em> <a href="http://news.163.com/17/0615/07/CMV4MNBF0001899N.html">老人跳河轻生 警察营救遭勒脖:死也要拉你们垫背</a> <span>100375</span> </li> 
         </ul> 
        </div> 
        <!-- 热点排行 结束 --> 
@@ -1818,9 +1818,9 @@ var HouseNavBendiTxt = {
         </div> 
         <ul class="mt12 idx_cm_list idx_cm_list_h"> 
          <li> <a href="http://sports.163.com/nba/">KD夺冠证明赢家通吃:胜利即正义</a> </li> 
+         <li> <a href="http://sports.163.com/17/0615/17/CN06MF7B0005877U.html">勇士3年被挖3大要员</a> <a target="_blank" href="http://sports.163.com/17/0615/14/CMVRBPFK0005877U.html">KD:勇士不是超级球队</a> </li> 
          <li> <a href="http://sports.163.com/17/0615/07/CMV3MCMP0005877U.html">勇士打服詹皇 但香蕉船兄弟齐聚能否一战?</a> </li> 
-         <li> <a href="http://sports.163.com/17/0615/07/CMV2P1FI0005877U.html">杜兰特:奥巴马发短信祝贺我 还夸我防守好</a> </li> 
-         <li> <a href="http://sports.163.com/yc/">曼联宣布最贵后卫加盟</a> <a target="_blank" href="http://sports.163.com/17/0615/00/CMUBGUCO00058781.html">拜仁4000万欧签新援</a> </li> 
+         <li> <a href="http://sports.163.com/17/0615/21/CN0I4J8R00058781.html">不触球梦幻过人!皇马16岁小子致敬贝利神作</a> </li> 
         </ul> 
        </div> 
        <!-- 体育 结束 --> 
@@ -1923,10 +1923,10 @@ var HouseNavBendiTxt = {
         <div class="idx_cm_title"> 
          <a href="http://v.163.com/" class="title">精彩视频</a> 
         </div> 
-        <a href="http://v.163.com/zixun/VBMGGRV60/VCLVETGHD.html" class="big_video"> <img src="http://vimg2.ws.126.net/image/snapshot/2017/6/D/1/VCLVEUQD1.jpg" alt="【高能学妹】身肢柔软 学妹舞姿曼妙" title="【高能学妹】身肢柔软 学妹舞姿曼妙" width="300" height="190"> <span class="bg"></span> <em></em> <span class="title">【高能学妹】身肢柔软 学妹舞姿曼妙</span> </a> 
+        <a href="http://v.163.com/zixun/VBMGGRV60/VCLVETGHD.html" class="big_video"> <img src="http://vimg1.ws.126.net/image/snapshot/2017/6/D/1/VCLVEUQD1.jpg" alt="【高能学妹】身肢柔软 学妹舞姿曼妙" title="【高能学妹】身肢柔软 学妹舞姿曼妙" width="300" height="190"> <span class="bg"></span> <em></em> <span class="title">【高能学妹】身肢柔软 学妹舞姿曼妙</span> </a> 
         <div class="clearfix small_video"> 
          <a href="http://v.163.com/zixun/VBMGGRV60/VCL7PLF45.html" class="item"> <img src="http://vimg2.ws.126.net/image/snapshot/2017/6/N/V/VCL7PO3NV.jpg" alt="美女学妹现场尬舞" title="美女学妹现场尬舞" width="140" height="88"> <h3 class="item_text">美女学妹现场尬舞 <i class="icon_video"></i></h3> </a> 
-         <a href="http://v.163.com/zixun/VBMGGRV60/VCL7QQ9E5.html" class="item"> <img src="http://vimg3.ws.126.net/image/snapshot/2017/6/V/M/VCL7QRLVM.jpg" alt="天价珍宝拍卖会" title="天价珍宝拍卖会" width="140" height="88"> <h3 class="item_text">天价珍宝拍卖会 <i class="icon_video"></i></h3> </a> 
+         <a href="http://v.163.com/zixun/VBMGGRV60/VCL7QQ9E5.html" class="item"> <img src="http://vimg1.ws.126.net/image/snapshot/2017/6/V/M/VCL7QRLVM.jpg" alt="天价珍宝拍卖会" title="天价珍宝拍卖会" width="140" height="88"> <h3 class="item_text">天价珍宝拍卖会 <i class="icon_video"></i></h3> </a> 
         </div> 
        </div> 
        <!-- 精彩视频 结束--> 
@@ -1955,16 +1955,16 @@ var HouseNavBendiTxt = {
          <h2 class="title"> <a href="http://mobile.163.com/">手机</a> <i>·</i> <a href="http://digi.163.com/">数码</a> </h2> 
         </div> 
         <div class="idx_cm_img"> 
-         <a href="http://mobile.163.com/17/0606/02/CM7D9EBN00118017.html"> <img src="http://imgsize.ph.126.net/?imgurl=http://cms-bucket.nosdn.127.net/62e572ab4460479fb3107817a8a22e7b20170606042500.jpeg_300x150x1x85.jpg" width="300" height="150" alt="iOS11发布：全新设计的控制中心"> 
+         <a href="http://mobile.163.com/17/0615/10/CMVFAIEA00118017.html"> <img src="http://imgsize.ph.126.net/?imgurl=http://cms-bucket.nosdn.127.net/c4c523bc77c94971b2998da48111c20820170615105638.png_300x150x1x85.jpg" width="300" height="150" alt="大立光电出货3D镜头 为iPhone8准备"> 
           <div class="bg"> 
-           <h3>iOS11发布：全新设计的控制中心</h3> 
+           <h3>大立光电出货3D镜头 为iPhone8准备</h3> 
           </div> </a> 
         </div> 
         <ul class="mt12 idx_cm_list idx_cm_list_h"> 
-         <li> <a href="http://mobile.163.com/17/0522/08/CL1E3BAN0011819H.html">三星Note8曝光：屏幕下指纹+双摄</a> </li> 
-         <li> <a href="http://mobile.163.com/17/0522/09/CL1G1C480011819H.html">国行诺基亚3310通过工信部认证</a> </li> 
+         <li> <a href="http://mobile.163.com/17/0615/07/CMV34UQS00118017.html">Android 8.0改进：告别卡慢耗电</a> </li> 
+         <li> <a href="http://mobile.163.com/17/0615/10/CMVF5D1600118017.html">官翻版三星Note7再次推迟上市</a> </li> 
          <li> <a href="http://digi.163.com/17/0615/08/CMV5MG0C001680P9.html">雷蛇发布2017款灵刃潜行：13英寸窄边、i7/16G</a> </li> 
-         <li> <a href="http://digi.163.com/17/0615/08/CMV5TBVB001680P9.html">10.5英寸iPad Pro 3Dmark跑分出炉：提升不俗</a> </li> 
+         <li> <a href="http://digi.163.com/17/0615/10/CMVCATJC001680P9.html">谷歌Pixel 2渲染图曝光：全面屏+后置双摄</a> </li> 
         </ul> 
        </div> 
        <!-- 手机 数码  结束 --> 
@@ -1981,16 +1981,16 @@ var HouseNavBendiTxt = {
          <h2 class="title"> <a href="http://lady.163.com/">女人</a> <i>·</i> <a href="http://fashion.163.com/">时尚</a> </h2> 
         </div> 
         <div class="idx_cm_img"> 
-         <a href="http://lady.163.com/17/0615/09/CMV8LJ4300267VQQ.html"> <img src="http://imgsize.ph.126.net/?imgurl=http://cms-bucket.nosdn.127.net/29901e18db5f44699e3bfd984aecd9a220170615090759.jpeg_300x150x1x85.jpg" width="300" height="150" alt="女星“西装杀”帅起来男人都拼不过"> 
+         <a href="http://lady.163.com/17/0615/09/CMV8O9SF00267VQQ.html"> <img src="http://imgsize.ph.126.net/?imgurl=http://cms-bucket.nosdn.127.net/a6dc131dd7b04e58b66064df970fd6ba20170615152914.jpeg_300x150x1x85.jpg" width="300" height="150" alt="还是周冬雨的吊带裙好 实穿百搭还时髦"> 
           <div class="bg"> 
-           <h3>女星“西装杀”帅起来男人都拼不过</h3> 
+           <h3>还是周冬雨的吊带裙好 实穿百搭还时髦</h3> 
           </div> </a> 
         </div> 
         <ul class="mt12 idx_cm_list idx_cm_list_h"> 
-         <li> <a href="http://lady.163.com/photoview/78LH0026/109067.html#p=CMV7QTCD78LH0026">“邱莹莹”戏里戏外造型大对比</a> </li> 
-         <li> <a href="http://lady.163.com/17/0615/08/CMV6M0DD00267VQK.html">40岁的林心如20岁的脸 直播满屏“少女肌”</a> </li> 
-         <li> <a href="http://ent.163.com/photoview/00AJ0003/633514.html#p=CMU3CEQQ00AJ0003">戚薇梳哪吒头扮嫩 鼓“包子脸”卖萌</a> </li> 
-         <li> <a href="http://lady.163.com/17/0614/22/CMU613BU00268H02.html">吐槽姬：来聊聊《深夜食堂》没讲的午夜市井生活</a> </li> 
+         <li> <a href="http://lady.163.com/17/0615/23/CN0RTPHL00267VQQ.html">【2018春夏男装周】一场对大男孩的终极幻想！</a> </li> 
+         <li> <a href="http://fashion.163.com/17/0615/18/CN07Q6JG002694EC.html">王俊凯、胡歌、陈坤、靳东 男神扎堆米兰看秀！</a> </li> 
+         <li> <a href="http://fashion.163.com/photoview/3ONH0026/109083.html">满身Logo塑料瓶做鞋子西太后就给你不一样</a> </li> 
+         <li> <a href="http://fashion.163.com/photoview/3ONH0026/109082.html">老婆捧场儿子带货！贝克汉姆现身伦敦男装周</a> </li> 
         </ul> 
        </div> 
        <!-- 女人时尚 结束 --> 
@@ -2171,9 +2171,9 @@ var HouseNavBendiTxt = {
          <div class="bottomnews_main clearfix" ne-role="slide-page"> 
           <!-- 左 --> 
           <div class="bottomnews_main_bimg bottomnews_main_img"> 
-           <a href="http://news.163.com/photoview/00AO0001/2260923.html" target="_blank"> <img data-src="http://img3.cache.netease.com/photo/0001/2017-06-15/CMVH3IS000AO0001.jpg" width="100%"> </a> 
+           <a href="http://news.163.com/photoview/00AO0001/2261038.html" target="_blank"> <img data-src="http://img3.cache.netease.com/photo/0001/2017-06-15/CN0MTFVK00AO0001.jpg" width="100%"> </a> 
            <span class="bg"></span> 
-           <h2><a href="http://news.163.com/photoview/00AO0001/2260923.html" target="_blank">日本公司给宠物猫狗定做武士服 威风凛凛</a></h2> 
+           <h2><a href="http://news.163.com/photoview/00AO0001/2261038.html" target="_blank">伦敦大火已致17人遇难 公寓楼焦黑一片</a></h2> 
           </div> 
           <!-- 右 --> 
           <div class="bottomnews_main_r"> 
@@ -2184,9 +2184,9 @@ var HouseNavBendiTxt = {
              <h2><a href="http://news.163.com/photoview/00AN0001/2260843.html" target="_blank">中国首款时速160公里城际动车组试运营</a></h2> 
             </div> 
             <div class="bottomnews_main_simg bottomnews_main_img"> 
-             <a href="http://news.163.com/photoview/00AP0001/2260931.html" target="_blank"> <img data-src="http://img3.cache.netease.com/photo/0001/2017-06-15/CMVHKB1Q00AP0001.jpg" width="100%" height="100%" alt="$til"> </a> 
+             <a href="http://news.163.com/photoview/00AP0001/2261037.html" target="_blank"> <img data-src="http://img4.cache.netease.com/photo/0001/2017-06-15/CN0M8PNH00AP0001.jpg" width="100%" height="100%" alt="$til"> </a> 
              <span class="bg"></span> 
-             <h2><a href="http://news.163.com/photoview/00AP0001/2260931.html" target="_blank">醉驾司机等红灯时竟然睡着了</a></h2> 
+             <h2><a href="http://news.163.com/photoview/00AP0001/2261037.html" target="_blank">北京首现101号汽油 被戏称"超跑福利"</a></h2> 
             </div> 
            </div> 
           </div> 
@@ -2195,9 +2195,9 @@ var HouseNavBendiTxt = {
          <div class="bottomnews_main clearfix" ne-role="slide-page"> 
           <!-- 左 --> 
           <div class="bottomnews_main_bimg bottomnews_main_img"> 
-           <a href="http://news.163.com/photoview/00AO0001/2260922.html" target="_blank"> <img data-src="http://img4.cache.netease.com/photo/0001/2017-06-15/CMVGD8RH00AP0001.jpg" width="100%"> </a> 
+           <a href="http://news.163.com/photoview/00AO0001/2260984.html" target="_blank"> <img data-src="http://img3.cache.netease.com/photo/0001/2017-06-15/CN05O2PH00AO0001.jpg" width="100%"> </a> 
            <span class="bg"></span> 
-           <h2><a href="http://news.163.com/photoview/00AO0001/2260922.html" target="_blank">朴槿惠与崔顺实再次出庭受审 神情各异</a></h2> 
+           <h2><a href="http://news.163.com/photoview/00AO0001/2260984.html" target="_blank">泰男偷拍裙底被群殴:我想当色情片导演</a></h2> 
           </div> 
           <!-- 右 --> 
           <div class="bottomnews_main_r"> 
@@ -2208,9 +2208,9 @@ var HouseNavBendiTxt = {
              <h2><a href="http://news.163.com/photoview/00AN0001/2260668.html" target="_blank">"蛟龙"号完成中国大洋38航次最后一潜</a></h2> 
             </div> 
             <div class="bottomnews_main_simg bottomnews_main_img"> 
-             <a href="http://news.163.com/photoview/00AP0001/2260921.html" target="_blank"> <img data-src="http://img4.cache.netease.com/photo/0001/2017-06-15/CMVFL5M600AP0001.jpg" width="100%" height="100%" alt="$til"> </a> 
+             <a href="http://news.163.com/photoview/00AP0001/2261032.html" target="_blank"> <img data-src="http://img3.cache.netease.com/photo/0001/2017-06-15/CN0HOP6P00AP0001.jpg" width="100%" height="100%" alt="$til"> </a> 
              <span class="bg"></span> 
-             <h2><a href="http://news.163.com/photoview/00AP0001/2260921.html" target="_blank">杭州拆迁现场房屋整齐倒下似多米诺骨牌</a></h2> 
+             <h2><a href="http://news.163.com/photoview/00AP0001/2261032.html" target="_blank">老汉钓到1.5米长鲨鱼 用45分钟拉出水面</a></h2> 
             </div> 
            </div> 
           </div> 
@@ -2219,22 +2219,22 @@ var HouseNavBendiTxt = {
          <div class="bottomnews_main clearfix" ne-role="slide-page"> 
           <!-- 左 --> 
           <div class="bottomnews_main_bimg bottomnews_main_img"> 
-           <a href="http://news.163.com/photoview/00AO0001/2260917.html" target="_blank"> <img data-src="http://img4.cache.netease.com/photo/0001/2017-06-15/CMVEQORP00AO0001.jpg" width="100%"> </a> 
+           <a href="http://news.163.com/photoview/00AO0001/2260983.html" target="_blank"> <img data-src="http://img3.cache.netease.com/photo/0001/2017-06-15/CN04AVMG00AO0001.jpg" width="100%"> </a> 
            <span class="bg"></span> 
-           <h2><a href="http://news.163.com/photoview/00AO0001/2260917.html" target="_blank">特朗普偕第一夫人慰问枪击事件受害者</a></h2> 
+           <h2><a href="http://news.163.com/photoview/00AO0001/2260983.html" target="_blank">韩海军在"独岛"周边防御演习 日方抗议</a></h2> 
           </div> 
           <!-- 右 --> 
           <div class="bottomnews_main_r"> 
            <div class="bottomnews_main_simgs clearfix"> 
             <div class="bottomnews_main_simg bottomnews_main_img"> 
-             <a href="http://news.163.com/photoview/00AN0001/2260667.html" target="_blank"> <img data-src="http://img3.cache.netease.com/photo/0001/2017-06-14/CMSI05DC00AN0001.jpg" width="100%" height="100%" alt="$til"> </a> 
+             <a href="http://news.163.com/photoview/00AN0001/2260667.html" target="_blank"> <img data-src="http://img4.cache.netease.com/photo/0001/2017-06-14/CMSI05DC00AN0001.jpg" width="100%" height="100%" alt="$til"> </a> 
              <span class="bg"></span> 
              <h2><a href="http://news.163.com/photoview/00AN0001/2260667.html" target="_blank">南方暴雨下"众生相":市民雨中淡定拍照</a></h2> 
             </div> 
             <div class="bottomnews_main_simg bottomnews_main_img"> 
-             <a href="http://news.163.com/photoview/00AP0001/2260913.html" target="_blank"> <img data-src="http://img4.cache.netease.com/photo/0001/2017-06-15/CMVCAHGI00AP0001.jpg" width="100%" height="100%" alt="$til"> </a> 
+             <a href="http://news.163.com/photoview/00AP0001/2261005.html" target="_blank"> <img data-src="http://img3.cache.netease.com/photo/0001/2017-06-15/CN0CT6DC00AP0001.jpg" width="100%" height="100%" alt="$til"> </a> 
              <span class="bg"></span> 
-             <h2><a href="http://news.163.com/photoview/00AP0001/2260913.html" target="_blank">老人驼背90度 手术台为他垫1米高凳子</a></h2> 
+             <h2><a href="http://news.163.com/photoview/00AP0001/2261005.html" target="_blank">广西一客车翻落水库 造成2死19伤</a></h2> 
             </div> 
            </div> 
           </div> 
